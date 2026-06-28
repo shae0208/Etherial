@@ -1,0 +1,2537 @@
+{
+    "airon": {
+        "name": "Airon",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/airon.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 118,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Lighthouse",
+                "Alicorn"
+            ],
+            "sets": [
+                "Bloodbath / Strive / Swiftsmite",
+                "Bloodbath / Bloodbath / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "asal": {
+        "name": "Asal",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/asal.png?raw=true",
+        "element": "Green",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Ace Batter"
+            ],
+            "sets": [
+                "Swiftrush / Battlewill / Swiftraid"
+            ],
+            "mainstats": [
+                "CDMG / CRIT / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Asal",
+                "Palin",
+                "Valerian"
+            ],
+            "Team 2": [
+                "Asal",
+                "Palin",
+                "Sania"
+            ],
+            "Team 3": [
+                "Asal",
+                "Gianc",
+                "Palin"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "aya": {
+        "name": "Mizumi Aya",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/aya.png?raw=true",
+        "element": "Green",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 120,
+        "lattice": "1/5/1",
+        "build": {
+            "shells": [
+                "Reaper Steps",
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "batsby": {
+        "name": "Batsby",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/batsby.png?raw=true",
+        "element": "Blue",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 124,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "beyontin": {
+        "name": "Beyontin",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/beyontin.png?raw=true",
+        "element": "Red",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 118,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "borgne": {
+        "name": "Borgne",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/borgne.png?raw=true",
+        "element": "Blue",
+        "role": "Bruiser",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "bornova": {
+        "name": "Bornova",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/bornova.png?raw=true",
+        "element": "Green",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 123,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "celince": {
+        "name": "Celince",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/celince.png?raw=true",
+        "element": "Green",
+        "role": "Support/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 124,
+        "lattice": "4/5/5",
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Codex"
+            ],
+            "sets": [
+                "Wellspring / Bulwark / Swiftsmite",
+                "Bloodbath / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "diting": {
+        "name": "Lumiwarden Diting",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/giga%20diting.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/3/5",
+        "build": {
+            "shells": [
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Bloodbath / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "DEF / ACC / DEF"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "doki": {
+        "name": "DokiDoki",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/doki.png?raw=true",
+        "element": "Light",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/5/4",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Codex",
+                "Alicorn",
+                "Amber"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "DokiDoki",
+                "Lowan",
+                "Xuan Li"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "fiamelia": {
+        "name": "Fiamelia",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/fia.png?raw=true",
+        "element": "Light",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "4/5/5",
+        "build": {
+            "shells": [
+                "Halloween",
+                "Alicorn",
+                "Fortissimo"
+            ],
+            "sets": [
+                "Bloodbath / Bulwark / Etherplague",
+                "Bloodbath / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Fiamelia",
+                "Raymerry",
+                "Kethos"
+            ],
+            "Team 2": [
+                "Fiamelia",
+                "Sharon",
+                "Nathenn"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "freya": {
+        "name": "Freya",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/freya.png?raw=true",
+        "element": "Green",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "5/1/1",
+        "build": {
+            "shells": [
+                "Dark Moon",
+                "Jackal Guard",
+                "Codex"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "fuqui": {
+        "name": "Fuqui",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/fuqui.png?raw=true",
+        "element": "Green",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 119,
+        "lattice": "1/1/5",
+        "build": {
+            "shells": [
+                "Supernova"
+            ],
+            "sets": [
+                "Bloodbath / Bulwark / Evolguard",
+                "Wellspring / Bulwark / Evolguard"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "gianc": {
+        "name": "Gianc",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/gianc.png?raw=true",
+        "element": "Blue",
+        "role": "Bruiser",
+        "rarity": "SSR",
+        "base_speed": 119,
+        "lattice": "5/3/4",
+        "build": {
+            "shells": [
+                "Champion Gator",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Wellspring / Bulwark / Etherplague",
+                "Wellspring / Bramble / Etherplague",
+                "Wellspring / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Gianc",
+                "Asal",
+                "Palin"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "heinrich": {
+        "name": "Heinrich",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/heinrich.png?raw=true",
+        "element": "Dark",
+        "role": "Control/Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "helkid": {
+        "name": "Helkid",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/helkid.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 127,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "holden": {
+        "name": "Holden",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/holden.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/5/1",
+        "build": {
+            "shells": [
+                "Amber",
+                "Artisan"
+            ],
+            "sets": [
+                "Bloodbath / Strive / Colossguard",
+                "Bloodbath / Unbreakable / Colossguard"
+            ],
+            "mainstats": [
+                "DEF / CRIT / DEF/CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "hoyan": {
+        "name": "Hoyan",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/hoyan.png?raw=true",
+        "element": "Green",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 120,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "kethos": {
+        "name": "Kethos",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/kethos.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Control",
+        "rarity": "SSR",
+        "base_speed": 117,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Wellspring / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / CRIT / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Kethos",
+                "Raymerry",
+                "Fiamelia"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "khloros": {
+        "name": "Khloros",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/khloros.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "kloss": {
+        "name": "Kloss",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/kloss.png?raw=true",
+        "element": "Green",
+        "role": "Support/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 128,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "kokardi": {
+        "name": "Kokardi",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/kokardi.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "3/5/4",
+        "build": {
+            "shells": [
+                "Count"
+            ],
+            "sets": [
+                "Keeneye / Fury / Furyedge",
+                "Keeneye / Fury / Swiftraid",
+                "Bloodbath / Momentum / Furyedge"
+            ],
+            "mainstats": [
+                "ATK / CDMG / ATK/CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "lian": {
+        "name": "Lian",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/lian.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 121,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "liliam": {
+        "name": "Liliam",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/liliam.png?raw=true",
+        "element": "Dark",
+        "role": "Damage Dealer/Control",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "1/5/5",
+        "build": {
+            "shells": [
+                "Tiger Yin",
+                "Law of Silence"
+            ],
+            "sets": [
+                "Keeneye / Harvest / Furyedge",
+                "Bloodbath / Harvest / Swiftraid"
+            ],
+            "mainstats": [
+                "CDMG / CRIT / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "lilith": {
+        "name": "Lilith",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/lilith.png?raw=true",
+        "element": "Green",
+        "role": "Bruiser/Control",
+        "rarity": "SSR",
+        "base_speed": 121,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Amber"
+            ],
+            "sets": [
+                "Wellspring / Bulwark / Swiftsmite",
+                "Bloodbath / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "lily": {
+        "name": "Lily",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/lily.png?raw=true",
+        "element": "Dark",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 127,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Amber",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite",
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "lingluo": {
+        "name": "Lingluo",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/lingluo.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Gigabyte",
+                "Lighthouse"
+            ],
+            "sets": [
+                "Bloodbath / Bulwark / Evolguard",
+                "Bloodbath / Swiftrush / Evolguard"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "lowan": {
+        "name": "Lowan",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/lowan.png?raw=true",
+        "element": "Dark",
+        "role": "Bruiser/Control",
+        "rarity": "SSR",
+        "base_speed": 123,
+        "lattice": "5/3/5",
+        "build": {
+            "shells": [
+                "Amber",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Bloodbath / Swiftsmite"
+            ],
+            "mainstats": [
+                "DEF / CRIT / DEF/CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Lowan",
+                "Xuan Li",
+                "Dokidoki"
+            ],
+            "Team 2": [
+                "Lowan",
+                "Luvia",
+                "Valerian"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "luvia": {
+        "name": "Luvia",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/luvia.jpg?raw=true",
+        "element": "Blue",
+        "role": "Control/DoT",
+        "rarity": "SSR",
+        "base_speed": 127,
+        "lattice": "4/5/5",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Amber"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Luvia",
+                "Lowan",
+                "Valerian"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "massiah": {
+        "name": "Massiah",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/massiah.png?raw=true",
+        "element": "Light",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 117,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Count"
+            ],
+            "sets": [
+                "Momentum / Fury / Furyedge",
+                "Momentum / Fury / Swiftraid"
+            ],
+            "mainstats": [
+                "CDMG / ATK / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "mia": {
+        "name": "Mia",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/mia.png?raw=true",
+        "element": "Red",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 121,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "mio": {
+        "name": "Mio",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/mio.png?raw=true",
+        "element": "Light",
+        "role": "Control",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Codex",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC / HP / ACC"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "nahor": {
+        "name": "Nahor",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/nahor.png?raw=true",
+        "element": "Blue",
+        "role": "Control",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Codex",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC / HP / ACC"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "nathenn": {
+        "name": "Nathenn",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/nathenn.JPG?raw=true",
+        "element": "Green",
+        "role": "Bruiser/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Wellspring / Swiftrush / Swiftsmite",
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / CRIT / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Nathenn",
+                "Sharon",
+                "Fiamelia"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "nevette": {
+        "name": "Nevette",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/nevette.png?raw=true",
+        "element": "Green",
+        "role": "Control",
+        "rarity": "SSR",
+        "base_speed": 126,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Codex",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC / HP / ACC"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "ninfoniel": {
+        "name": "Ninfoniel",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/ninfoniel.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "palin": {
+        "name": "Palin",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/palin.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "5/1/5",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Amber"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Palin",
+                "Asal",
+                "Valerian"
+            ],
+            "Team 2": [
+                "Palin",
+                "Asal",
+                "Sania"
+            ],
+            "Team 3": [
+                "Palin",
+                "Asal",
+                "Gianc"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "plume": {
+        "name": "Plume",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/plume.png?raw=true",
+        "element": "Dark",
+        "role": "Support/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 129,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Amber",
+                "Jackal Guard",
+                "Codex"
+            ],
+            "sets": [
+                "Bloodbath / Swiftrush / Swiftsmite",
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC / HP / ACC"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Plume",
+                "Tiamat",
+                "Sania"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "qano": {
+        "name": "Qano",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/qano.png?raw=true",
+        "element": "Blue",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 121,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "rahu": {
+        "name": "Rahu",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/rahu.png?raw=true",
+        "element": "Green",
+        "role": "Bruiser/Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 117,
+        "lattice": "4/5/5",
+        "build": {
+            "shells": [
+                "Doom Crow"
+            ],
+            "sets": [
+                "Bloodbath / Bramble / Furyedge"
+            ],
+            "mainstats": [
+                "CDMG / DEF / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "raymerry": {
+        "name": "Raymerry",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/reymerry.png?raw=true",
+        "element": "Light",
+        "role": "Bruiser/Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 118,
+        "lattice": "5/5/4",
+        "build": {
+            "shells": [
+                "Champion Gator",
+                "Amber"
+            ],
+            "sets": [
+                "Wellspring / Bramble / Etherplague",
+                "Bloodbath / Bramble / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / CRIT / HP"
+            ],
+            "substats": [
+                "Crit rate",
+                "Crit damage",
+                "HP",
+                "Speed"
+            ]
+        },
+        "counters": [
+            "Nathenn",
+            "Sharon"
+        ],
+        "teams": {
+            "Team 1": [
+                "Raymerry",
+                "Kethos",
+                "Fiamelia"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "rilmocha": {
+        "name": "Rilmocha",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/rilmocha.png?raw=true",
+        "element": "Green",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 118,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "rosa": {
+        "name": "Rosa",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/rosa.png?raw=true",
+        "element": "Blue",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 116,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Revelation"
+            ],
+            "sets": [
+                "Momentum / Fury / Furyedge",
+                "Momentum / Fury / Swiftraid"
+            ],
+            "mainstats": [
+                "CDMG / ATK / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "sania": {
+        "name": "Sania",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/sania.png?raw=true",
+        "element": "Green",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 124,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Gigabyte",
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Bloodbath / Swiftrush / Evolguard",
+                "Bloodbath / Strive / Evolguard"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Sania",
+                "Asal",
+                "Palin"
+            ],
+            "Team 2": [
+                "Sania",
+                "Tiamat",
+                "Plume"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 1
+        },
+        "speed_priority": 1
+    },
+    "santik": {
+        "name": "Santik",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/santik.png?raw=true",
+        "element": "Red",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 124,
+        "lattice": "5/4/5",
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Alicorn",
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite",
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "senyu": {
+        "name": "Senyu",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/senyu.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 128,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Revelation"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "shadow sania": {
+        "name": "Shadow Sania",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/shadow%20sania.png?raw=true",
+        "element": "Dark",
+        "role": "Damage Dealer/DoT",
+        "rarity": "SSR",
+        "base_speed": 115,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "sharon": {
+        "name": "Sharon",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/sharon.png?raw=true",
+        "element": "Dark",
+        "role": "Bruiser/DoT",
+        "rarity": "SSR",
+        "base_speed": 124,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Wellspring / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP/ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Sharon",
+                "Nathenn",
+                "Fiamelia"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    },
+    "sylph": {
+        "name": "Sylph",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/sylph.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 111,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Gigabyte",
+                "Jackal Guard",
+                "Alicorn"
+            ],
+            "sets": [
+                "Bloodbath / Strive / Evolguard",
+                "Bloodbath / Swiftrush / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP/RES / HP / HP/RES"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 1
+        },
+        "speed_priority": 1
+    },
+    "sylvia": {
+        "name": "Sylvia",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/sylvia.JPG?raw=true",
+        "element": "Red",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "5/3/5",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Amber"
+            ],
+            "sets": [
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 2
+        },
+        "speed_priority": 2
+    },
+    "tiamat": {
+        "name": "Tiamat",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/tiamat.png?raw=true",
+        "element": "Blue",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 117,
+        "lattice": "4/1/5",
+        "build": {
+            "shells": [
+                "Amber",
+                "Champion Gator"
+            ],
+            "sets": [
+                "Bloodbath / Bramble / Swiftsmite",
+                "Wellspring / Bramble / Etherplague"
+            ],
+            "mainstats": [
+                "HP / CRIT / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Tiamat",
+                "Plume",
+                "Sania"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "tsukiyo mi": {
+        "name": "Tsukiyo Mi",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/tsukiyo.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "Codex",
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "DEF / HP / DEF"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "turandot": {
+        "name": "Turandot",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/turandot.png?raw=true",
+        "element": "Red",
+        "role": "Support/Buffer",
+        "rarity": "SR",
+        "base_speed": 131,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Codex"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite",
+                "Swiftrush / Strive / Swiftsmite"
+            ],
+            "mainstats": [
+                "HP / ACC / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 1
+        },
+        "speed_priority": 1
+    },
+    "valerian": {
+        "name": "Valerian",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/valerian.png?raw=true",
+        "element": "Light",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 119,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Gigabyte"
+            ],
+            "sets": [
+                "Wellspring / Cure / Etherplague",
+                "Wellspring / Bulwark / Etherplague"
+            ],
+            "mainstats": [
+                "HP / HP / HP"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Valerian",
+                "Asal",
+                "Palin"
+            ],
+            "Team 2": [
+                "Valerian",
+                "Luvia",
+                "Lowan"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 1
+        },
+        "speed_priority": 1
+    },
+    "veronika": {
+        "name": "Veronika",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/veronika.png?raw=true",
+        "element": "Red",
+        "role": "Support/Buffer",
+        "rarity": "SSR",
+        "base_speed": 117,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "xiada": {
+        "name": "Xiada",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/xiada.png?raw=true",
+        "element": "Blue",
+        "role": "Bruiser/Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 120,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "xuan chi": {
+        "name": "Xuan Chi",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/xuan%20chi.png?raw=true",
+        "element": "Light",
+        "role": "Bruiser/Debuffer",
+        "rarity": "SSR",
+        "base_speed": 120,
+        "lattice": "4/5/5",
+        "build": {
+            "shells": [
+                "Amber",
+                "Artisan"
+            ],
+            "sets": [
+                "Bloodbath / Strive / Swiftsmite",
+                "Bloodbath / Swiftrush / Colossguard"
+            ],
+            "mainstats": [
+                "DEF / CRIT / DEF/CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "xuan li": {
+        "name": "Xuan Li",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/xuan%20li.png?raw=true",
+        "element": "Dark",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 122,
+        "lattice": "5/4/5",
+        "build": {
+            "shells": [
+                "Doom Crow"
+            ],
+            "sets": [
+                "Bloodbath / Swiftrush / Furyedge",
+                "Bloodbath / Bramble / Furyedge"
+            ],
+            "mainstats": [
+                "CDMG / DEF / CDMG/DEF"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Xuan Li",
+                "Lowan",
+                "Dokidoki"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "yeli": {
+        "name": "Yeli",
+        "image": "https://github.com/shae0208/Etherial/blob/main/images/yeli.png?raw=true",
+        "element": "Light",
+        "role": "Damage Dealer",
+        "rarity": "SSR",
+        "base_speed": 120,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Revelation"
+            ],
+            "sets": [
+                "Momentum / Fury / Furyedge",
+                "Momentum / Fury / Swiftraid"
+            ],
+            "mainstats": [
+                "CDMG / ATK / CDMG"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
+    }
+}
