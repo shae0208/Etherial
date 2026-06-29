@@ -1,33 +1,39 @@
-import json
-from pathlib import Path
-from typing import Any, Dict, List
+import os
+from typing import Any, Dict, Optional
+
+import discord
 
 
 class SubmitService:
     @staticmethod
-    def get_submission_path(storage_path: str | Path | None = None) -> Path:
-        if storage_path is not None:
-            return Path(storage_path)
+    def resolve_owner_id(bot: Optional[discord.Client] = None, owner_id: Optional[int] = None) -> Optional[int]:
+        if owner_id is not None:
+            return int(owner_id)
 
-        return Path(__file__).resolve().parent.parent / "data" / "submissions.json"
+        if bot is not None:
+            if getattr(bot, "owner_id", None):
+                return int(bot.owner_id)
+
+            application = getattr(bot, "application", None)
+            owner = getattr(application, "owner", None)
+            if owner is not None:
+                return int(owner.id)
+
+        env_id = os.getenv("OWNER_DISCORD_ID") or os.getenv("OWNER_USER_ID")
+        if env_id:
+            try:
+                return int(env_id)
+            except ValueError:
+                return None
+
+        return None
 
     @staticmethod
-    def load_submissions(storage_path: str | Path | None = None) -> List[Dict[str, Any]]:
-        path = SubmitService.get_submission_path(storage_path)
-        if not path.exists():
-            return []
-
-        with path.open("r", encoding="utf-8") as handle:
-            data = json.load(handle)
-
-        return data if isinstance(data, list) else []
-
-    @staticmethod
-    def add_submission(submission: Dict[str, Any], storage_path: str | Path | None = None) -> Dict[str, Any]:
-        path = SubmitService.get_submission_path(storage_path)
-        path.parent.mkdir(parents=True, exist_ok=True)
-
-        submissions = SubmitService.load_submissions(storage_path=path)
+    async def add_submission(
+        submission: Dict[str, Any],
+        bot: Optional[discord.Client] = None,
+        owner_id: Optional[int] = None,
+    ) -> Dict[str, Any]:
         payload = {
             "animus": submission.get("animus", "").strip(),
             "path": submission.get("path", "").strip(),
@@ -36,10 +42,35 @@ class SubmitService:
             "submitted_by": submission.get("submitted_by", "Unknown").strip() or "Unknown",
         }
 
-        submissions.append(payload)
+        target_id = SubmitService.resolve_owner_id(bot=bot, owner_id=owner_id)
+        delivered = False
 
-        with path.open("w", encoding="utf-8") as handle:
-            json.dump(submissions, handle, indent=2)
-            handle.write("\n")
+        if target_id is not None and bot is not None:
+            try:
+                user = bot.get_user(target_id)
+                if user is None:
+                    user = await bot.fetch_user(target_id)
 
-        return {"status": "queued", "submission": payload}
+                if user is not None:
+                    embed = discord.Embed(
+                        title="New Animus Suggestion",
+                        description="A new suggestion form submission was received.",
+                        color=discord.Color.blurple(),
+                    )
+                    embed.add_field(name="Submitted by", value=payload["submitted_by"], inline=False)
+                    embed.add_field(name="Animus", value=payload["animus"] or "Unknown", inline=False)
+                    embed.add_field(name="Field", value=payload["path"] or "Unknown", inline=False)
+                    embed.add_field(name="Suggested value", value=payload["value"] or "No value provided", inline=False)
+                    if payload["reason"]:
+                        embed.add_field(name="Reason", value=payload["reason"], inline=False)
+
+                    await user.send(embed=embed)
+                    delivered = True
+            except Exception:
+                delivered = False
+
+        return {
+            "status": "queued" if delivered else "queued_pending_dm",
+            "submission": payload,
+            "delivered": delivered,
+        }

@@ -44,11 +44,18 @@ class SubmitModal(discord.ui.Modal, title="Suggest Animus Update"):
             "submitted_by": str(interaction.user),
         }
 
-        result = SubmitService.add_submission(submission)
-        await interaction.response.send_message(
-            "Your suggestion has been queued for review. Thanks for helping improve the data!",
-            ephemeral=True,
-        )
+        result = await SubmitService.add_submission(submission, bot=self.bot)
+        
+        if result.get("delivered"):
+            await interaction.response.send_message(
+                "Your suggestion has been sent directly to the owner for review. Thanks for helping improve the data!",
+                ephemeral=True,
+            )
+        else:
+            await interaction.response.send_message(
+                "Your suggestion was received, but I could not reach the owner through Discord DMs right now. Please try again later.",
+                ephemeral=True,
+            )
 
 
 class SubmitCog(commands.Cog):
