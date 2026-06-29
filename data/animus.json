@@ -1,7 +1,7 @@
 {
     "airon": {
         "name": "Airon",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/airon.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/airon.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -44,7 +44,7 @@
     },
     "asal": {
         "name": "Asal",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/asal.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/asal.png?raw=true",
         "element": "Green",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -61,7 +61,10 @@
                 "CDMG / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -70,13 +73,13 @@
         "teams": {
             "Team 1": [
                 "Asal",
-                "Palin",
-                "Valerian"
+                "Sania",
+                "Fuqui"
             ],
             "Team 2": [
                 "Asal",
-                "Palin",
-                "Sania"
+                "Xuan Chi",
+                "Valerian"
             ],
             "Team 3": [
                 "Asal",
@@ -91,7 +94,7 @@
     },
     "aya": {
         "name": "Mizumi Aya",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/aya.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/aya.png?raw=true",
         "element": "Green",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -109,21 +112,30 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Holden"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Mizumi Aya",
+                "Kethos",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Mizumi Aya",
+                "Kokardi",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Mizumi Aya",
+                "Gianc",
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -133,7 +145,7 @@
     },
     "batsby": {
         "name": "Batsby",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/batsby.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/batsby.png?raw=true",
         "element": "Blue",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -174,7 +186,7 @@
     },
     "beyontin": {
         "name": "Beyontin",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/beyontin.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/beyontin.png?raw=true",
         "element": "Red",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -215,7 +227,7 @@
     },
     "borgne": {
         "name": "Borgne",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/borgne.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/borgne.png?raw=true",
         "element": "Blue",
         "role": "Bruiser",
         "rarity": "SSR",
@@ -256,7 +268,7 @@
     },
     "bornova": {
         "name": "Bornova",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/bornova.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/bornova.png?raw=true",
         "element": "Green",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -297,7 +309,7 @@
     },
     "celince": {
         "name": "Celince",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/celince.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/celince.png?raw=true",
         "element": "Green",
         "role": "Support/Debuffer",
         "rarity": "SSR",
@@ -316,7 +328,10 @@
                 "HP / ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -324,7 +339,9 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Celince",
+                "Holden",
+                "Sylph"
             ],
             "Team 2": [
                 "TBD"
@@ -340,7 +357,7 @@
     },
     "diting": {
         "name": "Lumiwarden Diting",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/giga%20diting.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga%20diting.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -365,10 +382,14 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Lumiwarden Diting",
+                "Lowan",
+                "Valerian"
             ],
             "Team 2": [
-                "TBD"
+                "Lumiwarden Diting",
+                "Lowan",
+                "Sylph"
             ],
             "Team 3": [
                 "TBD"
@@ -380,8 +401,8 @@
         "speed_priority": 3
     },
     "doki": {
-        "name": "DokiDoki",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/doki.png?raw=true",
+        "name": "Dokidoki",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/doki.png?raw=true",
         "element": "Light",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -401,23 +422,37 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Mio",
+            "Nahor",
+            "Holden"
         ],
         "teams": {
             "Team 1": [
-                "DokiDoki",
+                "Dokidoki",
                 "Lowan",
                 "Xuan Li"
             ],
             "Team 2": [
-                "TBD"
+                "Dokidoki",
+                "Gianc",
+                "Xuan Li"
             ],
             "Team 3": [
-                "TBD"
+                "Dokidoki",
+                "Kokardi",
+                "Fuqui"
+            ],
+            "Team 4": [
+                "Dokidoki",
+                "Rahu",
+                "Fuqui"
             ]
         },
         "draft": {
@@ -427,7 +462,7 @@
     },
     "fiamelia": {
         "name": "Fiamelia",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/fia.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fia.png?raw=true",
         "element": "Light",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -447,25 +482,33 @@
                 "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Nathenn",
+            "Celince",
+            "Lowan"
         ],
         "teams": {
             "Team 1": [
                 "Fiamelia",
-                "Raymerry",
-                "Kethos"
+                "Nathenn",
+                "Raymerry"
             ],
             "Team 2": [
                 "Fiamelia",
-                "Sharon",
-                "Nathenn"
+                "Kethos",
+                "Raymerry"
             ],
             "Team 3": [
-                "TBD"
+                "Fiamelia",
+                "Raymerry",
+                "Lowan"
             ]
         },
         "draft": {
@@ -475,7 +518,7 @@
     },
     "freya": {
         "name": "Freya",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/freya.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/freya.png?raw=true",
         "element": "Green",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -494,7 +537,10 @@
                 "HP / ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -518,7 +564,7 @@
     },
     "fuqui": {
         "name": "Fuqui",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/fuqui.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fuqui.png?raw=true",
         "element": "Green",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -536,21 +582,35 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Holden"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Fuqui",
+                "Asal",
+                "Sania"
             ],
             "Team 2": [
-                "TBD"
+                "Fuqui",
+                "Kokardi",
+                "Dokidoki"
             ],
             "Team 3": [
-                "TBD"
+                "Fuqui",
+                "Rahu",
+                "Dokidoki"
+            ],
+            "Team 4": [
+                "Fuqui",
+                "Rahu",
+                "Santik"
             ]
         },
         "draft": {
@@ -560,7 +620,7 @@
     },
     "gianc": {
         "name": "Gianc",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/gianc.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/gianc.png?raw=true",
         "element": "Blue",
         "role": "Bruiser",
         "rarity": "SSR",
@@ -593,10 +653,14 @@
                 "Palin"
             ],
             "Team 2": [
-                "TBD"
+                "Gianc",
+                "Xuan Li",
+                "Dokidoki"
             ],
             "Team 3": [
-                "TBD"
+                "Gianc",
+                "Xuan Li",
+                "Mizumi Aya"
             ]
         },
         "draft": {
@@ -606,7 +670,7 @@
     },
     "heinrich": {
         "name": "Heinrich",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/heinrich.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/heinrich.png?raw=true",
         "element": "Dark",
         "role": "Control/Damage Dealer",
         "rarity": "SSR",
@@ -647,7 +711,7 @@
     },
     "helkid": {
         "name": "Helkid",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/helkid.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/helkid.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -688,7 +752,7 @@
     },
     "holden": {
         "name": "Holden",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/holden.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/holden.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
@@ -707,21 +771,30 @@
                 "DEF / CRIT / DEF/CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "Speed",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Celince"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Holden",
+                "Lilith",
+                "Lingluo"
             ],
             "Team 2": [
-                "TBD"
+                "Holden",
+                "Tiamat",
+                "Lingluo"
             ],
             "Team 3": [
-                "TBD"
+                "Holden",
+                "Celince",
+                "Sylph"
             ]
         },
         "draft": {
@@ -731,7 +804,7 @@
     },
     "hoyan": {
         "name": "Hoyan",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/hoyan.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/hoyan.png?raw=true",
         "element": "Green",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -752,7 +825,7 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Celince"
         ],
         "teams": {
             "Team 1": [
@@ -772,7 +845,7 @@
     },
     "kethos": {
         "name": "Kethos",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/kethos.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kethos.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Control",
         "rarity": "SSR",
@@ -790,7 +863,10 @@
                 "HP / CRIT / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Crit rate",
+                "Crit damage",
+                "HP"
             ]
         },
         "counters": [
@@ -799,14 +875,28 @@
         "teams": {
             "Team 1": [
                 "Kethos",
+                "Luvia",
+                "Xuan Chi"
+            ],
+            "Team 2": [
+                "Kethos",
                 "Raymerry",
                 "Fiamelia"
             ],
-            "Team 2": [
-                "TBD"
-            ],
             "Team 3": [
-                "TBD"
+                "Kethos",
+                "Raymerry",
+                "Mizumi Aya"
+            ],
+            "Team 4": [
+                "Kethos",
+                "Rahu",
+                "Sania"
+            ],
+            "Team 5": [
+                "Kethos",
+                "Raymerry",
+                "Sania"
             ]
         },
         "draft": {
@@ -816,7 +906,7 @@
     },
     "khloros": {
         "name": "Khloros",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/khloros.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/khloros.png?raw=true",
         "element": "Red",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -857,7 +947,7 @@
     },
     "kloss": {
         "name": "Kloss",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/kloss.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kloss.png?raw=true",
         "element": "Green",
         "role": "Support/Debuffer",
         "rarity": "SSR",
@@ -898,7 +988,7 @@
     },
     "kokardi": {
         "name": "Kokardi",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/kokardi.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kokardi.png?raw=true",
         "element": "Red",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -921,14 +1011,18 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Celince"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Kokardi",
+                "Mizumi Aya",
+                "Valerian"
             ],
             "Team 2": [
-                "TBD"
+                "Kokardi",
+                "Fuqui",
+                "Dokidoki"
             ],
             "Team 3": [
                 "TBD"
@@ -941,7 +1035,7 @@
     },
     "lian": {
         "name": "Lian",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/lian.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lian.png?raw=true",
         "element": "Red",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -982,7 +1076,7 @@
     },
     "liliam": {
         "name": "Liliam",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/liliam.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/liliam.png?raw=true",
         "element": "Dark",
         "role": "Damage Dealer/Control",
         "rarity": "SSR",
@@ -1001,11 +1095,14 @@
                 "CDMG / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
-            "TBD"
+            "Hoyan"
         ],
         "teams": {
             "Team 1": [
@@ -1025,7 +1122,7 @@
     },
     "lilith": {
         "name": "Lilith",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/lilith.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lilith.png?raw=true",
         "element": "Green",
         "role": "Bruiser/Control",
         "rarity": "SSR",
@@ -1052,7 +1149,9 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Lilith",
+                "Holden",
+                "Lingluo"
             ],
             "Team 2": [
                 "TBD"
@@ -1068,7 +1167,7 @@
     },
     "lily": {
         "name": "Lily",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/lily.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lily.png?raw=true",
         "element": "Dark",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -1087,7 +1186,10 @@
                 "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Accuracy",
+                "DEF"
             ]
         },
         "counters": [
@@ -1095,7 +1197,9 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Lily",
+                "Nathenn",
+                "Sylvia"
             ],
             "Team 2": [
                 "TBD"
@@ -1111,7 +1215,7 @@
     },
     "lingluo": {
         "name": "Lingluo",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/lingluo.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lingluo.png?raw=true",
         "element": "Blue",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -1130,7 +1234,10 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
@@ -1138,13 +1245,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Lingluo",
+                "Tiamat",
+                "Plume"
             ],
             "Team 2": [
-                "TBD"
+                "Lingluo",
+                "Holden",
+                "Lilith"
             ],
             "Team 3": [
-                "TBD"
+                "Lingluo",
+                "Holden",
+                "Tiamat"
             ]
         },
         "draft": {
@@ -1154,7 +1267,7 @@
     },
     "lowan": {
         "name": "Lowan",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/lowan.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lowan.png?raw=true",
         "element": "Dark",
         "role": "Bruiser/Control",
         "rarity": "SSR",
@@ -1172,25 +1285,50 @@
                 "DEF / CRIT / DEF/CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "Speed",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Kokardi"
         ],
         "teams": {
             "Team 1": [
                 "Lowan",
-                "Xuan Li",
-                "Dokidoki"
+                "Raymerry",
+                "Fiamelia"
             ],
             "Team 2": [
                 "Lowan",
-                "Luvia",
+                "Xuan Li",
                 "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Lowan",
+                "Lumiwarden Diting",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Lowan",
+                "Xuan Li",
+                "Dokidoki"
+            ],
+            "Team 5": [
+                "Lowan",
+                "Rahu",
+                "Sania"
+            ],
+            "Team 6": [
+                "Lowan",
+                "Lumiwarden Diting",
+                "Sylph"
+            ],
+            "Team 7": [
+                "Lowan",
+                "Rahu",
+                "Sylph"
             ]
         },
         "draft": {
@@ -1200,7 +1338,7 @@
     },
     "luvia": {
         "name": "Luvia",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/luvia.jpg?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/luvia.jpg?raw=true",
         "element": "Blue",
         "role": "Control/DoT",
         "rarity": "SSR",
@@ -1218,7 +1356,10 @@
                 "HP / ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "Resilience"
             ]
         },
         "counters": [
@@ -1227,14 +1368,18 @@
         "teams": {
             "Team 1": [
                 "Luvia",
-                "Lowan",
-                "Valerian"
+                "Sharon",
+                "Xuan Chi"
             ],
             "Team 2": [
-                "TBD"
+                "Luvia",
+                "Sharon",
+                "Sylvia"
             ],
             "Team 3": [
-                "TBD"
+                "Luvia",
+                "Kethos",
+                "Xuan Chi"
             ]
         },
         "draft": {
@@ -1244,7 +1389,7 @@
     },
     "massiah": {
         "name": "Massiah",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/massiah.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/massiah.png?raw=true",
         "element": "Light",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -1262,7 +1407,10 @@
                 "CDMG / ATK / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -1286,7 +1434,7 @@
     },
     "mia": {
         "name": "Mia",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/mia.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mia.png?raw=true",
         "element": "Red",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -1327,7 +1475,7 @@
     },
     "mio": {
         "name": "Mio",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/mio.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mio.png?raw=true",
         "element": "Light",
         "role": "Control",
         "rarity": "SSR",
@@ -1345,11 +1493,14 @@
                 "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam"
         ],
         "teams": {
             "Team 1": [
@@ -1369,7 +1520,7 @@
     },
     "nahor": {
         "name": "Nahor",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/nahor.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nahor.png?raw=true",
         "element": "Blue",
         "role": "Control",
         "rarity": "SSR",
@@ -1387,11 +1538,14 @@
                 "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam"
         ],
         "teams": {
             "Team 1": [
@@ -1411,7 +1565,7 @@
     },
     "nathenn": {
         "name": "Nathenn",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/nathenn.JPG?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nathenn.JPG?raw=true",
         "element": "Green",
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
@@ -1430,7 +1584,10 @@
                 "HP / CRIT / HP"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "HP",
+                "Speed"
             ]
         },
         "counters": [
@@ -1439,14 +1596,18 @@
         "teams": {
             "Team 1": [
                 "Nathenn",
-                "Sharon",
+                "Raymerry",
                 "Fiamelia"
             ],
             "Team 2": [
-                "TBD"
+                "Nathenn",
+                "Lily",
+                "Sylvia"
             ],
             "Team 3": [
-                "TBD"
+                "Nathenn",
+                "Raymerry",
+                "Sania"
             ]
         },
         "draft": {
@@ -1456,7 +1617,7 @@
     },
     "nevette": {
         "name": "Nevette",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/nevette.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nevette.png?raw=true",
         "element": "Green",
         "role": "Control",
         "rarity": "SSR",
@@ -1474,7 +1635,10 @@
                 "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -1498,7 +1662,7 @@
     },
     "ninfoniel": {
         "name": "Ninfoniel",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/ninfoniel.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/ninfoniel.png?raw=true",
         "element": "Blue",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -1539,7 +1703,7 @@
     },
     "palin": {
         "name": "Palin",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/palin.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/palin.png?raw=true",
         "element": "Blue",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -1557,7 +1721,10 @@
                 "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
@@ -1567,17 +1734,13 @@
             "Team 1": [
                 "Palin",
                 "Asal",
-                "Valerian"
+                "Gianc"
             ],
             "Team 2": [
-                "Palin",
-                "Asal",
-                "Sania"
+                "TBD"
             ],
             "Team 3": [
-                "Palin",
-                "Asal",
-                "Gianc"
+                "TBD"
             ]
         },
         "draft": {
@@ -1587,7 +1750,7 @@
     },
     "plume": {
         "name": "Plume",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/plume.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/plume.png?raw=true",
         "element": "Dark",
         "role": "Support/Debuffer",
         "rarity": "SSR",
@@ -1607,11 +1770,17 @@
                 "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Fuqui",
+            "Tiamat",
+            "Raymerry",
+            "Celince"
         ],
         "teams": {
             "Team 1": [
@@ -1620,10 +1789,14 @@
                 "Sania"
             ],
             "Team 2": [
-                "TBD"
+                "Plume",
+                "Raymerry",
+                "Sania"
             ],
             "Team 3": [
-                "TBD"
+                "Plume",
+                "Tiamat",
+                "Lingluo"
             ]
         },
         "draft": {
@@ -1633,7 +1806,7 @@
     },
     "qano": {
         "name": "Qano",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/qano.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/qano.png?raw=true",
         "element": "Blue",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -1674,7 +1847,7 @@
     },
     "rahu": {
         "name": "Rahu",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/rahu.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rahu.png?raw=true",
         "element": "Green",
         "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
@@ -1691,21 +1864,40 @@
                 "CDMG / DEF / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "DEF",
+                "Speed"
             ]
         },
         "counters": [
-            "TBD"
+            "Celince"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Rahu",
+                "Kethos",
+                "Sania"
             ],
             "Team 2": [
-                "TBD"
+                "Rahu",
+                "Lowan",
+                "Sania"
             ],
             "Team 3": [
-                "TBD"
+                "Rahu",
+                "Lowan",
+                "Sylph"
+            ],
+            "Team 4": [
+                "Rahu",
+                "Fuqui",
+                "Dokidoki"
+            ],
+            "Team 5": [
+                "Rahu",
+                "Santik",
+                "Fuqui"
             ]
         },
         "draft": {
@@ -1715,7 +1907,7 @@
     },
     "raymerry": {
         "name": "Raymerry",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/reymerry.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/reymerry.png?raw=true",
         "element": "Light",
         "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
@@ -1741,20 +1933,47 @@
             ]
         },
         "counters": [
-            "Nathenn",
-            "Sharon"
+            "Mio",
+            "Lowan",
+            "Celince",
+            "Fuqui",
+            "Veronika"
         ],
         "teams": {
             "Team 1": [
                 "Raymerry",
-                "Kethos",
+                "Nathenn",
                 "Fiamelia"
             ],
             "Team 2": [
-                "TBD"
+                "Raymerry",
+                "Nathenn",
+                "Sania"
             ],
             "Team 3": [
-                "TBD"
+                "Raymerry",
+                "Kethos",
+                "Fiamelia"
+            ],
+            "Team 4": [
+                "Raymerry",
+                "Lowan",
+                "Fiamelia"
+            ],
+            "Team 5": [
+                "Raymerry",
+                "Xuan Chi",
+                "Sania"
+            ],
+            "Team 6": [
+                "Raymerry",
+                "Plume",
+                "Sania"
+            ],
+            "Team 7": [
+                "Raymerry",
+                "Kethos",
+                "Sania"
             ]
         },
         "draft": {
@@ -1764,7 +1983,7 @@
     },
     "rilmocha": {
         "name": "Rilmocha",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/rilmocha.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rilmocha.png?raw=true",
         "element": "Green",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -1805,7 +2024,7 @@
     },
     "rosa": {
         "name": "Rosa",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/rosa.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rosa.png?raw=true",
         "element": "Blue",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -1823,7 +2042,10 @@
                 "CDMG / ATK / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -1847,7 +2069,7 @@
     },
     "sania": {
         "name": "Sania",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/sania.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sania.png?raw=true",
         "element": "Green",
         "role": "Support/Healer",
         "rarity": "SR",
@@ -1866,25 +2088,65 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Celince"
         ],
         "teams": {
             "Team 1": [
                 "Sania",
-                "Asal",
-                "Palin"
+                "Nathenn",
+                "Raymerry"
             ],
             "Team 2": [
+                "Sania",
+                "Xuan Chi",
+                "Xuan Li"
+            ],
+            "Team 3": [
+                "Sania",
+                "Asal",
+                "Fuqui"
+            ],
+            "Team 4": [
+                "Sania",
+                "Sharon",
+                "Xuan Chi"
+            ],
+            "Team 5": [
+                "Sania",
+                "Raymerry",
+                "Xuan Chi"
+            ],
+            "Team 6": [
                 "Sania",
                 "Tiamat",
                 "Plume"
             ],
-            "Team 3": [
-                "TBD"
+            "Team 7": [
+                "Sania",
+                "Raymerry",
+                "Plume"
+            ],
+            "Team 8": [
+                "Sania",
+                "Rahu",
+                "Kethos"
+            ],
+            "Team 9": [
+                "Sania",
+                "Rahu",
+                "Lowan"
+            ],
+            "Team 10": [
+                "Sania",
+                "Raymerry",
+                "Kethos"
             ]
         },
         "draft": {
@@ -1894,7 +2156,7 @@
     },
     "santik": {
         "name": "Santik",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/santik.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/santik.png?raw=true",
         "element": "Red",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -1914,7 +2176,10 @@
                 "HP / ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "Resilience"
             ]
         },
         "counters": [
@@ -1922,7 +2187,9 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Santik",
+                "Rahu",
+                "Fuqui"
             ],
             "Team 2": [
                 "TBD"
@@ -1938,7 +2205,7 @@
     },
     "senyu": {
         "name": "Senyu",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/senyu.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/senyu.png?raw=true",
         "element": "Red",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -1955,7 +2222,10 @@
                 "TBD"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Crit rate",
+                "Crit damage",
+                "ATK"
             ]
         },
         "counters": [
@@ -1979,7 +2249,7 @@
     },
     "shadow sania": {
         "name": "Shadow Sania",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/shadow%20sania.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/shadow%20sania.png?raw=true",
         "element": "Dark",
         "role": "Damage Dealer/DoT",
         "rarity": "SSR",
@@ -2020,7 +2290,7 @@
     },
     "sharon": {
         "name": "Sharon",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/sharon.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sharon.png?raw=true",
         "element": "Dark",
         "role": "Bruiser/DoT",
         "rarity": "SSR",
@@ -2038,7 +2308,10 @@
                 "HP / HP/ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Accuracy",
+                "Resilience"
             ]
         },
         "counters": [
@@ -2047,14 +2320,18 @@
         "teams": {
             "Team 1": [
                 "Sharon",
-                "Nathenn",
-                "Fiamelia"
+                "Luvia",
+                "Xuan Chi"
             ],
             "Team 2": [
-                "TBD"
+                "Sharon",
+                "Luvia",
+                "Sylvia"
             ],
             "Team 3": [
-                "TBD"
+                "Sharon",
+                "Xuan Chi",
+                "Sania"
             ]
         },
         "draft": {
@@ -2064,7 +2341,7 @@
     },
     "sylph": {
         "name": "Sylph",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/sylph.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylph.png?raw=true",
         "element": "Blue",
         "role": "Support/Healer",
         "rarity": "SR",
@@ -2084,21 +2361,30 @@
                 "HP/RES / HP / HP/RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
-            "TBD"
+            "Holden"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Sylph",
+                "Lowan",
+                "Lumiwarden Diting"
             ],
             "Team 2": [
-                "TBD"
+                "Sylph",
+                "Lowan",
+                "Rahu"
             ],
             "Team 3": [
-                "TBD"
+                "Sylph",
+                "Holden",
+                "Celince"
             ]
         },
         "draft": {
@@ -2108,7 +2394,7 @@
     },
     "sylvia": {
         "name": "Sylvia",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/sylvia.JPG?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylvia.JPG?raw=true",
         "element": "Red",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -2126,7 +2412,10 @@
                 "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "DEF"
             ]
         },
         "counters": [
@@ -2134,10 +2423,14 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Sylvia",
+                "Nathenn",
+                "Lily"
             ],
             "Team 2": [
-                "TBD"
+                "Sylvia",
+                "Sharon",
+                "Luvia"
             ],
             "Team 3": [
                 "TBD"
@@ -2150,7 +2443,7 @@
     },
     "tiamat": {
         "name": "Tiamat",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/tiamat.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tiamat.png?raw=true",
         "element": "Blue",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -2169,11 +2462,16 @@
                 "HP / CRIT / HP"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "HP",
+                "Speed"
             ]
         },
         "counters": [
-            "TBD"
+            "Mio",
+            "Lowan",
+            "Celince"
         ],
         "teams": {
             "Team 1": [
@@ -2182,10 +2480,14 @@
                 "Sania"
             ],
             "Team 2": [
-                "TBD"
+                "Tiamat",
+                "Plume",
+                "Lingluo"
             ],
             "Team 3": [
-                "TBD"
+                "Tiamat",
+                "Holden",
+                "Lingluo"
             ]
         },
         "draft": {
@@ -2195,7 +2497,7 @@
     },
     "tsukiyo mi": {
         "name": "Tsukiyo Mi",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/tsukiyo.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tsukiyo.png?raw=true",
         "element": "Blue",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -2237,7 +2539,7 @@
     },
     "turandot": {
         "name": "Turandot",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/turandot.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/turandot.png?raw=true",
         "element": "Red",
         "role": "Support/Buffer",
         "rarity": "SR",
@@ -2255,7 +2557,10 @@
                 "HP / ACC / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Accuracy",
+                "Resilience"
             ]
         },
         "counters": [
@@ -2279,7 +2584,7 @@
     },
     "valerian": {
         "name": "Valerian",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/valerian.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/valerian.png?raw=true",
         "element": "Light",
         "role": "Support/Healer",
         "rarity": "SR",
@@ -2297,7 +2602,10 @@
                 "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "HP",
+                "Resilience",
+                "Accuracy",
+                "Speed"
             ]
         },
         "counters": [
@@ -2307,15 +2615,22 @@
             "Team 1": [
                 "Valerian",
                 "Asal",
-                "Palin"
+                "Xuan Chi"
             ],
             "Team 2": [
                 "Valerian",
-                "Luvia",
-                "Lowan"
+                "Lowan",
+                "Xuan Chi"
             ],
             "Team 3": [
-                "TBD"
+                "Valerian",
+                "Lowan",
+                "Lumiwarden Diting"
+            ],
+            "Team 4": [
+                "Valerian",
+                "Kokardi",
+                "Mizumi Aya"
             ]
         },
         "draft": {
@@ -2325,7 +2640,7 @@
     },
     "veronika": {
         "name": "Veronika",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/veronika.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/veronika.png?raw=true",
         "element": "Red",
         "role": "Support/Buffer",
         "rarity": "SSR",
@@ -2366,7 +2681,7 @@
     },
     "xiada": {
         "name": "Xiada",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/xiada.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xiada.png?raw=true",
         "element": "Blue",
         "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
@@ -2407,7 +2722,7 @@
     },
     "xuan chi": {
         "name": "Xuan Chi",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/xuan%20chi.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan-chi.png?raw=true",
         "element": "Light",
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
@@ -2426,7 +2741,10 @@
                 "DEF / CRIT / DEF/CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "DEF",
+                "Speed"
             ]
         },
         "counters": [
@@ -2434,13 +2752,34 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Xuan Chi",
+                "Sharon",
+                "Luvia"
             ],
             "Team 2": [
-                "TBD"
+                "Xuan Chi",
+                "Luvia",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Xuan Chi",
+                "Xuan Li",
+                "Sania"
+            ],
+            "Team 4": [
+                "Xuan Chi",
+                "Sharon",
+                "Sania"
+            ],
+            "Team 5": [
+                "Xuan Chi",
+                "Raymerry",
+                "Sania"
+            ],
+            "Team 6": [
+                "Xuan Chi",
+                "Asal",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2450,7 +2789,7 @@
     },
     "xuan li": {
         "name": "Xuan Li",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/xuan%20li.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan%20li.png?raw=true",
         "element": "Dark",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -2468,7 +2807,10 @@
                 "CDMG / DEF / CDMG/DEF"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "DEF",
+                "Speed"
             ]
         },
         "counters": [
@@ -2477,14 +2819,28 @@
         "teams": {
             "Team 1": [
                 "Xuan Li",
+                "Xuan Chi",
+                "Sania"
+            ],
+            "Team 2": [
+                "Xuan Li",
+                "Lowan",
+                "Valerian"
+            ],
+            "Team 3": [
+                "Xuan Li",
                 "Lowan",
                 "Dokidoki"
             ],
-            "Team 2": [
-                "TBD"
+            "Team 4": [
+                "Xuan Li",
+                "Gianc",
+                "Dokidoki"
             ],
-            "Team 3": [
-                "TBD"
+            "Team 5": [
+                "Xuan Li",
+                "Gianc",
+                "Mizumi Aya"
             ]
         },
         "draft": {
@@ -2494,7 +2850,7 @@
     },
     "yeli": {
         "name": "Yeli",
-        "image": "https://github.com/shae0208/Etherial/blob/main/images/yeli.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/yeli.png?raw=true",
         "element": "Light",
         "role": "Damage Dealer",
         "rarity": "SSR",
@@ -2512,11 +2868,14 @@
                 "CDMG / ATK / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
-            "TBD"
+            "Hoyan"
         ],
         "teams": {
             "Team 1": [
