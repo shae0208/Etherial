@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 from services.team_service import TeamService
+from utils.premium import require_premium
 
 class TeamCog(commands.Cog):
     def __init__(self, bot):
@@ -28,7 +29,7 @@ class TeamCog(commands.Cog):
             embed.add_field(
                 name = archetype,
                 value = '\n'.join(members),
-                inline = False
+                inline = True
             )
         
         await interaction.response.send_message(embed=embed)
