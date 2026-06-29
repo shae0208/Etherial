@@ -23,7 +23,8 @@ class HelpCog(commands.Cog):
             "/counter - View counter recommendations for the selected animus.\n"
             "/compare - View comparison of two selected animus.\n"
             "/speedtune - View speed tuning recommendations for selected team.\n"
-            "/draft - View ban recommendations for selected enemy draft."
+            "/draft - View ban recommendations for selected enemy draft.\n"
+            "/submit - Suggest a change to animus data for review."
         )
 
         contact = (
