@@ -1,4 +1,7 @@
 # Etherial
+
+<img src="https://github.com/shae0208/Etherial/blob/main/assets/images/etherial_promotional.png?raw=true" alt="Etherial promotional banner" width="800" height="400">
+
 **Etherial** is the ultimate competitive PvP companion for **Etheria Restart**. Built by PvP players, for PvP players, Etherial was created to provide fast, reliable, and up-to-date information to help you gain an edge in every arena battle.
 
 Whether you're searching for optimal builds, comparing Animus matchups, discovering counters, or refining your team compositions, Etherial is designed to put the tools serious competitors need right at their fingertips.

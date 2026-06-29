@@ -14,7 +14,6 @@ intents = discord.Intents.default()
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-
 @bot.event
 async def on_ready():
     await bot.tree.sync()
@@ -31,12 +30,11 @@ async def load_extensions():
 
 async def main():
     if not TOKEN:
-        raise RuntimeError('DISCORD_TOKEN is not set. Add it to the .env file in the project root.')
+        raise RuntimeError('DISCORD_TOKEN is not set.')
 
     async with bot:
         await load_extensions()
         await bot.start(TOKEN)
-
 
 if __name__ == '__main__':
     asyncio.run(main())

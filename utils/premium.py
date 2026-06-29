@@ -1,7 +1,8 @@
 import os
+import discord
 from functools import wraps
 from typing import Optional
-
+from utils.premium_view import PremiumView
 
 def get_premium_sku_id() -> Optional[int]:
     value = os.getenv('PREMIUM_SKU_ID')
@@ -12,7 +13,6 @@ def get_premium_sku_id() -> Optional[int]:
         return int(value)
     except ValueError:
         return None
-
 
 def has_premium_access(interaction, sku_id: Optional[int] = None) -> bool:
     target_sku_id = sku_id or get_premium_sku_id()
@@ -28,17 +28,30 @@ def has_premium_access(interaction, sku_id: Optional[int] = None) -> bool:
     
     return False
 
-
 def require_premium(sku_id: Optional[int] = None):
     def decorator(func):
         @wraps(func)
         async def wrapper(self, interaction, *args, **kwargs):
             if not has_premium_access(interaction, sku_id):
+                embed = discord.Embed(
+                    title = 'Premium Feature',
+                    description = (
+                        "This command requires Etherial Premium.\n\n"
+                        "Purchase below to unlock advanced PvP tools:\n"
+                        " `/teams`\n"
+                        " `/counters`\n"
+                        " `/speedtune`\n"
+                        " `/draft`"
+                    )
+                )
+                
                 await interaction.response.send_message(
-                    "This command requires an active premium entitlement for this app.",
+                    embed = embed,
+                    view = PremiumView(),
                     ephemeral = True,
                 )
                 return
+            
             return await func(self, interaction, *args, **kwargs)
 
         return wrapper

@@ -17,7 +17,6 @@ When interacting with Etherial, the bot may collect and store:
 * Discord User IDs
 * Discord Server IDs
 * Channel IDs where commands are used
-* Command usage data (e.g., `/build`, `/compare`, `/team`)
 * Timestamps of interactions
 * Error logs and diagnostic information
 
