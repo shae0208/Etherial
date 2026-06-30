@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 
-
 class DataManager:
     _json_cache = {}
     _animus_lookup = None

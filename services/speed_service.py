@@ -8,14 +8,16 @@ class SpeedService:
         team_data = []
         
         for animus in team:
-            if animus in data:
-                team_data.append({
-                    "name": animus,
-                    "priority": data[animus]["speed_priority"]
-                })
+            key = animus.strip().lower()
+            
+            if key not in data:
+                continue
+            
+            team_data.append({
+                "name": data[key]['name'],
+                "priority": data[key]["speed_priority"]
+            })
         
-        team_data.sort(
-            key = lambda x: x["priority"]
-        )
+        team_data.sort(key = lambda x: x["priority"])
         
         return team_data

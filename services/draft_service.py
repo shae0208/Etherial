@@ -9,13 +9,33 @@ class DraftService:
         recommended_ban = None
         
         for unit in team:
-            if unit not in data:
+            key = unit.strip().lower()
+            
+            if key not in data:
                 continue
             
-            score = data[unit]["draft"]["ban_priority"]
+            score = data[key].get('draft').get('ban_priority')
             
             if score > highest_priority:
                 highest_priority = score
-                recommended_ban = unit
+                recommended_ban = data[key]['name']
             
         return recommended_ban
+    
+    @staticmethod
+    def format_team(team):
+        data = DataManager.get_animus_data()
+        
+        formatted_team = []
+        
+        for unit in team:
+            key = unit.strip().lower()
+            
+            if key in data:
+                formatted_team.append(data[key]['name'])
+            
+        return formatted_team
+            
+            
+        
+        

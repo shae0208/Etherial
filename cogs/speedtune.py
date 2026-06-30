@@ -26,7 +26,7 @@ class SpeedTuneCog(commands.Cog):
         text = ""
         
         for idx, unit in enumerate(order, 1):
-            text += f'{idx}. {unit["name"]}\n'
+            text += f'{idx}. {unit['name']}\n'
         
         embed.description = text
         

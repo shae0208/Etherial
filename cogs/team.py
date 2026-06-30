@@ -10,7 +10,7 @@ class TeamCog(commands.Cog):
     
     @app_commands.command(name='team', description='View recommended teams.')
     async def team(self, interaction: discord.Interaction, animus: str):
-        teams = TeamService.get_teams(animus)
+        teams = TeamService.get_animus_teams(animus)
         
         if not teams:
             await interaction.response.send_message(
@@ -21,15 +21,27 @@ class TeamCog(commands.Cog):
         embed = discord.Embed(title=f"{teams['name']} Teams")
         image_url = teams.get('image')
         team_data = teams.get('teams')
+        color_data = teams.get('element')
         
         if image_url:
             embed.set_thumbnail(url=image_url)
         
+        if color_data == 'Red':
+            embed.color = discord.Color.red()
+        elif color_data == 'Blue':
+            embed.color = discord.Color.blue()
+        elif color_data == 'Green':
+            embed.color = discord.Color.green()
+        elif color_data == 'Light':
+            embed.color = discord.Color.gold()
+        elif color_data == 'Dark':
+            embed.color = discord.Color.purple()
+            
         for archetype, members in team_data.items():
             embed.add_field(
                 name = archetype,
-                value = '\n'.join(members),
-                inline = True
+                value = ' | '.join(members),
+                inline = False
             )
         
         await interaction.response.send_message(embed=embed)

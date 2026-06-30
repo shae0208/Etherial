@@ -20,9 +20,21 @@ class CounterCog(commands.Cog):
 
         embed = discord.Embed(title=f"{counters['name']} Counters")
         image_url = counters.get('image')
+        color_data = counters.get('element')
         
         if image_url:
             embed.set_thumbnail(url=image_url)
+            
+        if color_data == 'Red':
+            embed.color = discord.Color.red()
+        elif color_data == 'Blue':
+            embed.color = discord.Color.blue()
+        elif color_data == 'Green':
+            embed.color = discord.Color.green()
+        elif color_data == 'Light':
+            embed.color = discord.Color.gold()
+        elif color_data == 'Dark':
+            embed.color = discord.Color.purple()
             
         embed.add_field(
             name = "Counters",

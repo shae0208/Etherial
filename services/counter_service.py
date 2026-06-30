@@ -4,7 +4,9 @@ from services.data_manager import DataManager
 class CounterService:
     @staticmethod
     def get_counters(animus):
-        unit = DataManager.get_animus_entry(animus)
+        key = animus.strip().lower()
+        
+        unit = DataManager.get_animus_entry(key)
 
         if not unit:
             return None
@@ -12,5 +14,6 @@ class CounterService:
         return {
             "name": unit.get('name'),
             "image": unit.get('image'),
+            "element": unit.get('element'),
             "counters": unit.get('counters')
         }

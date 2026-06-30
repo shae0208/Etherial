@@ -26,12 +26,12 @@ class DraftCog(commands.Cog):
             
         embed.add_field(
             name = 'Enemy Draft',
-            value = '\n'.join(enemy_team),
+            value = '\n'.join(DraftService.format_team(enemy_team)),
             inline = False
         )
         embed.add_field(
             name = 'Recommended Ban',
-            value = ban,
+            value = ban or 'No recommendation available',
             inline = False
         )
         

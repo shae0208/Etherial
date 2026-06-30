@@ -34,7 +34,7 @@ def require_premium(sku_id: Optional[int] = None):
         async def wrapper(self, interaction, *args, **kwargs):
             if not has_premium_access(interaction, sku_id):
                 embed = discord.Embed(
-                    title = 'Premium Feature',
+                    title = '🔒 Premium Feature',
                     description = (
                         "This command requires Etherial Premium.\n\n"
                         "Purchase below to unlock advanced PvP tools:\n"

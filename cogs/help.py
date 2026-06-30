@@ -19,18 +19,19 @@ class HelpCog(commands.Cog):
         commands = (
             "/help - View Etherial support information.\n"
             "/build - View build guide for the selected animus.\n"
+            "/compare - View comparison of two selected animus.\n"
             "/team - View team recommendations for the selected animus.\n"
             "/counter - View counter recommendations for the selected animus.\n"
-            "/compare - View comparison of two selected animus.\n"
             "/speedtune - View speed tuning recommendations for selected team.\n"
             "/draft - View ban recommendations for selected enemy draft.\n"
             "/submit - Suggest a change to animus data for review."
         )
 
         contact = (
-            "Please contact bl4ckh4wkttv.gaming@gmail.com for additional support.\n\n"
-            "Feel free to also provide suggestions/feedback about the bot in general,"
-            " or to suggest edits to inaccurate information to better the experience."
+            "Contact bl4ckh4wkttv.gaming@gmail.com for additional support.\n\n"
+            "Feel free to provide suggestions/feedback about the bot in general.\n\n"
+            "Please use the /submit command to suggest any changes to inaccurate or"
+            " incomplete information. Thank You!"
         )
         
         embed = discord.Embed(title='Etherial Support', description=overview)

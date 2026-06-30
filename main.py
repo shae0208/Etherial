@@ -27,7 +27,6 @@ async def load_extensions():
         if file.endswith('.py') and not file.startswith('_'):
             await bot.load_extension(f'cogs.{file[:-3]}')
 
-
 async def main():
     if not TOKEN:
         raise RuntimeError('DISCORD_TOKEN is not set.')

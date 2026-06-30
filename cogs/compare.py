@@ -9,38 +9,39 @@ class CompareCog(commands.Cog):
     
     @app_commands.command(name='compare', description='Compare Two Animus')
     async def compare(self, interaction: discord.Interaction, animus1: str, animus2: str):
-        result = CompareService.compare(animus1, animus2)
+        result = CompareService.get_comparison_data(animus1, animus2)
         
         if not result:
             await interaction.response.send_message(
-                "One or both Animus not found."
+                "One or both Animus not found.",
+                ephemeral = True
             )
             return
         
-        unit1 = result["animus1"]
-        unit2 = result["animus2"]
+        unit1 = result.get('animus1')
+        unit2 = result.get('animus2')
         
-        embed = discord.Embed(title=f"{unit1['name']} vs {unit2['name']}")
+        def format_unit(unit):
+            return (
+                f"Role: {unit.get('role')}\n"
+                f"Element: {unit.get('element')}\n"
+                f"Speed: {unit.get('base_speed')}\n"
+                f"Lattice: {unit.get('lattice')}"
+            )
+            
+        embed = discord.Embed(title=f"{unit1.get('name')} vs {unit2.get('name')}")
         
         if self.bot.user:
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)
             
         embed.add_field(
-            name = unit1['name'],
-            value = 
-                f'Role: {unit1['role']}\n'
-                f'Element: {unit1['element']}\n'
-                f'Speed: {unit1['base_speed']}\n'
-                f'Lattice: {unit1['lattice']}',
-                inline = True
+            name = unit1.get('name'),
+            value = f"{format_unit(unit1)}",
+            inline = True
         )
         embed.add_field(
-            name = unit2['name'],
-            value = 
-            f'Role: {unit2['role']}\n'
-            f'Element: {unit2['element']}\n'
-            f'Speed: {unit2['base_speed']}\n'
-            f'Lattice: {unit2['lattice']}',
+            name = unit2.get('name'),
+            value = f"{format_unit(unit2)}",
             inline = True
         )
         

@@ -1,10 +1,11 @@
 from services.data_manager import DataManager
 
-
 class BuildService:
     @staticmethod
     def get_build(animus):
-        unit = DataManager.get_animus_entry(animus)
+        key = animus.strip().lower()
+        
+        unit = DataManager.get_animus_entry(key)
 
         if not unit:
             return None

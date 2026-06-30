@@ -16,10 +16,12 @@ class SubmitService:
 
             application = getattr(bot, "application", None)
             owner = getattr(application, "owner", None)
+            
             if owner is not None:
                 return int(owner.id)
 
         env_id = os.getenv("OWNER_DISCORD_ID") or os.getenv("OWNER_USER_ID")
+        
         if env_id:
             try:
                 return int(env_id)
@@ -48,6 +50,7 @@ class SubmitService:
         if target_id is not None and bot is not None:
             try:
                 user = bot.get_user(target_id)
+                
                 if user is None:
                     user = await bot.fetch_user(target_id)
 
@@ -57,15 +60,19 @@ class SubmitService:
                         description="A new suggestion form submission was received.",
                         color=discord.Color.blurple(),
                     )
+                    
                     embed.add_field(name="Submitted by", value=payload["submitted_by"], inline=False)
                     embed.add_field(name="Animus", value=payload["animus"] or "Unknown", inline=False)
                     embed.add_field(name="Field", value=payload["path"] or "Unknown", inline=False)
                     embed.add_field(name="Suggested value", value=payload["value"] or "No value provided", inline=False)
+                    
                     if payload["reason"]:
                         embed.add_field(name="Reason", value=payload["reason"], inline=False)
 
                     await user.send(embed=embed)
+                    
                     delivered = True
+                    
             except Exception:
                 delivered = False
 
