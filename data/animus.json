@@ -9,18 +9,21 @@
         "lattice": "5/5/5",
         "build": {
             "shells": [
-                "Lighthouse",
+                "Moon Bunny",
                 "Alicorn"
             ],
             "sets": [
                 "Bloodbath / Strive / Swiftsmite",
-                "Bloodbath / Bloodbath / Swiftsmite"
+                "Bloodbath / Swiftrush / Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Crit rate",
+                "Crit damage"
             ]
         },
         "counters": [
@@ -194,16 +197,20 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Amber",
+                "Codex"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Bulwark / Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                " RES / HP / RES"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Resilience",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -235,16 +242,21 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Tiger Yin",
+                "Count"
             ],
             "sets": [
-                "TBD"
+                "Bloodbath / Harvest / Swiftraid",
+                "Onslaught / Harvest / Swiftraid"
             ],
             "mainstats": [
-                "TBD"
+                "ATK / ATK / ATK"
             ],
             "substats": [
-                "TBD"
+                "ATK",
+                "Speed",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -678,16 +690,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Revelation"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Onslaught / Swiftraid"
             ],
             "mainstats": [
-                "TBD"
+                "CRIT / ACC / CRIT"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Crit rate",
+                "Crit damage",
+                "Accuracy"
             ]
         },
         "counters": [
@@ -719,16 +734,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Codex"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Strive / Swiftraid"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "ATK / ATK / ATK"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Crit rate",
+                "Crit damage",
+                "ATK"
             ]
         },
         "counters": [
@@ -812,16 +830,21 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Count",
+                "Law of Silence"
             ],
             "sets": [
-                "TBD"
+                "Keeneye / Bulwark / Furyedge",
+                "Onslaught / Harvest / Furyedge"
             ],
             "mainstats": [
-                "TBD"
+                "CDMG / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -955,16 +978,20 @@
         "lattice": "5/5/5",
         "build": {
             "shells": [
-                "TBD"
+                "Jackal Guard",
+                "Codex"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Bulwark / Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -1043,16 +1070,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Revelation"
             ],
             "sets": [
-                "TBD"
+                "Onslaught / Harvest / Furyedge"
             ],
             "mainstats": [
-                "TBD"
+                "CDMG / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -1400,11 +1430,10 @@
                 "Count"
             ],
             "sets": [
-                "Momentum / Fury / Furyedge",
-                "Momentum / Fury / Swiftraid"
+                "Keeneye / Fury / Furyedge"
             ],
             "mainstats": [
-                "CDMG / ATK / CDMG"
+                "CDMG / CRIT / CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -1442,16 +1471,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Codex"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Strive / Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC / HP / ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "Resilience"
             ]
         },
         "counters": [
@@ -1670,16 +1702,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Codex"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Bulwark / Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "HP",
+                "Resilience",
+                "Defense"
             ]
         },
         "counters": [
@@ -1814,16 +1849,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Revelation"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush / Harvest / Swiftraid"
             ],
             "mainstats": [
-                "TBD"
+                "ATK / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
@@ -2515,7 +2553,10 @@
                 "DEF / HP / DEF"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "DEF",
+                "HP",
+                "Resilience"
             ]
         },
         "counters": [
@@ -2648,16 +2689,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Halloween"
             ],
             "sets": [
-                "TBD"
+                "Bloodbath / Bulwark / Etherplague"
             ],
             "mainstats": [
-                "TBD"
+                "HP / HP / HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
         "counters": [
@@ -2689,16 +2733,19 @@
         "lattice": "TBD",
         "build": {
             "shells": [
-                "TBD"
+                "Law of Silence"
             ],
             "sets": [
-                "TBD"
+                "Onslaught / Harvest / Furyedge"
             ],
             "mainstats": [
-                "TBD"
+                "CDMG / CRIT / CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
         "counters": [
