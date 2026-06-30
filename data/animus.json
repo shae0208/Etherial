@@ -319,6 +319,47 @@
         },
         "speed_priority": 3
     },
+    "cachi the guard": {
+        "name": "Cachi the Guard",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/guard%20cachi.png?raw=true",
+        "element": "Dark",
+        "role": "Support/Buffer",
+        "rarity": "SR",
+        "base_speed": 125,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
     "celince": {
         "name": "Celince",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/celince.png?raw=true",
@@ -367,23 +408,23 @@
         },
         "speed_priority": 2
     },
-    "diting": {
-        "name": "Lumiwarden Diting",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga%20diting.png?raw=true",
-        "element": "Red",
-        "role": "Bruiser/Support",
-        "rarity": "SSR",
+    "chiaki the echo": {
+        "name": "Chiaki the Echo",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki.png?raw=true",
+        "element": "Green",
+        "role": "Support/Buffer",
+        "rarity": "SR",
         "base_speed": 125,
-        "lattice": "5/3/5",
+        "lattice": "5/5/5",
         "build": {
             "shells": [
-                "Jackal Guard"
+                "TBD"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Swiftsmite"
+                "TBD"
             ],
             "mainstats": [
-                "DEF / ACC / DEF"
+                "TBD"
             ],
             "substats": [
                 "TBD"
@@ -394,14 +435,10 @@
         ],
         "teams": {
             "Team 1": [
-                "Lumiwarden Diting",
-                "Lowan",
-                "Valerian"
+                "TBD"
             ],
             "Team 2": [
-                "Lumiwarden Diting",
-                "Lowan",
-                "Sylph"
+                "TBD"
             ],
             "Team 3": [
                 "TBD"
@@ -411,6 +448,47 @@
             "ban_priority": 3
         },
         "speed_priority": 3
+    },
+    "diting": {
+        "name": "Diting",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/diting.png?raw=true",
+        "element": "Dark",
+        "role": "Damage Dealer",
+        "rarity": "SR",
+        "base_speed": 118,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
     },
     "doki": {
         "name": "Dokidoki",
@@ -471,6 +549,47 @@
             "ban_priority": 2
         },
         "speed_priority": 2
+    },
+    "dorothy": {
+        "name": "Dorothy",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dorothy.png?raw=true",
+        "element": "Light",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 112,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 5
+        },
+        "speed_priority": 5
     },
     "fiamelia": {
         "name": "Fiamelia",
@@ -680,6 +799,51 @@
         },
         "speed_priority": 3
     },
+    "giga diting": {
+        "name": "Lumiwarden Diting",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga%20diting.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Support",
+        "rarity": "SSR",
+        "base_speed": 125,
+        "lattice": "5/3/5",
+        "build": {
+            "shells": [
+                "Jackal Guard"
+            ],
+            "sets": [
+                "Bloodbath / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "DEF / ACC / DEF"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "Lumiwarden Diting",
+                "Lowan",
+                "Valerian"
+            ],
+            "Team 2": [
+                "Lumiwarden Diting",
+                "Lowan",
+                "Sylph"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
     "heinrich": {
         "name": "Heinrich",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/heinrich.png?raw=true",
@@ -747,6 +911,47 @@
                 "Crit rate",
                 "Crit damage",
                 "ATK"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "hizuki": {
+        "name": "Hizuki Mari",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/hizuki.png?raw=true",
+        "element": "Dark",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 123,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
             ]
         },
         "counters": [
@@ -1417,6 +1622,47 @@
         },
         "speed_priority": 4
     },
+    "marvell": {
+        "name": "Marvell",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/marvell.png?raw=true",
+        "element": "Light",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 121,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
     "massiah": {
         "name": "Massiah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/massiah.png?raw=true",
@@ -1640,6 +1886,47 @@
                 "Nathenn",
                 "Raymerry",
                 "Sania"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
+    "nell": {
+        "name": "Nell",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nell.png?raw=true",
+        "element": "Dark",
+        "role": "Support/Debuffer",
+        "rarity": "SR",
+        "base_speed": 123,
+        "lattice": "TBD",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
             ]
         },
         "draft": {
@@ -2377,6 +2664,47 @@
         },
         "speed_priority": 4
     },
+    "steelheart dinah": {
+        "name": "Steelheart Dinah",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/steel%20dinah.png?raw=true",
+        "element": "Light",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 123,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
     "sylph": {
         "name": "Sylph",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylph.png?raw=true",
@@ -2722,6 +3050,47 @@
             "ban_priority": 3
         },
         "speed_priority": 3
+    },
+    "victor": {
+        "name": "Victor",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/victor.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser",
+        "rarity": "SR",
+        "base_speed": 116,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 4
+        },
+        "speed_priority": 4
     },
     "xiada": {
         "name": "Xiada",
