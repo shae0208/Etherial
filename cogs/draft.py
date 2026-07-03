@@ -17,7 +17,7 @@ class DraftCog(commands.Cog):
             animus5
         ]
         
-        ban = DraftService.recommend_ban(enemy_team)
+        ban = DraftService.recommend_ban(enemy_team, protected_indices={2})
         
         embed = discord.Embed(title='Draft Assistant')
         

@@ -1,25 +1,31 @@
 from services.data_manager import DataManager
 
+
 class DraftService:
     @staticmethod
-    def recommend_ban(team):
+    def recommend_ban(team, protected_indices=None):
         data = DataManager.get_animus_data()
-        
+
         highest_priority = -1
         recommended_ban = None
-        
-        for unit in team:
+
+        protected_indices = set(protected_indices or [])
+
+        for index, unit in enumerate(team):
+            if index in protected_indices:
+                continue
+
             key = unit.strip().lower()
-            
+
             if key not in data:
                 continue
-            
+
             score = data[key].get('draft').get('ban_priority')
-            
+
             if score > highest_priority:
                 highest_priority = score
                 recommended_ban = data[key]['name']
-            
+
         return recommended_ban
     
     @staticmethod

@@ -41,9 +41,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 78,
+            "pick_priority": 72,
+            "speed_priority": 74
+        }
     },
     "areal": {
         "name": "Areal",
@@ -86,9 +87,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 95,
+            "pick_priority": 90,
+            "speed_priority": 88
+        }
     },
     "asal": {
         "name": "Asal",
@@ -136,9 +138,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 82,
+            "pick_priority": 84,
+            "speed_priority": 86
+        }
     },
     "aya": {
         "name": "Mizumi Aya",
@@ -187,9 +190,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 70,
+            "pick_priority": 74,
+            "speed_priority": 74
+        }
     },
     "batsby": {
         "name": "Batsby",
@@ -228,9 +232,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 70,
+            "pick_priority": 70,
+            "speed_priority": 78
+        }
     },
     "beyontin": {
         "name": "Beyontin",
@@ -273,9 +278,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 82,
+            "pick_priority": 84,
+            "speed_priority": 80
+        }
     },
     "borgne": {
         "name": "Borgne",
@@ -319,9 +325,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 64,
+            "pick_priority": 68,
+            "speed_priority": 72
+        }
     },
     "bornova": {
         "name": "Bornova",
@@ -360,9 +367,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 58,
+            "pick_priority": 63,
+            "speed_priority": 68
+        }
+    },
+    "cachi": {
+        "name": "Cachi",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/cachi.png?raw=true",
+        "element": "Red",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 113,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 74,
+            "pick_priority": 78,
+            "speed_priority": 82
+        }
     },
     "cachi the guard": {
         "name": "Cachi the Guard",
@@ -401,9 +451,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 66,
+            "pick_priority": 70,
+            "speed_priority": 66
+        }
     },
     "celince": {
         "name": "Celince",
@@ -449,9 +500,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
+            "ban_priority": 80,
+            "pick_priority": 82,
+            "speed_priority": 84
+        }
+    },
+    "chiaki": {
+        "name": "Chiaki",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/red%20chiaki.png?raw=true",
+        "element": "Red",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 119,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 2
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 70,
+            "pick_priority": 74,
+            "speed_priority": 79
+        }
     },
     "chiaki the echo": {
         "name": "Chiaki the Echo",
@@ -490,9 +584,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 62,
+            "pick_priority": 72,
+            "speed_priority": 70
+        }
+    },
+    "dinah": {
+        "name": "Dinah",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dinah.png?raw=true",
+        "element": "Red",
+        "role": "Support/Debuffer",
+        "rarity": "SR",
+        "base_speed": 120,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 77,
+            "pick_priority": 80,
+            "speed_priority": 84
+        }
     },
     "diting": {
         "name": "Diting",
@@ -531,9 +668,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 88,
+            "pick_priority": 92,
+            "speed_priority": 84
+        }
     },
     "doki": {
         "name": "Dokidoki",
@@ -591,9 +729,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 76,
+            "pick_priority": 75,
+            "speed_priority": 73
+        }
     },
     "dorothy": {
         "name": "Dorothy",
@@ -632,9 +771,94 @@
             ]
         },
         "draft": {
-            "ban_priority": 5
+            "ban_priority": 78,
+            "pick_priority": 80,
+            "speed_priority": 76
+        }
+    },
+    "dorothy the wisher": {
+        "name": "Dorothy the Wisher",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/wisher%20dorothy.png?raw=true",
+        "element": "Red",
+        "role": "Support/Healer",
+        "rarity": "SR",
+        "base_speed": 118,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 5
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 72,
+            "pick_priority": 76,
+            "speed_priority": 81
+        }
+    },
+    "fangus": {
+        "name": "Fangus",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fangus.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SR",
+        "base_speed": 123,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 68,
+            "pick_priority": 71,
+            "speed_priority": 77
+        }
     },
     "fiamelia": {
         "name": "Fiamelia",
@@ -688,9 +912,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 92,
+            "pick_priority": 90,
+            "speed_priority": 83
+        }
     },
     "freya": {
         "name": "Freya",
@@ -734,9 +959,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 90,
+            "pick_priority": 88,
+            "speed_priority": 82
+        }
     },
     "fuqui": {
         "name": "Fuqui",
@@ -790,9 +1016,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 68,
+            "pick_priority": 74,
+            "speed_priority": 76
+        }
     },
     "gianc": {
         "name": "Gianc",
@@ -840,9 +1067,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 60,
+            "pick_priority": 66,
+            "speed_priority": 70
+        }
     },
     "giga diting": {
         "name": "Lumiwarden Diting",
@@ -885,9 +1113,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 90,
+            "pick_priority": 95,
+            "speed_priority": 96
+        }
+    },
+    "gray": {
+        "name": "Gray",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/gray.png?raw=true",
+        "element": "Green",
+        "role": "Support/Debuffer",
+        "rarity": "SR",
+        "base_speed": 120,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 84,
+            "pick_priority": 85,
+            "speed_priority": 87
+        }
     },
     "heinrich": {
         "name": "Heinrich",
@@ -929,9 +1200,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 74,
+            "pick_priority": 76,
+            "speed_priority": 78
+        }
     },
     "helkid": {
         "name": "Helkid",
@@ -973,9 +1245,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 72,
+            "pick_priority": 74,
+            "speed_priority": 80
+        }
     },
     "hizuki": {
         "name": "Hizuki Mari",
@@ -1014,9 +1287,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 70,
+            "pick_priority": 72,
+            "speed_priority": 74
+        }
     },
     "holden": {
         "name": "Holden",
@@ -1066,9 +1340,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 78,
+            "pick_priority": 80,
+            "speed_priority": 86
+        }
     },
     "hoyan": {
         "name": "Hoyan",
@@ -1112,9 +1387,94 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 82,
+            "pick_priority": 86,
+            "speed_priority": 88
+        }
+    },
+    "kazami kazuyo": {
+        "name": "Kazami Kazuyo",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/red%20kazuyo.png?raw=true",
+        "element": "Red",
+        "role": "Support/Buffer",
+        "rarity": "SR",
+        "base_speed": 120,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 76,
+            "pick_priority": 79,
+            "speed_priority": 83
+        }
+    },
+    "kazuyo": {
+        "name": "Kazuyo the Reverie",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kazuyo.png?raw=true",
+        "element": "Green",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 124,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 75,
+            "pick_priority": 78,
+            "speed_priority": 82
+        }
     },
     "kethos": {
         "name": "Kethos",
@@ -1173,9 +1533,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 92,
+            "pick_priority": 88,
+            "speed_priority": 84
+        }
     },
     "khloros": {
         "name": "Khloros",
@@ -1214,9 +1575,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 76,
+            "pick_priority": 78,
+            "speed_priority": 80
+        }
     },
     "kloss": {
         "name": "Kloss",
@@ -1259,9 +1621,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 86,
+            "pick_priority": 90,
+            "speed_priority": 82
+        }
     },
     "kokardi": {
         "name": "Kokardi",
@@ -1306,9 +1669,55 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
+            "ban_priority": 72,
+            "pick_priority": 78,
+            "speed_priority": 75
+        }
+    },
+    "kraken": {
+        "name": "Kraken",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kraken.png?raw=true",
+        "element": "Blue",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 119,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Codex"
+            ],
+            "sets": [
+                "Swiftrush / Bulwark / Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC / HP / ACC"
+            ],
+            "substats": [
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
+            ]
         },
-        "speed_priority": 4
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 80,
+            "pick_priority": 84,
+            "speed_priority": 90
+        }
     },
     "lian": {
         "name": "Lian",
@@ -1350,9 +1759,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 70,
+            "pick_priority": 72,
+            "speed_priority": 74
+        }
     },
     "liliam": {
         "name": "Liliam",
@@ -1396,9 +1806,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 88,
+            "pick_priority": 91,
+            "speed_priority": 88
+        }
     },
     "lilith": {
         "name": "Lilith",
@@ -1441,9 +1852,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 84,
+            "pick_priority": 86,
+            "speed_priority": 90
+        }
     },
     "lily": {
         "name": "Lily",
@@ -1489,9 +1901,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 96,
+            "pick_priority": 97,
+            "speed_priority": 92
+        }
     },
     "lingluo": {
         "name": "Lingluo",
@@ -1541,9 +1954,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 88,
+            "pick_priority": 90,
+            "speed_priority": 85
+        }
     },
     "lowan": {
         "name": "Lowan",
@@ -1612,9 +2026,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 94,
+            "pick_priority": 92,
+            "speed_priority": 89
+        }
     },
     "luvia": {
         "name": "Luvia",
@@ -1663,9 +2078,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 80,
+            "pick_priority": 82,
+            "speed_priority": 84
+        }
     },
     "marvell": {
         "name": "Marvell",
@@ -1704,9 +2120,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 60,
+            "pick_priority": 64,
+            "speed_priority": 70
+        }
     },
     "massiah": {
         "name": "Massiah",
@@ -1748,9 +2165,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 98,
+            "pick_priority": 96,
+            "speed_priority": 93
+        }
     },
     "mia": {
         "name": "Mia",
@@ -1792,9 +2210,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 64,
+            "pick_priority": 68,
+            "speed_priority": 74
+        }
     },
     "mio": {
         "name": "Mio",
@@ -1837,9 +2256,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 78,
+            "pick_priority": 80,
+            "speed_priority": 88
+        }
+    },
+    "mizuki": {
+        "name": "Mizuki Makoto",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mizuki.png?raw=true",
+        "element": "Green",
+        "role": "Bruiser",
+        "rarity": "SR",
+        "base_speed": 120,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 73,
+            "pick_priority": 77,
+            "speed_priority": 80
+        }
     },
     "nahor": {
         "name": "Nahor",
@@ -1882,9 +2344,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 80,
+            "pick_priority": 84,
+            "speed_priority": 84
+        }
     },
     "nathenn": {
         "name": "Nathenn",
@@ -1900,8 +2363,8 @@
                 "Moon Bunny"
             ],
             "sets": [
-                "Wellspring / Swiftrush / Swiftsmite",
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush / Bulwark / Swiftsmite",
+                "Wellspring / Swiftrush / Swiftsmite"
             ],
             "mainstats": [
                 "HP/CRIT / CRIT / HP"
@@ -1929,14 +2392,20 @@
             ],
             "Team 3": [
                 "Nathenn",
+                "Plume",
+                "Sylvia"
+            ],
+            "Team 4": [
+                "Nathenn",
                 "Raymerry",
                 "Sania"
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 95,
+            "pick_priority": 93,
+            "speed_priority": 90
+        }
     },
     "nell": {
         "name": "Nell",
@@ -1975,9 +2444,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 60,
+            "pick_priority": 62,
+            "speed_priority": 76
+        }
     },
     "nevette": {
         "name": "Nevette",
@@ -2020,9 +2490,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 56,
+            "pick_priority": 58,
+            "speed_priority": 66
+        }
     },
     "ninfoniel": {
         "name": "Ninfoniel",
@@ -2064,9 +2535,94 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 74,
+            "pick_priority": 78,
+            "speed_priority": 82
+        }
+    },
+    "obol": {
+        "name": "Obol",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/obol.png?raw=true",
+        "element": "Blue",
+        "role": "Control",
+        "rarity": "SR",
+        "base_speed": 122,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 69,
+            "pick_priority": 73,
+            "speed_priority": 78
+        }
+    },
+    "oboro": {
+        "name": "Oboro",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/oboro.png?raw=true",
+        "element": "Red",
+        "role": "Damage Dealer",
+        "rarity": "SR",
+        "base_speed": 123,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 71,
+            "pick_priority": 75,
+            "speed_priority": 79
+        }
     },
     "palin": {
         "name": "Palin",
@@ -2111,9 +2667,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 68,
+            "pick_priority": 72,
+            "speed_priority": 78
+        }
     },
     "plume": {
         "name": "Plume",
@@ -2152,24 +2709,30 @@
         "teams": {
             "Team 1": [
                 "Plume",
+                "Nathenn",
+                "Sylvia"
+            ],
+            "Team 2": [
+                "Plume",
                 "Tiamat",
                 "Sania"
             ],
-            "Team 2": [
+            "Team 3": [
                 "Plume",
                 "Raymerry",
                 "Sania"
             ],
-            "Team 3": [
+            "Team 4": [
                 "Plume",
                 "Tiamat",
                 "Lingluo"
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 90,
+            "pick_priority": 94,
+            "speed_priority": 95
+        }
     },
     "qano": {
         "name": "Qano",
@@ -2211,9 +2774,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 62,
+            "pick_priority": 70,
+            "speed_priority": 84
+        }
     },
     "rahu": {
         "name": "Rahu",
@@ -2271,9 +2835,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 88,
+            "pick_priority": 89,
+            "speed_priority": 91
+        }
     },
     "raymerry": {
         "name": "Raymerry",
@@ -2347,9 +2912,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
+            "ban_priority": 94,
+            "pick_priority": 90,
+            "speed_priority": 86
+        }
+    },
+    "rc-77": {
+        "name": "RC-77",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rc-77.png?raw=true",
+        "element": "Red",
+        "role": "Control/Debuffer",
+        "rarity": "SR",
+        "base_speed": 128,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 4
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 78,
+            "pick_priority": 81,
+            "speed_priority": 85
+        }
     },
     "rilmocha": {
         "name": "Rilmocha",
@@ -2388,9 +2996,94 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 72,
+            "pick_priority": 74,
+            "speed_priority": 78
+        }
+    },
+    "rin": {
+        "name": "Rin",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tank%20rin.png?raw=true",
+        "element": "Red",
+        "role": "Bruiser/Control",
+        "rarity": "SR",
+        "base_speed": 122,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 74,
+            "pick_priority": 77,
+            "speed_priority": 81
+        }
+    },
+    "rin the unbowed": {
+        "name": "Rin the Unbowed",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rin.png?raw=true",
+        "element": "Blue",
+        "role": "Damage Dealer",
+        "rarity": "SR",
+        "base_speed": 126,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 76,
+            "pick_priority": 79,
+            "speed_priority": 83
+        }
     },
     "rosa": {
         "name": "Rosa",
@@ -2433,9 +3126,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 76,
+            "pick_priority": 80,
+            "speed_priority": 82
+        }
     },
     "sania": {
         "name": "Sania",
@@ -2520,9 +3214,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 1
-        },
-        "speed_priority": 1
+            "ban_priority": 66,
+            "pick_priority": 70,
+            "speed_priority": 72
+        }
     },
     "santik": {
         "name": "Santik",
@@ -2569,9 +3264,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 58,
+            "pick_priority": 62,
+            "speed_priority": 68
+        }
     },
     "senyu": {
         "name": "Senyu",
@@ -2613,9 +3309,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 70,
+            "pick_priority": 76,
+            "speed_priority": 80
+        }
     },
     "shadow sania": {
         "name": "Shadow Sania",
@@ -2654,9 +3351,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 76,
+            "pick_priority": 80,
+            "speed_priority": 83
+        }
     },
     "sharon": {
         "name": "Sharon",
@@ -2705,9 +3403,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 100,
+            "pick_priority": 99,
+            "speed_priority": 98
+        }
     },
     "steelheart dinah": {
         "name": "Steelheart Dinah",
@@ -2746,9 +3445,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 70,
+            "pick_priority": 72,
+            "speed_priority": 74
+        }
     },
     "sylph": {
         "name": "Sylph",
@@ -2799,9 +3499,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 1
-        },
-        "speed_priority": 1
+            "ban_priority": 72,
+            "pick_priority": 76,
+            "speed_priority": 82
+        }
     },
     "sylvia": {
         "name": "Sylvia",
@@ -2840,17 +3541,20 @@
             ],
             "Team 2": [
                 "Sylvia",
-                "Sharon",
-                "Luvia"
+                "Nathenn",
+                "Plume"
             ],
             "Team 3": [
-                "TBD"
+                "Sylvia",
+                "Sharon",
+                "Luvia"
             ]
         },
         "draft": {
-            "ban_priority": 2
-        },
-        "speed_priority": 2
+            "ban_priority": 92,
+            "pick_priority": 89,
+            "speed_priority": 84
+        }
     },
     "tiamat": {
         "name": "Tiamat",
@@ -2902,9 +3606,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 80,
+            "pick_priority": 84,
+            "speed_priority": 86
+        }
     },
     "tsukiyo mi": {
         "name": "Tsukiyo Mi",
@@ -2947,9 +3652,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 64,
+            "pick_priority": 70,
+            "speed_priority": 76
+        }
+    },
+    "tsutomu": {
+        "name": "Tsutomu",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tsutomu.png?raw=true",
+        "element": "Green",
+        "role": "Damage Dealer",
+        "rarity": "SR",
+        "base_speed": 121,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 70,
+            "pick_priority": 74,
+            "speed_priority": 79
+        }
     },
     "turandot": {
         "name": "Turandot",
@@ -2992,9 +3740,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 1
-        },
-        "speed_priority": 1
+            "ban_priority": 68,
+            "pick_priority": 72,
+            "speed_priority": 78
+        }
     },
     "valerian": {
         "name": "Valerian",
@@ -3048,9 +3797,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 1
-        },
-        "speed_priority": 1
+            "ban_priority": 99,
+            "pick_priority": 98,
+            "speed_priority": 90
+        }
     },
     "veronika": {
         "name": "Veronika",
@@ -3092,9 +3842,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 78,
+            "pick_priority": 82,
+            "speed_priority": 84
+        }
     },
     "victor": {
         "name": "Victor",
@@ -3133,9 +3884,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
+            "ban_priority": 72,
+            "pick_priority": 76,
+            "speed_priority": 80
+        }
+    },
+    "viper": {
+        "name": "Viper",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/viper.png?raw=true",
+        "element": "Blue",
+        "role": "Bruiser/Debuffer",
+        "rarity": "SR",
+        "base_speed": 115,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 4
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 80,
+            "pick_priority": 84,
+            "speed_priority": 86
+        }
     },
     "xiada": {
         "name": "Xiada",
@@ -3177,9 +3971,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 60,
+            "pick_priority": 66,
+            "speed_priority": 70
+        }
     },
     "xuan chi": {
         "name": "Xuan Chi",
@@ -3244,9 +4039,10 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
-        },
-        "speed_priority": 3
+            "ban_priority": 97,
+            "pick_priority": 95,
+            "speed_priority": 92
+        }
     },
     "xuan li": {
         "name": "Xuan Li",
@@ -3305,9 +4101,52 @@
             ]
         },
         "draft": {
-            "ban_priority": 3
+            "ban_priority": 99,
+            "pick_priority": 97,
+            "speed_priority": 94
+        }
+    },
+    "yang": {
+        "name": "Yang",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/yang.png?raw=true",
+        "element": "Blue",
+        "role": "Support/Buffer",
+        "rarity": "SR",
+        "base_speed": 122,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "TBD"
+            ],
+            "sets": [
+                "TBD"
+            ],
+            "mainstats": [
+                "TBD"
+            ],
+            "substats": [
+                "TBD"
+            ]
         },
-        "speed_priority": 3
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 72,
+            "pick_priority": 76,
+            "speed_priority": 80
+        }
     },
     "yeli": {
         "name": "Yeli",
@@ -3350,8 +4189,9 @@
             ]
         },
         "draft": {
-            "ban_priority": 4
-        },
-        "speed_priority": 4
+            "ban_priority": 82,
+            "pick_priority": 88,
+            "speed_priority": 84
+        }
     }
 }

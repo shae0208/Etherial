@@ -2,7 +2,19 @@ import os
 import discord
 from functools import wraps
 from typing import Optional
-from utils.premium_view import PremiumView
+
+class PremiumView(discord.ui.View):
+    def __init__(self):
+        super().__init__(timeout=None)
+
+        sku_id = os.getenv('PREMIUM_SKU_ID')
+
+        self.add_item(
+            discord.ui.Button(
+                style=discord.ButtonStyle.premium,
+                sku_id=sku_id,
+            )
+        )
 
 def get_premium_sku_id() -> Optional[int]:
     value = os.getenv('PREMIUM_SKU_ID')

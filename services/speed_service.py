@@ -15,9 +15,9 @@ class SpeedService:
             
             team_data.append({
                 "name": data[key]['name'],
-                "priority": data[key]["speed_priority"]
+                "priority": data[key]['draft']["speed_priority"]
             })
         
-        team_data.sort(key = lambda x: x["priority"])
+        team_data.sort(key=lambda x: x["priority"], reverse=True)
         
         return team_data
