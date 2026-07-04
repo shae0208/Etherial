@@ -27,17 +27,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Airon",
+                "Raymerry",
+                "Areal"
             ],
             "Team 2": [
-                "TBD"
+                "Airon",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Airon",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -73,23 +82,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Areal",
+                "Raymerry",
+                "Plume"
             ],
             "Team 2": [
-                "TBD"
+                "Areal",
+                "Fiamelia",
+                "Sylvia"
             ],
             "Team 3": [
-                "TBD"
+                "Areal",
+                "Liliam",
+                "Nathenn"
             ]
         },
         "draft": {
             "ban_priority": 95,
-            "pick_priority": 90,
-            "speed_priority": 88
+            "pick_priority": 92,
+            "speed_priority": 90
         }
     },
     "asal": {
@@ -118,7 +136,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -170,7 +191,10 @@
             ]
         },
         "counters": [
-            "Holden"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -192,7 +216,7 @@
         "draft": {
             "ban_priority": 70,
             "pick_priority": 74,
-            "speed_priority": 74
+            "speed_priority": 95
         }
     },
     "batsby": {
@@ -218,17 +242,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Batsby",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Batsby",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Batsby",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -264,23 +297,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Beyontin",
+                "Liliam",
+                "Plume"
             ],
             "Team 2": [
-                "TBD"
+                "Beyontin",
+                "Nathenn",
+                "Raymerry"
             ],
             "Team 3": [
-                "TBD"
+                "Beyontin",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
             "ban_priority": 82,
             "pick_priority": 84,
-            "speed_priority": 80
+            "speed_priority": 90
         }
     },
     "borgne": {
@@ -311,17 +353,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam",
+            "Plume",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Borgne",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Borgne",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Borgne",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -353,17 +404,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Bornova",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Bornova",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Bornova",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -395,17 +455,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Cachi",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Cachi",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Cachi",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -437,23 +506,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Cachi the Guard",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Cachi the Guard",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Cachi the Guard",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
             "ban_priority": 66,
-            "pick_priority": 70,
-            "speed_priority": 66
+            "pick_priority": 72,
+            "speed_priority": 69
         }
     },
     "celince": {
@@ -484,19 +562,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
                 "Celince",
-                "Holden",
-                "Sylph"
+                "Liliam",
+                "Plume"
             ],
             "Team 2": [
-                "TBD"
+                "Celince",
+                "Areal",
+                "Raymerry"
             ],
             "Team 3": [
-                "TBD"
+                "Celince",
+                "Gray",
+                "Nathenn"
             ]
         },
         "draft": {
@@ -528,17 +613,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Chiaki",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Chiaki",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Chiaki",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -570,17 +664,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Chiaki the Echo",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Chiaki the Echo",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Chiaki the Echo",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -612,17 +715,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Dinah",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Dinah",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Dinah",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -654,17 +766,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Diting",
+                "Liliam",
+                "Plume"
             ],
             "Team 2": [
-                "TBD"
+                "Diting",
+                "Fiamelia",
+                "Sylvia"
             ],
             "Team 3": [
-                "TBD"
+                "Diting",
+                "Areal",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -702,9 +823,10 @@
             ]
         },
         "counters": [
-            "Mio",
-            "Nahor",
-            "Holden"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -757,17 +879,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Dorothy",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Dorothy",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Dorothy",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -799,17 +930,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Dorothy the Wisher",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Dorothy the Wisher",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Dorothy the Wisher",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -841,17 +981,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Fangus",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Fangus",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Fangus",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -889,32 +1038,32 @@
             ]
         },
         "counters": [
-            "Sharon",
             "Nathenn",
-            "Celince",
-            "Lowan"
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Fiamelia",
-                "Nathenn",
-                "Raymerry"
+                "Raymerry",
+                "Plume"
             ],
             "Team 2": [
                 "Fiamelia",
-                "Kethos",
-                "Raymerry"
+                "Areal",
+                "Liliam"
             ],
             "Team 3": [
                 "Fiamelia",
-                "Raymerry",
-                "Lowan"
+                "Sylvia",
+                "Xuan Chi"
             ]
         },
         "draft": {
-            "ban_priority": 92,
-            "pick_priority": 90,
-            "speed_priority": 83
+            "ban_priority": 93,
+            "pick_priority": 91,
+            "speed_priority": 85
         }
     },
     "freya": {
@@ -945,17 +1094,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Freya",
+                "Raymerry",
+                "Areal"
             ],
             "Team 2": [
-                "TBD"
+                "Freya",
+                "Liliam",
+                "Nathenn"
             ],
             "Team 3": [
-                "TBD"
+                "Freya",
+                "Plume",
+                "Fiamelia"
             ]
         },
         "draft": {
@@ -991,7 +1149,10 @@
             ]
         },
         "counters": [
-            "Holden"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -1047,7 +1208,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam",
+            "Plume",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -1095,21 +1259,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
                 "Lumiwarden Diting",
-                "Lowan",
-                "Valerian"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Lumiwarden Diting",
-                "Lowan",
-                "Sylph"
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Lumiwarden Diting",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1141,17 +1310,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Gray",
+                "Xuan Li",
+                "Xuan Chi"
             ],
             "Team 2": [
-                "TBD"
+                "Gray",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Gray",
+                "Areal",
+                "Liliam"
             ]
         },
         "draft": {
@@ -1186,17 +1364,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Heinrich",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Heinrich",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Heinrich",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1231,17 +1418,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Helkid",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Helkid",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Helkid",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1273,17 +1469,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Hizuki Mari",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Hizuki Mari",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Hizuki Mari",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1320,23 +1525,26 @@
             ]
         },
         "counters": [
-            "Celince"
+            "Holden",
+            "Kethos",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Holden",
-                "Lilith",
-                "Lingluo"
+                "Liliam",
+                "Plume"
             ],
             "Team 2": [
                 "Holden",
-                "Tiamat",
-                "Lingluo"
+                "Areal",
+                "Raymerry"
             ],
             "Team 3": [
                 "Holden",
-                "Celince",
-                "Sylph"
+                "Fiamelia",
+                "Sylvia"
             ]
         },
         "draft": {
@@ -1373,17 +1581,26 @@
             ]
         },
         "counters": [
-            "Celince"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Hoyan",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Hoyan",
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
-                "TBD"
+                "Hoyan",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1415,17 +1632,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Kazami Kazuyo",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Kazami Kazuyo",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Kazami Kazuyo",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1457,17 +1683,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Kazuyo",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Kazuyo",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Kazuyo",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1503,33 +1738,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Kethos",
-                "Luvia",
-                "Xuan Chi"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Kethos",
-                "Raymerry",
-                "Fiamelia"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Kethos",
-                "Raymerry",
-                "Mizumi Aya"
-            ],
-            "Team 4": [
-                "Kethos",
-                "Rahu",
-                "Sania"
-            ],
-            "Team 5": [
-                "Kethos",
-                "Raymerry",
-                "Sania"
+                "Fiamelia",
+                "Sylvia"
             ]
         },
         "draft": {
@@ -1561,17 +1789,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Khloros",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Khloros",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Khloros",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1607,17 +1844,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Kloss",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Kloss",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Kloss",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1651,21 +1897,26 @@
             ]
         },
         "counters": [
-            "Celince"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
                 "Kokardi",
-                "Mizumi Aya",
-                "Valerian"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Kokardi",
-                "Fuqui",
-                "Dokidoki"
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Kokardi",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1700,17 +1951,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Kraken",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Kraken",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Kraken",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1745,17 +2005,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Lian",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Lian",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Lian",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1792,23 +2061,32 @@
             ]
         },
         "counters": [
-            "Hoyan"
+            "Areal",
+            "Kethos",
+            "Nathenn",
+            "Holden"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Liliam",
+                "Plume",
+                "Areal"
             ],
             "Team 2": [
-                "TBD"
+                "Liliam",
+                "Raymerry",
+                "Nathenn"
             ],
             "Team 3": [
-                "TBD"
+                "Liliam",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 88,
-            "pick_priority": 91,
-            "speed_priority": 88
+            "ban_priority": 89,
+            "pick_priority": 92,
+            "speed_priority": 89
         }
     },
     "lilith": {
@@ -1836,19 +2114,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Lilith",
-                "Holden",
-                "Lingluo"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Lilith",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Lilith",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -1885,19 +2170,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Lily",
-                "Nathenn",
-                "Sylvia"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Lily",
+                "Plume",
+                "Fiamelia"
             ],
             "Team 3": [
-                "TBD"
+                "Lily",
+                "Liliam",
+                "Nathenn"
             ]
         },
         "draft": {
@@ -1934,7 +2226,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -1986,7 +2281,10 @@
             ]
         },
         "counters": [
-            "Kokardi"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -2058,7 +2356,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -2106,17 +2407,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Marvell",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Marvell",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Marvell",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2151,17 +2461,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Massiah",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Massiah",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Massiah",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2196,17 +2515,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Mia",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Mia",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Mia",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2242,17 +2570,26 @@
             ]
         },
         "counters": [
-            "Liliam"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Mio",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Mio",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Mio",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2284,17 +2621,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam",
+            "Plume",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Mizuki",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Mizuki",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Mizuki",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2330,17 +2676,26 @@
             ]
         },
         "counters": [
-            "Liliam"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Nahor",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Nahor",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Nahor",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2377,28 +2732,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Kethos",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Nathenn",
-                "Raymerry",
-                "Fiamelia"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Nathenn",
-                "Lily",
-                "Sylvia"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Nathenn",
-                "Plume",
+                "Fiamelia",
                 "Sylvia"
-            ],
-            "Team 4": [
-                "Nathenn",
-                "Raymerry",
-                "Sania"
             ]
         },
         "draft": {
@@ -2430,17 +2783,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Nell",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Nell",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Nell",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2476,17 +2838,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Nevette",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Nevette",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Nevette",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2521,17 +2892,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Ninfoniel",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Ninfoniel",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Ninfoniel",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2563,17 +2943,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Obol",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Obol",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Obol",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2605,17 +2994,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Oboro",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Oboro",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Oboro",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2651,19 +3049,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Palin",
-                "Asal",
-                "Gianc"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Palin",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Palin",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2701,37 +3106,32 @@
             ]
         },
         "counters": [
-            "Fuqui",
-            "Tiamat",
-            "Raymerry",
-            "Celince"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Kethos"
         ],
         "teams": {
             "Team 1": [
                 "Plume",
-                "Nathenn",
-                "Sylvia"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Plume",
-                "Tiamat",
-                "Sania"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 3": [
                 "Plume",
-                "Raymerry",
-                "Sania"
-            ],
-            "Team 4": [
-                "Plume",
-                "Tiamat",
-                "Lingluo"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 90,
-            "pick_priority": 94,
-            "speed_priority": 95
+            "ban_priority": 91,
+            "pick_priority": 95,
+            "speed_priority": 96
         }
     },
     "qano": {
@@ -2760,17 +3160,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Qano",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Qano",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Qano",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2805,7 +3214,10 @@
             ]
         },
         "counters": [
-            "Celince"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -2868,53 +3280,32 @@
             ]
         },
         "counters": [
-            "Mio",
-            "Lowan",
-            "Celince",
-            "Fuqui",
-            "Veronika"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Raymerry",
-                "Nathenn",
-                "Fiamelia"
+                "Areal",
+                "Plume"
             ],
             "Team 2": [
                 "Raymerry",
-                "Nathenn",
-                "Sania"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 3": [
                 "Raymerry",
-                "Kethos",
-                "Fiamelia"
-            ],
-            "Team 4": [
-                "Raymerry",
-                "Lowan",
-                "Fiamelia"
-            ],
-            "Team 5": [
-                "Raymerry",
-                "Xuan Chi",
-                "Sania"
-            ],
-            "Team 6": [
-                "Raymerry",
-                "Plume",
-                "Sania"
-            ],
-            "Team 7": [
-                "Raymerry",
-                "Kethos",
-                "Sania"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 94,
-            "pick_priority": 90,
-            "speed_priority": 86
+            "ban_priority": 93,
+            "pick_priority": 89,
+            "speed_priority": 88
         }
     },
     "rc-77": {
@@ -2940,17 +3331,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "RC-77",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "RC-77",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "RC-77",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -2982,17 +3382,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Rilmocha",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Rilmocha",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Rilmocha",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -3024,17 +3433,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Rin",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Rin",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Rin",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -3066,17 +3484,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Rin the Unbowed",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Rin the Unbowed",
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
-                "TBD"
+                "Rin the Unbowed",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -3112,7 +3539,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3159,64 +3589,32 @@
             ]
         },
         "counters": [
-            "Celince"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Sania",
-                "Nathenn",
+                "Areal",
                 "Raymerry"
             ],
             "Team 2": [
                 "Sania",
-                "Xuan Chi",
-                "Xuan Li"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Sania",
-                "Asal",
-                "Fuqui"
-            ],
-            "Team 4": [
-                "Sania",
-                "Sharon",
-                "Xuan Chi"
-            ],
-            "Team 5": [
-                "Sania",
-                "Raymerry",
-                "Xuan Chi"
-            ],
-            "Team 6": [
-                "Sania",
-                "Tiamat",
-                "Plume"
-            ],
-            "Team 7": [
-                "Sania",
-                "Raymerry",
-                "Plume"
-            ],
-            "Team 8": [
-                "Sania",
-                "Rahu",
-                "Kethos"
-            ],
-            "Team 9": [
-                "Sania",
-                "Rahu",
-                "Lowan"
-            ],
-            "Team 10": [
-                "Sania",
-                "Raymerry",
-                "Kethos"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 66,
-            "pick_priority": 70,
-            "speed_priority": 72
+            "ban_priority": 78,
+            "pick_priority": 82,
+            "speed_priority": 83
         }
     },
     "santik": {
@@ -3248,7 +3646,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -3295,7 +3696,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3337,7 +3741,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Valerian",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3383,23 +3790,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Sharon",
+            "Massiah",
+            "Areal",
+            "Holden"
         ],
         "teams": {
             "Team 1": [
                 "Sharon",
-                "Luvia",
-                "Xuan Chi"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Sharon",
-                "Luvia",
-                "Sylvia"
+                "Plume",
+                "Liliam"
             ],
             "Team 3": [
                 "Sharon",
-                "Xuan Chi",
-                "Sania"
+                "Fiamelia",
+                "Nathenn"
             ]
         },
         "draft": {
@@ -3431,7 +3841,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3479,7 +3892,10 @@
             ]
         },
         "counters": [
-            "Holden"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -3531,29 +3947,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Sylvia",
-                "Nathenn",
-                "Lily"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Sylvia",
-                "Nathenn",
+                "Liliam",
                 "Plume"
             ],
             "Team 3": [
                 "Sylvia",
-                "Sharon",
-                "Luvia"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 92,
-            "pick_priority": 89,
-            "speed_priority": 84
+            "ban_priority": 91,
+            "pick_priority": 88,
+            "speed_priority": 85
         }
     },
     "tiamat": {
@@ -3584,9 +4003,10 @@
             ]
         },
         "counters": [
-            "Mio",
-            "Lowan",
-            "Celince"
+            "Areal",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3638,7 +4058,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -3654,7 +4077,7 @@
         "draft": {
             "ban_priority": 64,
             "pick_priority": 70,
-            "speed_priority": 76
+            "speed_priority": 95
         }
     },
     "tsutomu": {
@@ -3680,7 +4103,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3726,23 +4152,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Turandot",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Turandot",
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
-                "TBD"
+                "Turandot",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 68,
-            "pick_priority": 72,
-            "speed_priority": 78
+            "ban_priority": 98,
+            "pick_priority": 84,
+            "speed_priority": 98
         }
     },
     "valerian": {
@@ -3772,34 +4207,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Valerian",
-                "Asal",
-                "Xuan Chi"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Valerian",
-                "Lowan",
-                "Xuan Chi"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Valerian",
-                "Lowan",
-                "Lumiwarden Diting"
-            ],
-            "Team 4": [
-                "Valerian",
-                "Kokardi",
-                "Mizumi Aya"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
             "ban_priority": 99,
             "pick_priority": 98,
-            "speed_priority": 90
+            "speed_priority": 92
         }
     },
     "veronika": {
@@ -3828,7 +4261,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -3870,7 +4306,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Liliam",
+            "Plume",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
@@ -3912,23 +4351,32 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Kethos",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Viper",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Viper",
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
-                "TBD"
+                "Viper",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
-            "ban_priority": 80,
-            "pick_priority": 84,
-            "speed_priority": 86
+            "ban_priority": 82,
+            "pick_priority": 86,
+            "speed_priority": 88
         }
     },
     "xiada": {
@@ -3957,7 +4405,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -4004,38 +4455,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Holden",
+            "Kethos",
+            "Areal",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
                 "Xuan Chi",
-                "Sharon",
-                "Luvia"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Xuan Chi",
-                "Luvia",
-                "Kethos"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Xuan Chi",
-                "Xuan Li",
-                "Sania"
-            ],
-            "Team 4": [
-                "Xuan Chi",
-                "Sharon",
-                "Sania"
-            ],
-            "Team 5": [
-                "Xuan Chi",
-                "Raymerry",
-                "Sania"
-            ],
-            "Team 6": [
-                "Xuan Chi",
-                "Asal",
-                "Valerian"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -4071,33 +4510,26 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Areal",
+            "Valerian",
+            "Nathenn",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
                 "Xuan Li",
-                "Xuan Chi",
-                "Sania"
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
                 "Xuan Li",
-                "Lowan",
-                "Valerian"
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
                 "Xuan Li",
-                "Lowan",
-                "Dokidoki"
-            ],
-            "Team 4": [
-                "Xuan Li",
-                "Gianc",
-                "Dokidoki"
-            ],
-            "Team 5": [
-                "Xuan Li",
-                "Gianc",
-                "Mizumi Aya"
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
@@ -4129,7 +4561,10 @@
             ]
         },
         "counters": [
-            "TBD"
+            "Nathenn",
+            "Raymerry",
+            "Holden",
+            "Valerian"
         ],
         "teams": {
             "Team 1": [
@@ -4175,17 +4610,26 @@
             ]
         },
         "counters": [
-            "Hoyan"
+            "Areal",
+            "Kethos",
+            "Holden",
+            "Raymerry"
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Yeli",
+                "Areal",
+                "Raymerry"
             ],
             "Team 2": [
-                "TBD"
+                "Yeli",
+                "Liliam",
+                "Plume"
             ],
             "Team 3": [
-                "TBD"
+                "Yeli",
+                "Fiamelia",
+                "Gray"
             ]
         },
         "draft": {
