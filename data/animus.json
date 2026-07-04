@@ -35,18 +35,23 @@
         "teams": {
             "Team 1": [
                 "Airon",
-                "Raymerry",
-                "Areal"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Airon",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Airon",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Lowan",
+                "Airon",
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -90,18 +95,18 @@
         "teams": {
             "Team 1": [
                 "Areal",
-                "Raymerry",
-                "Plume"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Areal",
-                "Fiamelia",
-                "Sylvia"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Areal",
-                "Liliam",
-                "Nathenn"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -144,15 +149,30 @@
         "teams": {
             "Team 1": [
                 "Asal",
-                "Sania",
-                "Fuqui"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Asal",
-                "Xuan Chi",
+                "Raymerry",
                 "Valerian"
             ],
             "Team 3": [
+                "Asal",
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Asal",
+                "Sania",
+                "Fuqui"
+            ],
+            "Team 5": [
+                "Asal",
+                "Xuan Li",
+                "Valerian"
+            ],
+            "Team 6": [
                 "Asal",
                 "Gianc",
                 "Palin"
@@ -199,18 +219,33 @@
         "teams": {
             "Team 1": [
                 "Mizumi Aya",
-                "Kethos",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Mizumi Aya",
-                "Kokardi",
-                "Valerian"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Mizumi Aya",
-                "Gianc",
-                "Xuan Li"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Xuan Chi",
+                "Mizumi Aya",
+                "Sharon"
+            ],
+            "Team 5": [
+                "Mizumi Aya",
+                "Kethos",
+                "Raymerry"
+            ],
+            "Team 6": [
+                "Mizumi Aya",
+                "Valerian",
+                "Kokardi"
             ]
         },
         "draft": {
@@ -251,17 +286,17 @@
             "Team 1": [
                 "Batsby",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Batsby",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Batsby",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -306,17 +341,17 @@
             "Team 1": [
                 "Beyontin",
                 "Liliam",
-                "Plume"
+                "Nathenn"
             ],
             "Team 2": [
                 "Beyontin",
-                "Nathenn",
-                "Raymerry"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Beyontin",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -362,17 +397,22 @@
             "Team 1": [
                 "Borgne",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Borgne",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Borgne",
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
                 "Fiamelia",
-                "Gray"
+                "Borgne",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -413,17 +453,17 @@
             "Team 1": [
                 "Bornova",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Bornova",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Bornova",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -464,17 +504,17 @@
             "Team 1": [
                 "Cachi",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Cachi",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Cachi",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -514,18 +554,18 @@
         "teams": {
             "Team 1": [
                 "Cachi the Guard",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Cachi the Guard",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Cachi the Guard",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -571,17 +611,22 @@
             "Team 1": [
                 "Celince",
                 "Liliam",
-                "Plume"
+                "Nathenn"
             ],
             "Team 2": [
                 "Celince",
-                "Areal",
-                "Raymerry"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Celince",
-                "Gray",
-                "Nathenn"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Holden",
+                "Celince",
+                "Sylph"
             ]
         },
         "draft": {
@@ -621,18 +666,18 @@
         "teams": {
             "Team 1": [
                 "Chiaki",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Chiaki",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Chiaki",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -672,18 +717,18 @@
         "teams": {
             "Team 1": [
                 "Chiaki the Echo",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Chiaki the Echo",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Chiaki the Echo",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -723,18 +768,18 @@
         "teams": {
             "Team 1": [
                 "Dinah",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Dinah",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Dinah",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -774,18 +819,18 @@
         "teams": {
             "Team 1": [
                 "Diting",
-                "Liliam",
-                "Plume"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Diting",
-                "Fiamelia",
-                "Sylvia"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Diting",
-                "Areal",
-                "Raymerry"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -831,23 +876,33 @@
         "teams": {
             "Team 1": [
                 "Dokidoki",
-                "Lowan",
-                "Xuan Li"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Dokidoki",
-                "Gianc",
-                "Xuan Li"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Dokidoki",
-                "Kokardi",
-                "Fuqui"
+                "Holden",
+                "Valerian"
             ],
             "Team 4": [
+                "Lowan",
+                "Xuan Li",
+                "Dokidoki"
+            ],
+            "Team 5": [
+                "Gianc",
+                "Xuan Li",
+                "Dokidoki"
+            ],
+            "Team 6": [
                 "Dokidoki",
-                "Rahu",
-                "Fuqui"
+                "Fuqui",
+                "Kokardi"
             ]
         },
         "draft": {
@@ -887,18 +942,18 @@
         "teams": {
             "Team 1": [
                 "Dorothy",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Dorothy",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Dorothy",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -938,18 +993,18 @@
         "teams": {
             "Team 1": [
                 "Dorothy the Wisher",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Dorothy the Wisher",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Dorothy the Wisher",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -990,17 +1045,17 @@
             "Team 1": [
                 "Fangus",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Fangus",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Fangus",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -1046,18 +1101,33 @@
         "teams": {
             "Team 1": [
                 "Fiamelia",
-                "Raymerry",
-                "Plume"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Fiamelia",
-                "Areal",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Fiamelia",
-                "Sylvia",
-                "Xuan Chi"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Raymerry",
+                "Fiamelia"
+            ],
+            "Team 5": [
+                "Fiamelia",
+                "Kethos",
+                "Raymerry"
+            ],
+            "Team 6": [
+                "Fiamelia",
+                "Lowan",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -1102,18 +1172,18 @@
         "teams": {
             "Team 1": [
                 "Freya",
-                "Raymerry",
-                "Areal"
-            ],
-            "Team 2": [
-                "Freya",
                 "Liliam",
                 "Nathenn"
             ],
+            "Team 2": [
+                "Freya",
+                "Raymerry",
+                "Kethos"
+            ],
             "Team 3": [
                 "Freya",
-                "Plume",
-                "Fiamelia"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1157,23 +1227,33 @@
         "teams": {
             "Team 1": [
                 "Fuqui",
-                "Asal",
-                "Sania"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Fuqui",
-                "Kokardi",
-                "Dokidoki"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Fuqui",
-                "Rahu",
-                "Dokidoki"
+                "Holden",
+                "Valerian"
             ],
             "Team 4": [
+                "Asal",
+                "Sania",
+                "Fuqui"
+            ],
+            "Team 5": [
+                "Dokidoki",
                 "Fuqui",
-                "Rahu",
-                "Santik"
+                "Kokardi"
+            ],
+            "Team 6": [
+                "Dokidoki",
+                "Fuqui",
+                "Rahu"
             ]
         },
         "draft": {
@@ -1216,15 +1296,30 @@
         "teams": {
             "Team 1": [
                 "Gianc",
-                "Asal",
-                "Palin"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
+                "Gianc",
+                "Raymerry",
+                "Valerian"
+            ],
+            "Team 3": [
+                "Gianc",
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Asal",
+                "Gianc",
+                "Palin"
+            ],
+            "Team 5": [
                 "Gianc",
                 "Xuan Li",
                 "Dokidoki"
             ],
-            "Team 3": [
+            "Team 6": [
                 "Gianc",
                 "Xuan Li",
                 "Mizumi Aya"
@@ -1268,17 +1363,27 @@
             "Team 1": [
                 "Lumiwarden Diting",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Lumiwarden Diting",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Lumiwarden Diting",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Lowan",
+                "Valerian",
+                "Lumiwarden Diting"
+            ],
+            "Team 5": [
+                "Lumiwarden Diting",
+                "Lowan",
+                "Sylph"
             ]
         },
         "draft": {
@@ -1318,18 +1423,18 @@
         "teams": {
             "Team 1": [
                 "Gray",
-                "Xuan Li",
-                "Xuan Chi"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Gray",
                 "Raymerry",
-                "Valerian"
+                "Kethos"
             ],
             "Team 3": [
                 "Gray",
-                "Areal",
-                "Liliam"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1373,17 +1478,17 @@
             "Team 1": [
                 "Heinrich",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Heinrich",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Heinrich",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1427,17 +1532,17 @@
             "Team 1": [
                 "Helkid",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Helkid",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Helkid",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -1478,17 +1583,17 @@
             "Team 1": [
                 "Hizuki Mari",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Hizuki Mari",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Hizuki Mari",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1533,18 +1638,33 @@
         "teams": {
             "Team 1": [
                 "Holden",
-                "Liliam",
-                "Plume"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Holden",
-                "Areal",
-                "Raymerry"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Holden",
-                "Fiamelia",
-                "Sylvia"
+                "Valerian",
+                "Areal"
+            ],
+            "Team 4": [
+                "Holden",
+                "Lowan",
+                "Sylph"
+            ],
+            "Team 5": [
+                "Holden",
+                "Lilith",
+                "Lingluo"
+            ],
+            "Team 6": [
+                "Holden",
+                "Tiamat",
+                "Lingluo"
             ]
         },
         "draft": {
@@ -1590,17 +1710,17 @@
             "Team 1": [
                 "Hoyan",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Hoyan",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Hoyan",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -1640,18 +1760,18 @@
         "teams": {
             "Team 1": [
                 "Kazami Kazuyo",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Kazami Kazuyo",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Kazami Kazuyo",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1690,19 +1810,19 @@
         ],
         "teams": {
             "Team 1": [
-                "Kazuyo",
+                "Kazuyo the Reverie",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
-                "Kazuyo",
-                "Plume",
-                "Liliam"
+                "Kazuyo the Reverie",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "Kazuyo",
-                "Fiamelia",
-                "Gray"
+                "Kazuyo the Reverie",
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1747,17 +1867,32 @@
             "Team 1": [
                 "Kethos",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Kethos",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Areal"
             ],
             "Team 3": [
                 "Kethos",
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Luvia",
+                "Kethos",
+                "Xuan Chi"
+            ],
+            "Team 5": [
+                "Xuan Chi",
+                "Sania",
+                "Kethos"
+            ],
+            "Team 6": [
                 "Fiamelia",
-                "Sylvia"
+                "Kethos",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -1798,17 +1933,17 @@
             "Team 1": [
                 "Khloros",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Khloros",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Khloros",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -1852,18 +1987,18 @@
         "teams": {
             "Team 1": [
                 "Kloss",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Kloss",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Kloss",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -1906,17 +2041,32 @@
             "Team 1": [
                 "Kokardi",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Kokardi",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Kokardi",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Mizumi Aya",
+                "Valerian",
+                "Kokardi"
+            ],
+            "Team 5": [
+                "Santik",
+                "Valerian",
+                "Kokardi"
+            ],
+            "Team 6": [
+                "Dokidoki",
+                "Fuqui",
+                "Kokardi"
             ]
         },
         "draft": {
@@ -1960,17 +2110,17 @@
             "Team 1": [
                 "Kraken",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Kraken",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Kraken",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2014,17 +2164,17 @@
             "Team 1": [
                 "Lian",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Lian",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Lian",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -2069,18 +2219,18 @@
         "teams": {
             "Team 1": [
                 "Liliam",
-                "Plume",
-                "Areal"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Liliam",
                 "Raymerry",
-                "Nathenn"
+                "Kethos"
             ],
             "Team 3": [
                 "Liliam",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2123,17 +2273,22 @@
             "Team 1": [
                 "Lilith",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Lilith",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Lilith",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Holden",
+                "Lilith",
+                "Lingluo"
             ]
         },
         "draft": {
@@ -2178,18 +2333,18 @@
         "teams": {
             "Team 1": [
                 "Lily",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Lily",
-                "Plume",
-                "Fiamelia"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Lily",
-                "Liliam",
-                "Nathenn"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2234,18 +2389,33 @@
         "teams": {
             "Team 1": [
                 "Lingluo",
-                "Tiamat",
-                "Plume"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Lingluo",
-                "Holden",
-                "Lilith"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Lingluo",
                 "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Plume",
+                "Lingluo",
                 "Tiamat"
+            ],
+            "Team 5": [
+                "Kethos",
+                "Lingluo",
+                "Tiamat"
+            ],
+            "Team 6": [
+                "Holden",
+                "Lilith",
+                "Lingluo"
             ]
         },
         "draft": {
@@ -2289,38 +2459,33 @@
         "teams": {
             "Team 1": [
                 "Lowan",
-                "Raymerry",
-                "Fiamelia"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Lowan",
-                "Xuan Li",
-                "Valerian"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Lowan",
-                "Lumiwarden Diting",
+                "Holden",
                 "Valerian"
             ],
             "Team 4": [
+                "Luvia",
                 "Lowan",
-                "Xuan Li",
-                "Dokidoki"
+                "Sania"
             ],
             "Team 5": [
+                "Fiamelia",
                 "Lowan",
-                "Rahu",
-                "Sania"
+                "Raymerry"
             ],
             "Team 6": [
                 "Lowan",
-                "Lumiwarden Diting",
-                "Sylph"
-            ],
-            "Team 7": [
-                "Lowan",
-                "Rahu",
-                "Sylph"
+                "Valerian",
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -2364,15 +2529,30 @@
         "teams": {
             "Team 1": [
                 "Luvia",
+                "Areal",
+                "Nathenn"
+            ],
+            "Team 2": [
+                "Luvia",
+                "Raymerry",
+                "Kethos"
+            ],
+            "Team 3": [
+                "Luvia",
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Luvia",
                 "Sharon",
                 "Xuan Chi"
             ],
-            "Team 2": [
+            "Team 5": [
                 "Luvia",
                 "Sharon",
                 "Sylvia"
             ],
-            "Team 3": [
+            "Team 6": [
                 "Luvia",
                 "Kethos",
                 "Xuan Chi"
@@ -2416,17 +2596,17 @@
             "Team 1": [
                 "Marvell",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Marvell",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Marvell",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2470,17 +2650,17 @@
             "Team 1": [
                 "Massiah",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Massiah",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Massiah",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -2523,18 +2703,18 @@
         "teams": {
             "Team 1": [
                 "Mia",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Mia",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Mia",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2579,17 +2759,17 @@
             "Team 1": [
                 "Mio",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Mio",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Mio",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2628,19 +2808,19 @@
         ],
         "teams": {
             "Team 1": [
-                "Mizuki",
+                "Mizuki Makoto",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
-                "Mizuki",
-                "Plume",
-                "Liliam"
+                "Mizuki Makoto",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "Mizuki",
-                "Fiamelia",
-                "Gray"
+                "Mizuki Makoto",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -2685,17 +2865,17 @@
             "Team 1": [
                 "Nahor",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Nahor",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Nahor",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2745,13 +2925,28 @@
             ],
             "Team 2": [
                 "Nathenn",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Nathenn",
-                "Fiamelia",
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Raymerry",
+                "Fiamelia"
+            ],
+            "Team 5": [
+                "Nathenn",
+                "Plume",
                 "Sylvia"
+            ],
+            "Team 6": [
+                "Nathenn",
+                "Raymerry",
+                "Sania"
             ]
         },
         "draft": {
@@ -2791,18 +2986,18 @@
         "teams": {
             "Team 1": [
                 "Nell",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Nell",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Nell",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2847,17 +3042,17 @@
             "Team 1": [
                 "Nevette",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Nevette",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Nevette",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2900,18 +3095,18 @@
         "teams": {
             "Team 1": [
                 "Ninfoniel",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Ninfoniel",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Ninfoniel",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -2952,17 +3147,17 @@
             "Team 1": [
                 "Obol",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Obol",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Obol",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -3003,17 +3198,17 @@
             "Team 1": [
                 "Oboro",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Oboro",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Oboro",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3057,18 +3252,33 @@
         "teams": {
             "Team 1": [
                 "Palin",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Palin",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Palin",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Asal",
+                "Gianc",
+                "Palin"
+            ],
+            "Team 5": [
+                "Asal",
+                "Sania",
+                "Palin"
+            ],
+            "Team 6": [
+                "Asal",
+                "Valerian",
+                "Palin"
             ]
         },
         "draft": {
@@ -3114,18 +3324,33 @@
         "teams": {
             "Team 1": [
                 "Plume",
-                "Areal",
-                "Raymerry"
-            ],
-            "Team 2": [
-                "Plume",
                 "Liliam",
                 "Nathenn"
             ],
+            "Team 2": [
+                "Plume",
+                "Raymerry",
+                "Kethos"
+            ],
             "Team 3": [
                 "Plume",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Plume",
+                "Sylvia"
+            ],
+            "Team 5": [
+                "Plume",
+                "Sania",
+                "Tiamat"
+            ],
+            "Team 6": [
+                "Plume",
+                "Sania",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -3169,17 +3394,17 @@
             "Team 1": [
                 "Qano",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Qano",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Qano",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3222,28 +3447,33 @@
         "teams": {
             "Team 1": [
                 "Rahu",
-                "Kethos",
-                "Sania"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Rahu",
-                "Lowan",
-                "Sania"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Rahu",
-                "Lowan",
-                "Sylph"
+                "Holden",
+                "Kethos"
             ],
             "Team 4": [
+                "Gianc",
                 "Rahu",
-                "Fuqui",
-                "Dokidoki"
+                "Fiamelia"
             ],
             "Team 5": [
+                "Kethos",
                 "Rahu",
-                "Santik",
-                "Fuqui"
+                "Sania"
+            ],
+            "Team 6": [
+                "Lowan",
+                "Rahu",
+                "Sania"
             ]
         },
         "draft": {
@@ -3289,17 +3519,32 @@
             "Team 1": [
                 "Raymerry",
                 "Areal",
-                "Plume"
+                "Nathenn"
             ],
             "Team 2": [
                 "Raymerry",
-                "Liliam",
-                "Nathenn"
+                "Valerian",
+                "Areal"
             ],
             "Team 3": [
                 "Raymerry",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Raymerry",
+                "Fiamelia"
+            ],
+            "Team 5": [
+                "Nathenn",
+                "Raymerry",
+                "Sania"
+            ],
+            "Team 6": [
+                "Xuan Chi",
+                "Sania",
+                "Raymerry"
             ]
         },
         "draft": {
@@ -3340,17 +3585,17 @@
             "Team 1": [
                 "RC-77",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "RC-77",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "RC-77",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -3391,17 +3636,17 @@
             "Team 1": [
                 "Rilmocha",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Rilmocha",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Rilmocha",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3442,17 +3687,17 @@
             "Team 1": [
                 "Rin",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Rin",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Rin",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -3493,17 +3738,17 @@
             "Team 1": [
                 "Rin the Unbowed",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Rin the Unbowed",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Rin the Unbowed",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3546,13 +3791,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Rosa",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Rosa",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Rosa",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3597,18 +3848,33 @@
         "teams": {
             "Team 1": [
                 "Sania",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Sania",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Sania",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Raymerry",
+                "Sania"
+            ],
+            "Team 5": [
+                "Nathenn",
+                "Xuan Chi",
+                "Sania"
+            ],
+            "Team 6": [
+                "Luvia",
+                "Lowan",
+                "Sania"
             ]
         },
         "draft": {
@@ -3654,14 +3920,28 @@
         "teams": {
             "Team 1": [
                 "Santik",
-                "Rahu",
-                "Fuqui"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Santik",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Santik",
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Santik",
+                "Valerian",
+                "Kokardi"
+            ],
+            "Team 5": [
+                "Santik",
+                "Fuqui",
+                "Kokardi"
             ]
         },
         "draft": {
@@ -3703,13 +3983,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Senyu",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Senyu",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Senyu",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3748,13 +4034,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Shadow Sania",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Shadow Sania",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Shadow Sania",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -3799,17 +4091,32 @@
             "Team 1": [
                 "Sharon",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Sharon",
-                "Plume",
-                "Liliam"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Sharon",
-                "Fiamelia",
-                "Nathenn"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Luvia",
+                "Sharon",
+                "Xuan Chi"
+            ],
+            "Team 5": [
+                "Luvia",
+                "Sharon",
+                "Sylvia"
+            ],
+            "Team 6": [
+                "Luvia",
+                "Sharon",
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -3848,13 +4155,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Steelheart Dinah",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Steelheart Dinah",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Steelheart Dinah",
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -3900,18 +4213,33 @@
         "teams": {
             "Team 1": [
                 "Sylph",
-                "Lowan",
-                "Lumiwarden Diting"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Sylph",
-                "Lowan",
-                "Rahu"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Sylph",
                 "Holden",
-                "Celince"
+                "Valerian"
+            ],
+            "Team 4": [
+                "Lumiwarden Diting",
+                "Lowan",
+                "Sylph"
+            ],
+            "Team 5": [
+                "Holden",
+                "Lowan",
+                "Sylph"
+            ],
+            "Team 6": [
+                "Rahu",
+                "Lowan",
+                "Sylph"
             ]
         },
         "draft": {
@@ -3955,18 +4283,33 @@
         "teams": {
             "Team 1": [
                 "Sylvia",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Sylvia",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Sylvia",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Plume",
+                "Sylvia"
+            ],
+            "Team 5": [
+                "Nathenn",
+                "Xuan Chi",
+                "Sylvia"
+            ],
+            "Team 6": [
+                "Luvia",
+                "Sharon",
+                "Sylvia"
             ]
         },
         "draft": {
@@ -4011,18 +4354,33 @@
         "teams": {
             "Team 1": [
                 "Tiamat",
-                "Plume",
-                "Sania"
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
                 "Tiamat",
-                "Plume",
-                "Lingluo"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Tiamat",
                 "Holden",
-                "Lingluo"
+                "Kethos"
+            ],
+            "Team 4": [
+                "Plume",
+                "Sania",
+                "Tiamat"
+            ],
+            "Team 5": [
+                "Plume",
+                "Lingluo",
+                "Tiamat"
+            ],
+            "Team 6": [
+                "Kethos",
+                "Lingluo",
+                "Tiamat"
             ]
         },
         "draft": {
@@ -4065,13 +4423,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Tsukiyo Mi",
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Tsukiyo Mi",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Tsukiyo Mi",
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -4110,13 +4474,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Tsutomu",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Tsutomu",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Tsutomu",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -4160,18 +4530,23 @@
         "teams": {
             "Team 1": [
                 "Turandot",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Turandot",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Turandot",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Gianc",
+                "Xuan Li",
+                "Turandot"
             ]
         },
         "draft": {
@@ -4215,18 +4590,33 @@
         "teams": {
             "Team 1": [
                 "Valerian",
-                "Areal",
-                "Raymerry"
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
                 "Valerian",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Valerian",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Areal"
+            ],
+            "Team 4": [
+                "Asal",
+                "Xuan Li",
+                "Valerian"
+            ],
+            "Team 5": [
+                "Asal",
+                "Valerian",
+                "Palin"
+            ],
+            "Team 6": [
+                "Lowan",
+                "Valerian",
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -4268,13 +4658,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Veronika",
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Veronika",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Veronika",
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -4313,13 +4709,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Victor",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Victor",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Victor",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -4360,17 +4762,17 @@
             "Team 1": [
                 "Viper",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Viper",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Viper",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -4412,13 +4814,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Xiada",
+                "Areal",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Xiada",
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
-                "TBD"
+                "Xiada",
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
@@ -4464,17 +4872,32 @@
             "Team 1": [
                 "Xuan Chi",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Xuan Chi",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
                 "Xuan Chi",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Nathenn",
+                "Xuan Chi",
+                "Sania"
+            ],
+            "Team 5": [
+                "Nathenn",
+                "Xuan Chi",
+                "Sylvia"
+            ],
+            "Team 6": [
+                "Luvia",
+                "Sharon",
+                "Xuan Chi"
             ]
         },
         "draft": {
@@ -4519,17 +4942,32 @@
             "Team 1": [
                 "Xuan Li",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Xuan Li",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Xuan Li",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
+            ],
+            "Team 4": [
+                "Luvia",
+                "Sharon",
+                "Xuan Li"
+            ],
+            "Team 5": [
+                "Xuan Chi",
+                "Sania",
+                "Xuan Li"
+            ],
+            "Team 6": [
+                "Asal",
+                "Xuan Li",
+                "Valerian"
             ]
         },
         "draft": {
@@ -4568,13 +5006,19 @@
         ],
         "teams": {
             "Team 1": [
-                "TBD"
+                "Yang",
+                "Liliam",
+                "Nathenn"
             ],
             "Team 2": [
-                "TBD"
+                "Yang",
+                "Raymerry",
+                "Kethos"
             ],
             "Team 3": [
-                "TBD"
+                "Yang",
+                "Holden",
+                "Valerian"
             ]
         },
         "draft": {
@@ -4619,17 +5063,17 @@
             "Team 1": [
                 "Yeli",
                 "Areal",
-                "Raymerry"
+                "Nathenn"
             ],
             "Team 2": [
                 "Yeli",
-                "Liliam",
-                "Plume"
+                "Raymerry",
+                "Valerian"
             ],
             "Team 3": [
                 "Yeli",
-                "Fiamelia",
-                "Gray"
+                "Holden",
+                "Kethos"
             ]
         },
         "draft": {
