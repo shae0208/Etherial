@@ -477,7 +477,7 @@
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/cachi.png?raw=true",
         "element": "Red",
         "role": "Control",
-        "rarity": "SR",
+        "rarity": "R",
         "base_speed": 113,
         "lattice": "5|5|5",
         "build": {

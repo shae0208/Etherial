@@ -13,7 +13,7 @@ class BuildCog(commands.Cog):
         
         if not build:
             await interaction.response.send_message(
-                "Animus not found.",
+                "Animus not found. Use the /animus command to view all currently supported animus.",
                 ephemeral = True
             )
             return
