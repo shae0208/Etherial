@@ -5,7 +5,7 @@ from discord import app_commands
 from services.submit_service import SubmitService
 
 
-class SubmitModal(discord.ui.Modal, title="Suggest Animus Update"):
+class SubmitModal(discord.ui.Modal, title="Suggest an update to animus information"):
     animus = discord.ui.TextInput(
         label="Animus Name",
         placeholder="Enter the animus name",

@@ -7,7 +7,7 @@ class BuildCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         
-    @app_commands.command(name='build', description='View PvP build recommendations.')
+    @app_commands.command(name='build', description='View PvP build recommendations for the selected animus.')
     async def build(self, interaction: discord.Interaction, animus: str):
         build = BuildService.get_build(animus)
         

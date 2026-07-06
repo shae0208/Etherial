@@ -8,7 +8,7 @@ class AnimusCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @app_commands.command(name='animus', description='View all supported animus by rarity.')
+    @app_commands.command(name='animus', description='View currently supported animus.')
     async def animus(self, interaction: discord.Interaction):
         supported = AnimusService.get_supported_animus()
         ssr_names = supported.get('SSR', [])

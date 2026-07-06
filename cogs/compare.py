@@ -7,7 +7,7 @@ class CompareCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
     
-    @app_commands.command(name='compare', description='Compare Two Animus')
+    @app_commands.command(name='compare', description='View comparison of the selected animus.')
     async def compare(self, interaction: discord.Interaction, animus1: str, animus2: str):
         result = CompareService.get_comparison_data(animus1, animus2)
         

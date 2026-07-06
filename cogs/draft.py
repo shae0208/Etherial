@@ -8,7 +8,7 @@ class DraftCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
     
-    @app_commands.command(name='draft', description='Recommend draft bans.')
+    @app_commands.command(name='draft', description='View ban pick recommendation for the selected enemy draft.')
     # @require_premium()
     async def draft(self, interaction: discord.Interaction, animus1: str, animus2: str, animus3: str, animus4: str, animus5: str):
         enemy_team = [
