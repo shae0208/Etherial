@@ -525,7 +525,7 @@
     },
     "cachi the guard": {
         "name": "Cachi the Guard",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/guard%20cachi.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/guard_cachi.png?raw=true",
         "element": "Dark",
         "role": "Support/Buffer",
         "rarity": "SR",
@@ -637,7 +637,7 @@
     },
     "chiaki": {
         "name": "Chiaki",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/red%20chiaki.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki.png?raw=true",
         "element": "Red",
         "role": "Support/Healer",
         "rarity": "SR",
@@ -688,7 +688,7 @@
     },
     "chiaki the echo": {
         "name": "Chiaki the Echo",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki_echo.png?raw=true",
         "element": "Green",
         "role": "Support/Buffer",
         "rarity": "SR",
@@ -964,7 +964,7 @@
     },
     "dorothy the wisher": {
         "name": "Dorothy the Wisher",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/wisher%20dorothy.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/wisher_dorothy.png?raw=true",
         "element": "Red",
         "role": "Support/Healer",
         "rarity": "SR",
@@ -1333,7 +1333,7 @@
     },
     "giga diting": {
         "name": "Lumiwarden Diting",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga%20diting.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga_diting.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Support",
         "rarity": "SSR",
@@ -1731,7 +1731,7 @@
     },
     "kazami kazuyo": {
         "name": "Kazami Kazuyo",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/red%20kazuyo.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kazami_kazuyo.png?raw=true",
         "element": "Red",
         "role": "Support/Buffer",
         "rarity": "SR",
@@ -2886,7 +2886,7 @@
     },
     "nathenn": {
         "name": "Nathenn",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nathenn.JPG?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nathenn.png?raw=true",
         "element": "Green",
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
@@ -3657,7 +3657,7 @@
     },
     "rin": {
         "name": "Rin",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tank%20rin.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rin.png?raw=true",
         "element": "Red",
         "role": "Bruiser/Control",
         "rarity": "SR",
@@ -3708,7 +3708,7 @@
     },
     "rin the unbowed": {
         "name": "Rin the Unbowed",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rin.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/unbowed_rin.png?raw=true",
         "element": "Blue",
         "role": "Damage Dealer",
         "rarity": "SR",
@@ -4006,7 +4006,7 @@
     },
     "shadow sania": {
         "name": "Shadow Sania",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/shadow%20sania.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/shadow_sania.png?raw=true",
         "element": "Dark",
         "role": "Damage Dealer/DoT",
         "rarity": "SSR",
@@ -4127,7 +4127,7 @@
     },
     "steelheart dinah": {
         "name": "Steelheart Dinah",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/steel%20dinah.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/steel_dinah.png?raw=true",
         "element": "Light",
         "role": "Control",
         "rarity": "SR",
@@ -4250,7 +4250,7 @@
     },
     "sylvia": {
         "name": "Sylvia",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylvia.JPG?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylvia.png?raw=true",
         "element": "Red",
         "role": "Support/Healer",
         "rarity": "SSR",
@@ -4837,7 +4837,7 @@
     },
     "xuan chi": {
         "name": "Xuan Chi",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan-chi.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan_chi.png?raw=true",
         "element": "Light",
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
@@ -4908,7 +4908,7 @@
     },
     "xuan li": {
         "name": "Xuan Li",
-        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan%20li.png?raw=true",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan_li.png?raw=true",
         "element": "Dark",
         "role": "Bruiser/Support",
         "rarity": "SSR",
