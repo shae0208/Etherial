@@ -9,6 +9,7 @@ class TeamCog(commands.Cog):
         self.bot = bot
     
     @app_commands.command(name='team', description='View recommended teams.')
+    # @require_premium()
     async def team(self, interaction: discord.Interaction, animus: str):
         teams = TeamService.get_animus_teams(animus)
         
@@ -45,14 +46,6 @@ class TeamCog(commands.Cog):
             )
         
         await interaction.response.send_message(embed=embed)
-        
-    @app_commands.command(name='test', description='Test premium features')
-    @require_premium()
-    async def test(self, interaction: discord.Interaction):
-        await interaction.response.send_message(
-            "Premium is working as intended",
-            ephemeral = True
-        )
     
 async def setup(bot):
     await bot.add_cog(TeamCog(bot))

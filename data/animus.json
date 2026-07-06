@@ -112,7 +112,7 @@
         "draft": {
             "ban_priority": 95,
             "pick_priority": 92,
-            "speed_priority": 90
+            "speed_priority": 80
         }
     },
     "asal": {
@@ -1898,7 +1898,7 @@
         "draft": {
             "ban_priority": 92,
             "pick_priority": 88,
-            "speed_priority": 84
+            "speed_priority": 85
         }
     },
     "khloros": {
@@ -3550,7 +3550,7 @@
         "draft": {
             "ban_priority": 93,
             "pick_priority": 89,
-            "speed_priority": 88
+            "speed_priority": 80
         }
     },
     "rc-77": {
@@ -4314,8 +4314,8 @@
         },
         "draft": {
             "ban_priority": 91,
-            "pick_priority": 88,
-            "speed_priority": 85
+            "pick_priority": 90,
+            "speed_priority": 95
         }
     },
     "tiamat": {

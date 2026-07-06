@@ -2,12 +2,14 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 from services.speed_service import SpeedService
+from utils.premium import require_premium
 
 class SpeedTuneCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
     
     @app_commands.command(name='speedtune', description='Recommend speed order.')
+    # @require_premium()
     async def speedtune(self, interaction: discord.Interaction, animus1: str, animus2: str, animus3: str, animus4: str):
         team = [
             animus1,
@@ -17,6 +19,13 @@ class SpeedTuneCog(commands.Cog):
         ]
         
         order = SpeedService.speed_order(team)
+
+        if not order:
+            await interaction.response.send_message(
+                "No valid animus were found in the provided team.",
+                ephemeral=True
+            )
+            return
         
         embed = discord.Embed(title='Recommended Speed Order')
         
@@ -26,7 +35,7 @@ class SpeedTuneCog(commands.Cog):
         text = ""
         
         for idx, unit in enumerate(order, 1):
-            text += f'{idx}. {unit['name']}\n'
+            text += f"{idx}. {unit['name']}\n"
         
         embed.description = text
         

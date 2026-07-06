@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 from services.counter_service import CounterService
+from utils.premium import require_premium
 
 
 class CounterCog(commands.Cog):
@@ -9,6 +10,7 @@ class CounterCog(commands.Cog):
         self.bot = bot
 
     @app_commands.command(name='counter', description='Show counters for an Animus.')
+    # @require_premium()
     async def counter(self, interaction: discord.Interaction, animus: str):
         counters = CounterService.get_counters(animus)
 

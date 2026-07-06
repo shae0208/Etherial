@@ -22,6 +22,9 @@ class HelpCog(commands.Cog):
             "/animus - View currently supported animus.\n"
             "/build - View build guide for the selected animus.\n"
             "/compare - View comparison of two selected animus.\n"
+        )
+        
+        premium_commands = (
             "/team - View team recommendations for the selected animus.\n"
             "/counter - View counter recommendations for the selected animus.\n"
             "/speedtune - View speed tuning recommendations for selected team.\n"
@@ -41,6 +44,7 @@ class HelpCog(commands.Cog):
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)
         
         embed.add_field(name='Commands', value=commands, inline=False)
+        embed.add_field(name='Premium Commands', value=premium_commands, inline=False)
         embed.add_field(name='Contact', value=contact, inline=False)
         
         await interaction.response.send_message(embed=embed)
