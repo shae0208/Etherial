@@ -6,18 +6,18 @@
         "role": "Bruiser/Support",
         "rarity": "SSR",
         "base_speed": 118,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Alicorn"
             ],
             "sets": [
-                "Bloodbath / Strive / Swiftsmite",
-                "Bloodbath / Swiftrush / Swiftsmite"
+                "Bloodbath | Strive | Swiftsmite",
+                "Bloodbath | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -49,8 +49,8 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Lowan",
                 "Airon",
+                "Lowan",
                 "Xuan Li"
             ]
         },
@@ -67,17 +67,17 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 119,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Amber"
             ],
             "sets": [
-                "Bloodbath / Swiftrush / Evolguard"
+                "Bloodbath | Swiftrush | Evolguard"
             ],
             "mainstats": [
-                "CRIT / HP / CRIT"
+                "CRIT | HP | CRIT"
             ],
             "substats": [
                 "Speed",
@@ -122,16 +122,16 @@
         "role": "Damage Dealer",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Ace Batter"
             ],
             "sets": [
-                "Swiftrush / Battlewill / Swiftraid"
+                "Swiftrush | Battlewill | Swiftraid"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -191,17 +191,17 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 120,
-        "lattice": "1/5/1",
+        "lattice": "1|5|1",
         "build": {
             "shells": [
                 "Reaper Steps",
                 "Moon Bunny"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -233,8 +233,8 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Xuan Chi",
                 "Mizumi Aya",
+                "Xuan Chi",
                 "Sharon"
             ],
             "Team 5": [
@@ -319,10 +319,10 @@
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                " RES / HP / RES"
+                " RES | HP | RES"
             ],
             "substats": [
                 "Speed",
@@ -374,11 +374,11 @@
                 "Count"
             ],
             "sets": [
-                "Bloodbath / Harvest / Swiftraid",
-                "Onslaught / Harvest / Swiftraid"
+                "Bloodbath | Harvest | Swiftraid",
+                "Onslaught | Harvest | Swiftraid"
             ],
             "mainstats": [
-                "ATK / ATK / ATK"
+                "ATK | ATK | ATK"
             ],
             "substats": [
                 "ATK",
@@ -410,8 +410,8 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Fiamelia",
                 "Borgne",
+                "Fiamelia",
                 "Raymerry"
             ]
         },
@@ -479,7 +479,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 113,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -530,7 +530,7 @@
         "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 125,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -581,18 +581,18 @@
         "role": "Support/Debuffer",
         "rarity": "SSR",
         "base_speed": 124,
-        "lattice": "4/5/5",
+        "lattice": "4|5|5",
         "build": {
             "shells": [
                 "Jackal Guard",
                 "Codex"
             ],
             "sets": [
-                "Wellspring / Bulwark / Swiftsmite",
-                "Bloodbath / Bulwark / Swiftsmite"
+                "Wellspring | Bulwark | Swiftsmite",
+                "Bloodbath | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -624,8 +624,8 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Holden",
                 "Celince",
+                "Holden",
                 "Sylph"
             ]
         },
@@ -642,7 +642,7 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 119,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -693,7 +693,7 @@
         "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 125,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -744,7 +744,7 @@
         "role": "Support/Debuffer",
         "rarity": "SR",
         "base_speed": 120,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -795,7 +795,7 @@
         "role": "Damage Dealer",
         "rarity": "SR",
         "base_speed": 118,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -846,7 +846,7 @@
         "role": "Support/Buffer",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "5/5/4",
+        "lattice": "5|5|4",
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -855,10 +855,10 @@
                 "Amber"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -890,14 +890,14 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Dokidoki",
                 "Lowan",
-                "Xuan Li",
-                "Dokidoki"
+                "Xuan Li"
             ],
             "Team 5": [
+                "Dokidoki",
                 "Gianc",
-                "Xuan Li",
-                "Dokidoki"
+                "Xuan Li"
             ],
             "Team 6": [
                 "Dokidoki",
@@ -918,7 +918,7 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 112,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -969,7 +969,7 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 118,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1020,7 +1020,7 @@
         "role": "Damage Dealer",
         "rarity": "SR",
         "base_speed": 123,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1071,7 +1071,7 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "4/5/5",
+        "lattice": "4|5|5",
         "build": {
             "shells": [
                 "Halloween",
@@ -1079,11 +1079,11 @@
                 "Fortissimo"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Etherplague",
-                "Bloodbath / Swiftrush / Swiftsmite"
+                "Bloodbath | Bulwark | Etherplague",
+                "Bloodbath | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -1115,9 +1115,9 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Fiamelia",
                 "Nathenn",
-                "Raymerry",
-                "Fiamelia"
+                "Raymerry"
             ],
             "Team 5": [
                 "Fiamelia",
@@ -1143,7 +1143,7 @@
         "role": "Support/Buffer",
         "rarity": "SSR",
         "base_speed": 126,
-        "lattice": "5/1/1",
+        "lattice": "5|1|1",
         "build": {
             "shells": [
                 "Dark Moon",
@@ -1151,10 +1151,10 @@
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -1199,17 +1199,17 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 119,
-        "lattice": "1/1/5",
+        "lattice": "1|1|5",
         "build": {
             "shells": [
                 "Supernova"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Evolguard",
-                "Wellspring / Bulwark / Evolguard"
+                "Bloodbath | Bulwark | Evolguard",
+                "Wellspring | Bulwark | Evolguard"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -1241,18 +1241,18 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Fuqui",
                 "Asal",
-                "Sania",
-                "Fuqui"
+                "Sania"
             ],
             "Team 5": [
-                "Dokidoki",
                 "Fuqui",
+                "Dokidoki",
                 "Kokardi"
             ],
             "Team 6": [
-                "Dokidoki",
                 "Fuqui",
+                "Dokidoki",
                 "Rahu"
             ]
         },
@@ -1269,19 +1269,19 @@
         "role": "Bruiser",
         "rarity": "SSR",
         "base_speed": 119,
-        "lattice": "5/3/4",
+        "lattice": "5|3|4",
         "build": {
             "shells": [
                 "Champion Gator",
                 "Jackal Guard"
             ],
             "sets": [
-                "Wellspring / Bulwark / Etherplague",
-                "Wellspring / Bramble / Etherplague",
-                "Wellspring / Swiftrush / Swiftsmite"
+                "Wellspring | Bulwark | Etherplague",
+                "Wellspring | Bramble | Etherplague",
+                "Wellspring | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "TBD"
@@ -1310,8 +1310,8 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Asal",
                 "Gianc",
+                "Asal",
                 "Palin"
             ],
             "Team 5": [
@@ -1338,16 +1338,16 @@
         "role": "Bruiser/Support",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "5/3/5",
+        "lattice": "5|3|5",
         "build": {
             "shells": [
                 "Jackal Guard"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Swiftsmite"
+                "Bloodbath | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "DEF / ACC / DEF"
+                "DEF | ACC | DEF"
             ],
             "substats": [
                 "TBD"
@@ -1376,9 +1376,9 @@
                 "Kethos"
             ],
             "Team 4": [
+                "Lumiwarden Diting",
                 "Lowan",
-                "Valerian",
-                "Lumiwarden Diting"
+                "Valerian"
             ],
             "Team 5": [
                 "Lumiwarden Diting",
@@ -1399,7 +1399,7 @@
         "role": "Support/Debuffer",
         "rarity": "SR",
         "base_speed": 120,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1456,10 +1456,10 @@
                 "Revelation"
             ],
             "sets": [
-                "Swiftrush / Onslaught / Swiftraid"
+                "Swiftrush | Onslaught | Swiftraid"
             ],
             "mainstats": [
-                "CRIT / ACC / CRIT"
+                "CRIT | ACC | CRIT"
             ],
             "substats": [
                 "Speed",
@@ -1510,10 +1510,10 @@
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftraid"
+                "Swiftrush | Strive | Swiftraid"
             ],
             "mainstats": [
-                "ATK / ATK / ATK"
+                "ATK | ATK | ATK"
             ],
             "substats": [
                 "Speed",
@@ -1558,7 +1558,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 123,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1609,18 +1609,18 @@
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "5/5/1",
+        "lattice": "5|5|1",
         "build": {
             "shells": [
                 "Amber",
                 "Artisan"
             ],
             "sets": [
-                "Bloodbath / Strive / Colossguard",
-                "Bloodbath / Unbreakable / Colossguard"
+                "Bloodbath | Strive | Colossguard",
+                "Bloodbath | Unbreakable | Colossguard"
             ],
             "mainstats": [
-                "DEF / CRIT / DEF/CDMG"
+                "DEF | CRIT | DEF/CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -1687,11 +1687,11 @@
                 "Law of Silence"
             ],
             "sets": [
-                "Keeneye / Bulwark / Furyedge",
-                "Onslaught / Harvest / Furyedge"
+                "Keeneye | Bulwark | Furyedge",
+                "Onslaught | Harvest | Furyedge"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -1736,7 +1736,7 @@
         "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 120,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1787,7 +1787,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 124,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -1838,17 +1838,17 @@
         "role": "Bruiser/Control",
         "rarity": "SSR",
         "base_speed": 117,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Jackal Guard"
             ],
             "sets": [
-                "Wellspring / Swiftrush / Swiftsmite"
+                "Wellspring | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / CRIT / HP"
+                "HP | CRIT | HP"
             ],
             "substats": [
                 "Speed",
@@ -1880,18 +1880,18 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Luvia",
                 "Kethos",
+                "Luvia",
                 "Xuan Chi"
             ],
             "Team 5": [
+                "Kethos",
                 "Xuan Chi",
-                "Sania",
-                "Kethos"
+                "Sania"
             ],
             "Team 6": [
-                "Fiamelia",
                 "Kethos",
+                "Fiamelia",
                 "Raymerry"
             ]
         },
@@ -1959,17 +1959,17 @@
         "role": "Support/Debuffer",
         "rarity": "SSR",
         "base_speed": 128,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Jackal Guard",
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -2014,18 +2014,18 @@
         "role": "Damage Dealer",
         "rarity": "SSR",
         "base_speed": 122,
-        "lattice": "3/5/4",
+        "lattice": "3|5|4",
         "build": {
             "shells": [
                 "Count"
             ],
             "sets": [
-                "Keeneye / Fury / Furyedge",
-                "Keeneye / Fury / Swiftraid",
-                "Bloodbath / Momentum / Furyedge"
+                "Keeneye | Fury | Furyedge",
+                "Keeneye | Fury | Swiftraid",
+                "Bloodbath | Momentum | Furyedge"
             ],
             "mainstats": [
-                "ATK / CDMG / ATK/CDMG"
+                "ATK | CDMG | ATK/CDMG"
             ],
             "substats": [
                 "TBD"
@@ -2054,19 +2054,19 @@
                 "Kethos"
             ],
             "Team 4": [
+                "Kokardi",
                 "Mizumi Aya",
-                "Valerian",
-                "Kokardi"
+                "Valerian"
             ],
             "Team 5": [
+                "Kokardi",
                 "Santik",
-                "Valerian",
-                "Kokardi"
+                "Valerian"
             ],
             "Team 6": [
+                "Kokardi",
                 "Dokidoki",
-                "Fuqui",
-                "Kokardi"
+                "Fuqui"
             ]
         },
         "draft": {
@@ -2082,16 +2082,16 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 119,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -2142,10 +2142,10 @@
                 "Revelation"
             ],
             "sets": [
-                "Onslaught / Harvest / Furyedge"
+                "Onslaught | Harvest | Furyedge"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -2190,18 +2190,18 @@
         "role": "Damage Dealer/Control",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "1/5/5",
+        "lattice": "1|5|5",
         "build": {
             "shells": [
                 "Tiger Yin",
                 "Law of Silence"
             ],
             "sets": [
-                "Keeneye / Harvest / Furyedge",
-                "Bloodbath / Harvest / Swiftraid"
+                "Keeneye | Harvest | Furyedge",
+                "Bloodbath | Harvest | Swiftraid"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -2246,18 +2246,18 @@
         "role": "Bruiser/Control",
         "rarity": "SSR",
         "base_speed": 121,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Jackal Guard",
                 "Amber"
             ],
             "sets": [
-                "Wellspring / Bulwark / Swiftsmite",
-                "Bloodbath / Swiftrush / Swiftsmite"
+                "Wellspring | Bulwark | Swiftsmite",
+                "Bloodbath | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "TBD"
@@ -2286,8 +2286,8 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Holden",
                 "Lilith",
+                "Holden",
                 "Lingluo"
             ]
         },
@@ -2304,18 +2304,18 @@
         "role": "Support/Buffer",
         "rarity": "SSR",
         "base_speed": 127,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Amber",
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite",
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite",
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -2360,18 +2360,18 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 125,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Gigabyte",
                 "Lighthouse"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Evolguard",
-                "Bloodbath / Swiftrush / Evolguard"
+                "Bloodbath | Bulwark | Evolguard",
+                "Bloodbath | Swiftrush | Evolguard"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -2403,19 +2403,19 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Plume",
                 "Lingluo",
+                "Plume",
                 "Tiamat"
             ],
             "Team 5": [
-                "Kethos",
                 "Lingluo",
+                "Kethos",
                 "Tiamat"
             ],
             "Team 6": [
+                "Lingluo",
                 "Holden",
-                "Lilith",
-                "Lingluo"
+                "Lilith"
             ]
         },
         "draft": {
@@ -2431,17 +2431,17 @@
         "role": "Bruiser/Control",
         "rarity": "SSR",
         "base_speed": 123,
-        "lattice": "5/3/5",
+        "lattice": "5|3|5",
         "build": {
             "shells": [
                 "Amber",
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Bloodbath / Swiftsmite"
+                "Swiftrush | Bloodbath | Swiftsmite"
             ],
             "mainstats": [
-                "DEF / CRIT / DEF/CDMG"
+                "DEF | CRIT | DEF/CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -2473,13 +2473,13 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Luvia",
                 "Lowan",
+                "Luvia",
                 "Sania"
             ],
             "Team 5": [
-                "Fiamelia",
                 "Lowan",
+                "Fiamelia",
                 "Raymerry"
             ],
             "Team 6": [
@@ -2501,17 +2501,17 @@
         "role": "Control/DoT",
         "rarity": "SSR",
         "base_speed": 127,
-        "lattice": "4/5/5",
+        "lattice": "4|5|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Amber"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -2571,7 +2571,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 121,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -2622,16 +2622,16 @@
         "role": "Damage Dealer",
         "rarity": "SSR",
         "base_speed": 117,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Count"
             ],
             "sets": [
-                "Keeneye / Fury / Furyedge"
+                "Keeneye | Fury | Furyedge"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -2682,10 +2682,10 @@
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -2737,10 +2737,10 @@
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -2785,7 +2785,7 @@
         "role": "Bruiser",
         "rarity": "SR",
         "base_speed": 120,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -2843,10 +2843,10 @@
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -2891,18 +2891,18 @@
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
         "base_speed": 126,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Jackal Guard",
                 "Moon Bunny"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite",
-                "Wellspring / Swiftrush / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite",
+                "Wellspring | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP/CRIT / CRIT / HP"
+                "HP/CRIT | CRIT | HP"
             ],
             "substats": [
                 "Crit rate",
@@ -3020,10 +3020,10 @@
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -3074,10 +3074,10 @@
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -3122,7 +3122,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 122,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -3173,7 +3173,7 @@
         "role": "Damage Dealer",
         "rarity": "SR",
         "base_speed": 123,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -3224,17 +3224,17 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 122,
-        "lattice": "5/1/5",
+        "lattice": "5|1|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Amber"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -3266,19 +3266,19 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Palin",
                 "Asal",
-                "Gianc",
-                "Palin"
+                "Gianc"
             ],
             "Team 5": [
+                "Palin",
                 "Asal",
-                "Sania",
-                "Palin"
+                "Sania"
             ],
             "Team 6": [
+                "Palin",
                 "Asal",
-                "Valerian",
-                "Palin"
+                "Valerian"
             ]
         },
         "draft": {
@@ -3294,7 +3294,7 @@
         "role": "Support/Debuffer",
         "rarity": "SSR",
         "base_speed": 129,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Amber",
@@ -3302,11 +3302,11 @@
                 "Codex"
             ],
             "sets": [
-                "Bloodbath / Swiftrush / Swiftsmite",
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Bloodbath | Swiftrush | Swiftsmite",
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "ACC / HP / ACC"
+                "ACC | HP | ACC"
             ],
             "substats": [
                 "Speed",
@@ -3338,8 +3338,8 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Nathenn",
                 "Plume",
+                "Nathenn",
                 "Sylvia"
             ],
             "Team 5": [
@@ -3372,10 +3372,10 @@
                 "Revelation"
             ],
             "sets": [
-                "Swiftrush / Harvest / Swiftraid"
+                "Swiftrush | Harvest | Swiftraid"
             ],
             "mainstats": [
-                "ATK / CRIT / CDMG"
+                "ATK | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -3420,16 +3420,16 @@
         "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
         "base_speed": 117,
-        "lattice": "4/5/5",
+        "lattice": "4|5|5",
         "build": {
             "shells": [
                 "Doom Crow"
             ],
             "sets": [
-                "Bloodbath / Bramble / Furyedge"
+                "Bloodbath | Bramble | Furyedge"
             ],
             "mainstats": [
-                "CDMG / DEF / CDMG"
+                "CDMG | DEF | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -3461,18 +3461,18 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Gianc",
                 "Rahu",
+                "Gianc",
                 "Fiamelia"
             ],
             "Team 5": [
-                "Kethos",
                 "Rahu",
+                "Kethos",
                 "Sania"
             ],
             "Team 6": [
-                "Lowan",
                 "Rahu",
+                "Lowan",
                 "Sania"
             ]
         },
@@ -3489,18 +3489,18 @@
         "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
         "base_speed": 118,
-        "lattice": "5/5/4",
+        "lattice": "5|5|4",
         "build": {
             "shells": [
                 "Champion Gator",
                 "Amber"
             ],
             "sets": [
-                "Wellspring / Bramble / Etherplague",
-                "Bloodbath / Bramble / Swiftsmite"
+                "Wellspring | Bramble | Etherplague",
+                "Bloodbath | Bramble | Swiftsmite"
             ],
             "mainstats": [
-                "HP / CRIT / HP"
+                "HP | CRIT | HP"
             ],
             "substats": [
                 "Crit rate",
@@ -3532,19 +3532,19 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Nathenn",
                 "Raymerry",
+                "Nathenn",
                 "Fiamelia"
             ],
             "Team 5": [
-                "Nathenn",
                 "Raymerry",
+                "Nathenn",
                 "Sania"
             ],
             "Team 6": [
+                "Raymerry",
                 "Xuan Chi",
-                "Sania",
-                "Raymerry"
+                "Sania"
             ]
         },
         "draft": {
@@ -3560,7 +3560,7 @@
         "role": "Control/Debuffer",
         "rarity": "SR",
         "base_speed": 128,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -3662,7 +3662,7 @@
         "role": "Bruiser/Control",
         "rarity": "SR",
         "base_speed": 122,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -3713,7 +3713,7 @@
         "role": "Damage Dealer",
         "rarity": "SR",
         "base_speed": 126,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -3770,11 +3770,11 @@
                 "Revelation"
             ],
             "sets": [
-                "Momentum / Fury / Furyedge",
-                "Momentum / Fury / Swiftraid"
+                "Momentum | Fury | Furyedge",
+                "Momentum | Fury | Swiftraid"
             ],
             "mainstats": [
-                "CDMG / ATK / CDMG"
+                "CDMG | ATK | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -3819,18 +3819,18 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 124,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Gigabyte",
                 "Moon Bunny"
             ],
             "sets": [
-                "Bloodbath / Swiftrush / Evolguard",
-                "Bloodbath / Strive / Evolguard"
+                "Bloodbath | Swiftrush | Evolguard",
+                "Bloodbath | Strive | Evolguard"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -3862,19 +3862,19 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Sania",
                 "Nathenn",
-                "Raymerry",
-                "Sania"
+                "Raymerry"
             ],
             "Team 5": [
+                "Sania",
                 "Nathenn",
-                "Xuan Chi",
-                "Sania"
+                "Xuan Chi"
             ],
             "Team 6": [
+                "Sania",
                 "Luvia",
-                "Lowan",
-                "Sania"
+                "Lowan"
             ]
         },
         "draft": {
@@ -3890,7 +3890,7 @@
         "role": "Support/Buffer",
         "rarity": "SSR",
         "base_speed": 124,
-        "lattice": "5/4/5",
+        "lattice": "5|4|5",
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -3898,11 +3898,11 @@
                 "Moon Bunny"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite",
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite",
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -4062,17 +4062,17 @@
         "role": "Bruiser/DoT",
         "rarity": "SSR",
         "base_speed": 124,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Jackal Guard",
                 "Moon Bunny"
             ],
             "sets": [
-                "Wellspring / Swiftrush / Swiftsmite"
+                "Wellspring | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP/ACC / HP"
+                "HP | HP/ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -4104,18 +4104,18 @@
                 "Kethos"
             ],
             "Team 4": [
-                "Luvia",
                 "Sharon",
+                "Luvia",
                 "Xuan Chi"
             ],
             "Team 5": [
-                "Luvia",
                 "Sharon",
+                "Luvia",
                 "Sylvia"
             ],
             "Team 6": [
-                "Luvia",
                 "Sharon",
+                "Luvia",
                 "Xuan Li"
             ]
         },
@@ -4132,7 +4132,7 @@
         "role": "Control",
         "rarity": "SR",
         "base_speed": 123,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -4183,7 +4183,7 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 111,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Gigabyte",
@@ -4191,11 +4191,11 @@
                 "Alicorn"
             ],
             "sets": [
-                "Bloodbath / Strive / Evolguard",
-                "Bloodbath / Swiftrush / Swiftsmite"
+                "Bloodbath | Strive | Evolguard",
+                "Bloodbath | Swiftrush | Swiftsmite"
             ],
             "mainstats": [
-                "HP/RES / HP / HP/RES"
+                "HP/RES | HP | HP/RES"
             ],
             "substats": [
                 "Speed",
@@ -4227,19 +4227,19 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Sylph",
                 "Lumiwarden Diting",
-                "Lowan",
-                "Sylph"
+                "Lowan"
             ],
             "Team 5": [
+                "Sylph",
                 "Holden",
-                "Lowan",
-                "Sylph"
+                "Lowan"
             ],
             "Team 6": [
+                "Sylph",
                 "Rahu",
-                "Lowan",
-                "Sylph"
+                "Lowan"
             ]
         },
         "draft": {
@@ -4255,17 +4255,17 @@
         "role": "Support/Healer",
         "rarity": "SSR",
         "base_speed": 122,
-        "lattice": "5/3/5",
+        "lattice": "5|3|5",
         "build": {
             "shells": [
                 "Moon Bunny",
                 "Amber"
             ],
             "sets": [
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -4297,19 +4297,19 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Sylvia",
                 "Nathenn",
-                "Plume",
-                "Sylvia"
+                "Plume"
             ],
             "Team 5": [
+                "Sylvia",
                 "Nathenn",
-                "Xuan Chi",
-                "Sylvia"
+                "Xuan Chi"
             ],
             "Team 6": [
+                "Sylvia",
                 "Luvia",
-                "Sharon",
-                "Sylvia"
+                "Sharon"
             ]
         },
         "draft": {
@@ -4325,18 +4325,18 @@
         "role": "Bruiser/Support",
         "rarity": "SSR",
         "base_speed": 117,
-        "lattice": "4/1/5",
+        "lattice": "4|1|5",
         "build": {
             "shells": [
                 "Amber",
                 "Champion Gator"
             ],
             "sets": [
-                "Bloodbath / Bramble / Swiftsmite",
-                "Wellspring / Bramble / Etherplague"
+                "Bloodbath | Bramble | Swiftsmite",
+                "Wellspring | Bramble | Etherplague"
             ],
             "mainstats": [
-                "HP / CRIT / HP"
+                "HP | CRIT | HP"
             ],
             "substats": [
                 "Crit rate",
@@ -4368,19 +4368,19 @@
                 "Kethos"
             ],
             "Team 4": [
+                "Tiamat",
                 "Plume",
-                "Sania",
-                "Tiamat"
+                "Sania"
             ],
             "Team 5": [
+                "Tiamat",
                 "Plume",
-                "Lingluo",
-                "Tiamat"
+                "Lingluo"
             ],
             "Team 6": [
+                "Tiamat",
                 "Kethos",
-                "Lingluo",
-                "Tiamat"
+                "Lingluo"
             ]
         },
         "draft": {
@@ -4403,10 +4403,10 @@
                 "Jackal Guard"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "DEF / HP / DEF"
+                "DEF | HP | DEF"
             ],
             "substats": [
                 "Speed",
@@ -4451,7 +4451,7 @@
         "role": "Damage Dealer",
         "rarity": "SR",
         "base_speed": 121,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -4502,17 +4502,17 @@
         "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 131,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Codex"
             ],
             "sets": [
-                "Swiftrush / Bulwark / Swiftsmite",
-                "Swiftrush / Strive / Swiftsmite"
+                "Swiftrush | Bulwark | Swiftsmite",
+                "Swiftrush | Strive | Swiftsmite"
             ],
             "mainstats": [
-                "HP / ACC / HP"
+                "HP | ACC | HP"
             ],
             "substats": [
                 "Speed",
@@ -4544,9 +4544,9 @@
                 "Valerian"
             ],
             "Team 4": [
+                "Turandot",
                 "Gianc",
-                "Xuan Li",
-                "Turandot"
+                "Xuan Li"
             ]
         },
         "draft": {
@@ -4562,17 +4562,17 @@
         "role": "Support/Healer",
         "rarity": "SR",
         "base_speed": 119,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Gigabyte"
             ],
             "sets": [
-                "Wellspring / Cure / Etherplague",
-                "Wellspring / Bulwark / Etherplague"
+                "Wellspring | Cure | Etherplague",
+                "Wellspring | Bulwark | Etherplague"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "HP",
@@ -4604,18 +4604,18 @@
                 "Areal"
             ],
             "Team 4": [
+                "Valerian",
                 "Asal",
-                "Xuan Li",
-                "Valerian"
+                "Xuan Li"
             ],
             "Team 5": [
-                "Asal",
                 "Valerian",
+                "Asal",
                 "Palin"
             ],
             "Team 6": [
-                "Lowan",
                 "Valerian",
+                "Lowan",
                 "Xuan Li"
             ]
         },
@@ -4638,10 +4638,10 @@
                 "Halloween"
             ],
             "sets": [
-                "Bloodbath / Bulwark / Etherplague"
+                "Bloodbath | Bulwark | Etherplague"
             ],
             "mainstats": [
-                "HP / HP / HP"
+                "HP | HP | HP"
             ],
             "substats": [
                 "Speed",
@@ -4686,7 +4686,7 @@
         "role": "Bruiser",
         "rarity": "SR",
         "base_speed": 116,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -4737,7 +4737,7 @@
         "role": "Bruiser/Debuffer",
         "rarity": "SR",
         "base_speed": 115,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -4794,10 +4794,10 @@
                 "Law of Silence"
             ],
             "sets": [
-                "Onslaught / Harvest / Furyedge"
+                "Onslaught | Harvest | Furyedge"
             ],
             "mainstats": [
-                "CDMG / CRIT / CDMG"
+                "CDMG | CRIT | CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -4842,18 +4842,18 @@
         "role": "Bruiser/Debuffer",
         "rarity": "SSR",
         "base_speed": 120,
-        "lattice": "4/5/5",
+        "lattice": "4|5|5",
         "build": {
             "shells": [
                 "Amber",
                 "Artisan"
             ],
             "sets": [
-                "Bloodbath / Strive / Swiftsmite",
-                "Bloodbath / Swiftrush / Colossguard"
+                "Bloodbath | Strive | Swiftsmite",
+                "Bloodbath | Swiftrush | Colossguard"
             ],
             "mainstats": [
-                "DEF / CRIT / DEF/CDMG"
+                "DEF | CRIT | DEF/CDMG"
             ],
             "substats": [
                 "Crit rate",
@@ -4885,19 +4885,19 @@
                 "Valerian"
             ],
             "Team 4": [
-                "Nathenn",
                 "Xuan Chi",
+                "Nathenn",
                 "Sania"
             ],
             "Team 5": [
-                "Nathenn",
                 "Xuan Chi",
+                "Nathenn",
                 "Sylvia"
             ],
             "Team 6": [
+                "Xuan Chi",
                 "Luvia",
-                "Sharon",
-                "Xuan Chi"
+                "Sharon"
             ]
         },
         "draft": {
@@ -4913,17 +4913,17 @@
         "role": "Bruiser/Support",
         "rarity": "SSR",
         "base_speed": 122,
-        "lattice": "5/4/5",
+        "lattice": "5|4|5",
         "build": {
             "shells": [
                 "Doom Crow"
             ],
             "sets": [
-                "Bloodbath / Swiftrush / Furyedge",
-                "Bloodbath / Bramble / Furyedge"
+                "Bloodbath | Swiftrush | Furyedge",
+                "Bloodbath | Bramble | Furyedge"
             ],
             "mainstats": [
-                "CDMG / DEF / CDMG/DEF"
+                "CDMG | DEF | CDMG/DEF"
             ],
             "substats": [
                 "Crit rate",
@@ -4955,18 +4955,18 @@
                 "Kethos"
             ],
             "Team 4": [
+                "Xuan Li",
                 "Luvia",
-                "Sharon",
-                "Xuan Li"
+                "Sharon"
             ],
             "Team 5": [
+                "Xuan Li",
                 "Xuan Chi",
-                "Sania",
-                "Xuan Li"
+                "Sania"
             ],
             "Team 6": [
-                "Asal",
                 "Xuan Li",
+                "Asal",
                 "Valerian"
             ]
         },
@@ -4983,7 +4983,7 @@
         "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 122,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "TBD"
@@ -5034,17 +5034,17 @@
         "role": "Damage Dealer",
         "rarity": "SSR",
         "base_speed": 120,
-        "lattice": "5/5/5",
+        "lattice": "5|5|5",
         "build": {
             "shells": [
                 "Revelation"
             ],
             "sets": [
-                "Momentum / Fury / Furyedge",
-                "Momentum / Fury / Swiftraid"
+                "Momentum | Fury | Furyedge",
+                "Momentum | Fury | Swiftraid"
             ],
             "mainstats": [
-                "CDMG / ATK / CDMG"
+                "CDMG | ATK | CDMG"
             ],
             "substats": [
                 "Crit rate",

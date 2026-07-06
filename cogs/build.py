@@ -16,12 +16,10 @@ class BuildCog(commands.Cog):
                 "Animus not found.",
                 ephemeral = True
             )
-            
             return
 
         build_data = build.get('build')
         image_url = build.get('image')
-        lattice_data = build.get('lattice')
         color_data = build.get('element')
         
         color_map = {
@@ -33,16 +31,16 @@ class BuildCog(commands.Cog):
         }
         
         embed = discord.Embed(
-            title = f"{build['name']} PvP Build",
+            title = f"{build.get('name')} PvP Build",
             color = color_map.get(color_data)
         )
         
         if image_url:
-            embed.set_thumbnail(url=image_url)
+            embed.set_thumbnail(url=image_url or self.bot.user.avatar.url)
                     
         embed.add_field(
             name = 'Lattice Requirements',
-            value = lattice_data or 'No lattice requirements available',
+            value = build.get('lattice') or 'No lattice requirements available',
             inline = False 
         )
         embed.add_field(
