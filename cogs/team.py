@@ -19,25 +19,23 @@ class TeamCog(commands.Cog):
             )
             return
         
-        embed = discord.Embed(title=f"{teams['name']} Teams")
         image_url = teams.get('image')
         team_data = teams.get('teams')
         color_data = teams.get('element')
         
-        if image_url:
-            embed.set_thumbnail(url=image_url)
+        color_map = {
+            'Red': discord.Color.red(),
+            'Blue': discord.Color.blue(),
+            'Green': discord.Color.green(),
+            'Light': discord.Color.gold(),
+            'Dark': discord.Color.purple()
+        }
+
+        embed = discord.Embed(title=f"{teams['name']} Teams", color=color_map.get(color_data))
         
-        if color_data == 'Red':
-            embed.color = discord.Color.red()
-        elif color_data == 'Blue':
-            embed.color = discord.Color.blue()
-        elif color_data == 'Green':
-            embed.color = discord.Color.green()
-        elif color_data == 'Light':
-            embed.color = discord.Color.gold()
-        elif color_data == 'Dark':
-            embed.color = discord.Color.purple()
-            
+        if image_url:
+            embed.set_thumbnail(url=image_url or self.bot.user.display_avatar.url)
+        
         for archetype, members in team_data.items():
             embed.add_field(
                 name = archetype,

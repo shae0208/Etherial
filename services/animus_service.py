@@ -5,6 +5,7 @@ class AnimusService:
     @staticmethod
     def get_supported_animus():
         data = DataManager.get_animus_data() or {}
+        
         grouped = {'SSR': [], 'SR': [], 'R': []}
 
         for unit in data.values():

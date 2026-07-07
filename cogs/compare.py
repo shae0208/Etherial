@@ -9,17 +9,14 @@ class CompareCog(commands.Cog):
     
     @app_commands.command(name='compare', description='View comparison of the selected animus.')
     async def compare(self, interaction: discord.Interaction, animus1: str, animus2: str):
-        result = CompareService.get_comparison_data(animus1, animus2)
+        data = CompareService.get_comparison_data(animus1, animus2)
         
-        if not result:
-            await interaction.response.send_message(
-                "One or both Animus not found.",
-                ephemeral = True
-            )
+        if not data:
+            await interaction.response.send_message("One or both Animus not found.", ephemeral=True)
             return
         
-        unit1 = result.get('animus1')
-        unit2 = result.get('animus2')
+        unit1 = data.get('animus1')
+        unit2 = data.get('animus2')
         
         def format_unit(unit):
             return (
@@ -29,7 +26,7 @@ class CompareCog(commands.Cog):
                 f"Lattice: {unit.get('lattice')}"
             )
             
-        embed = discord.Embed(title=f"{unit1.get('name')} vs {unit2.get('name')}")
+        embed = discord.Embed(title=f"{unit1.get('name')} vs {unit2.get('name')}", color=discord.Color.blurple())
         
         if self.bot.user:
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)

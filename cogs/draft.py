@@ -19,9 +19,9 @@ class DraftCog(commands.Cog):
             animus5
         ]
         
-        ban = DraftService.recommend_ban(enemy_team, protected_indices={2})
+        recommended_ban = DraftService.recommend_ban(enemy_team, protected_indices={2})
         
-        embed = discord.Embed(title='Draft Assistant')
+        embed = discord.Embed(title='Draft Assistant', color=discord.Color.blurple())
         
         if self.bot.user:
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)
@@ -33,7 +33,7 @@ class DraftCog(commands.Cog):
         )
         embed.add_field(
             name = 'Recommended Ban',
-            value = ban or 'No recommendation available',
+            value = recommended_ban or 'No ban recommendation available',
             inline = False
         )
         

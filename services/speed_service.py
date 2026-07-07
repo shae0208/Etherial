@@ -7,8 +7,8 @@ class SpeedService:
         
         team_data = []
         
-        for animus in team:
-            key = animus.strip().lower()
+        for unit in team:
+            key = unit.strip().lower()
             
             if key not in data:
                 continue

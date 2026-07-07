@@ -12,35 +12,31 @@ class CounterCog(commands.Cog):
     @app_commands.command(name='counter', description='View counter recommendations for the selected animus.')
     @require_premium()
     async def counter(self, interaction: discord.Interaction, animus: str):
-        counters = CounterService.get_counters(animus)
+        data = CounterService.get_counters(animus)
 
-        if not counters:
-            await interaction.response.send_message(
-                "Animus not found."
-            )
+        if not data:
+            await interaction.response.send_message("Animus not found.", ephemeral=True)
             return
 
-        embed = discord.Embed(title=f"{counters['name']} Counters")
-        image_url = counters.get('image')
-        color_data = counters.get('element')
+        image_url = data.get('image')
+        color_data = data.get('element')
+        
+        color_map = {
+            'Red': discord.Color.red(),
+            'Blue': discord.Color.blue(),
+            'Green': discord.Color.green(),
+            'Light': discord.Color.gold(),
+            'Dark': discord.Color.purple()
+        }
+        
+        embed = discord.Embed(title=f"{data.get('name')} Counters", color=color_map.get(color_data))
         
         if image_url:
-            embed.set_thumbnail(url=image_url)
-            
-        if color_data == 'Red':
-            embed.color = discord.Color.red()
-        elif color_data == 'Blue':
-            embed.color = discord.Color.blue()
-        elif color_data == 'Green':
-            embed.color = discord.Color.green()
-        elif color_data == 'Light':
-            embed.color = discord.Color.gold()
-        elif color_data == 'Dark':
-            embed.color = discord.Color.purple()
-            
+            embed.set_thumbnail(url=image_url or self.bot.user.display_avatar.url)
+                        
         embed.add_field(
             name = "Counters",
-            value = '\n'.join(counters.get('counters', [])) or 'No counter data available.',
+            value = '\n'.join(data.get('counters', [])) or 'No counter recommendations available.',
             inline = False,
         )
 

@@ -57,7 +57,7 @@
         "draft": {
             "ban_priority": 78,
             "pick_priority": 72,
-            "speed_priority": 74
+            "speed_priority": 90
         }
     },
     "areal": {
@@ -181,7 +181,7 @@
         "draft": {
             "ban_priority": 82,
             "pick_priority": 84,
-            "speed_priority": 86
+            "speed_priority": 92
         }
     },
     "aya": {
@@ -302,7 +302,7 @@
         "draft": {
             "ban_priority": 70,
             "pick_priority": 70,
-            "speed_priority": 78
+            "speed_priority": 65
         }
     },
     "beyontin": {
@@ -741,7 +741,7 @@
         "name": "Dinah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dinah.png?raw=true",
         "element": "Red",
-        "role": "Support/Debuffer",
+        "role": "Debuffer",
         "rarity": "SR",
         "base_speed": 120,
         "lattice": "5|5|5",
@@ -906,9 +906,9 @@
             ]
         },
         "draft": {
-            "ban_priority": 76,
+            "ban_priority": 80,
             "pick_priority": 75,
-            "speed_priority": 73
+            "speed_priority": 95
         }
     },
     "dorothy": {
@@ -966,7 +966,7 @@
         "name": "Dorothy the Wisher",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/wisher_dorothy.png?raw=true",
         "element": "Red",
-        "role": "Support/Healer",
+        "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 118,
         "lattice": "5|5|5",
@@ -1447,7 +1447,7 @@
         "name": "Heinrich",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/heinrich.png?raw=true",
         "element": "Dark",
-        "role": "Control/Damage Dealer",
+        "role": "Control/Debuffer",
         "rarity": "SSR",
         "base_speed": 126,
         "lattice": "TBD",
@@ -1956,7 +1956,7 @@
         "name": "Kloss",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kloss.png?raw=true",
         "element": "Green",
-        "role": "Support/Debuffer",
+        "role": "Debuffer",
         "rarity": "SSR",
         "base_speed": 128,
         "lattice": "5|5|5",
@@ -2498,7 +2498,7 @@
         "name": "Luvia",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/luvia.jpg?raw=true",
         "element": "Blue",
-        "role": "Control/DoT",
+        "role": "Bruiser/Control",
         "rarity": "SSR",
         "base_speed": 127,
         "lattice": "4|5|5",
@@ -2951,7 +2951,7 @@
         },
         "draft": {
             "ban_priority": 95,
-            "pick_priority": 93,
+            "pick_priority": 98,
             "speed_priority": 90
         }
     },
@@ -3291,7 +3291,7 @@
         "name": "Plume",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/plume.png?raw=true",
         "element": "Dark",
-        "role": "Support/Debuffer",
+        "role": "Debuffer",
         "rarity": "SSR",
         "base_speed": 129,
         "lattice": "5|5|5",
@@ -3417,7 +3417,7 @@
         "name": "Rahu",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rahu.png?raw=true",
         "element": "Green",
-        "role": "Bruiser/Damage Dealer",
+        "role": "Bruiser",
         "rarity": "SSR",
         "base_speed": 117,
         "lattice": "4|5|5",
@@ -4008,7 +4008,7 @@
         "name": "Shadow Sania",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/shadow_sania.png?raw=true",
         "element": "Dark",
-        "role": "Damage Dealer/DoT",
+        "role": "Damage Dealer",
         "rarity": "SSR",
         "base_speed": 115,
         "lattice": "TBD",
@@ -4059,7 +4059,7 @@
         "name": "Sharon",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sharon.png?raw=true",
         "element": "Dark",
-        "role": "Bruiser/DoT",
+        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
         "base_speed": 124,
         "lattice": "5|5|5",
@@ -4121,8 +4121,8 @@
         },
         "draft": {
             "ban_priority": 100,
-            "pick_priority": 99,
-            "speed_priority": 98
+            "pick_priority": 98,
+            "speed_priority": 95
         }
     },
     "steelheart dinah": {
@@ -4559,7 +4559,7 @@
         "name": "Valerian",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/valerian.png?raw=true",
         "element": "Light",
-        "role": "Support/Healer",
+        "role": "Support/Buffer",
         "rarity": "SR",
         "base_speed": 119,
         "lattice": "5|5|5",
@@ -4910,7 +4910,7 @@
         "name": "Xuan Li",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan_li.png?raw=true",
         "element": "Dark",
-        "role": "Bruiser/Support",
+        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
         "base_speed": 122,
         "lattice": "5|4|5",
@@ -5077,7 +5077,7 @@
             ]
         },
         "draft": {
-            "ban_priority": 82,
+            "ban_priority": 90,
             "pick_priority": 88,
             "speed_priority": 84
         }

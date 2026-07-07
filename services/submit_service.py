@@ -1,8 +1,6 @@
 import os
-from typing import Any, Dict, Optional
-
 import discord
-
+from typing import Any, Dict, Optional
 
 class SubmitService:
     @staticmethod
@@ -20,28 +18,21 @@ class SubmitService:
             if owner is not None:
                 return int(owner.id)
 
-        env_id = os.getenv("OWNER_DISCORD_ID") or os.getenv("OWNER_USER_ID")
-        
-        if env_id:
-            try:
-                return int(env_id)
-            except ValueError:
-                return None
-
         return None
 
     @staticmethod
     async def add_submission(
         submission: Dict[str, Any],
         bot: Optional[discord.Client] = None,
-        owner_id: Optional[int] = None,
+        owner_id: Optional[int] = os.getenv("OWNER_USER_ID"),
     ) -> Dict[str, Any]:
         payload = {
-            "animus": submission.get("animus", "").strip(),
-            "path": submission.get("path", "").strip(),
-            "value": submission.get("value", "").strip(),
-            "reason": submission.get("reason", "").strip(),
-            "submitted_by": submission.get("submitted_by", "Unknown").strip() or "Unknown",
+            "animus": submission.get('animus', '').strip(),
+            "path": submission.get('path', '').strip(),
+            "value": submission.get('value', '').strip(),
+            "reason": submission.get('reason', '').strip(),
+            "submitted_by": submission.get('submitted_by', 'Unknown').strip() or 'Unknown',
+            "is_premium": bool(submission.get('is_premium', False)),
         }
 
         target_id = SubmitService.resolve_owner_id(bot=bot, owner_id=owner_id)
@@ -61,13 +52,14 @@ class SubmitService:
                         color=discord.Color.blurple(),
                     )
                     
-                    embed.add_field(name="Submitted by", value=payload["submitted_by"], inline=False)
-                    embed.add_field(name="Animus", value=payload["animus"] or "Unknown", inline=False)
-                    embed.add_field(name="Field", value=payload["path"] or "Unknown", inline=False)
-                    embed.add_field(name="Suggested value", value=payload["value"] or "No value provided", inline=False)
+                    embed.add_field(name='Submitted by', value=payload.get('submitted_by'), inline=False)
+                    embed.add_field(name='Premium', value=('Yes' if payload.get('is_premium') else 'No'), inline=False)
+                    embed.add_field(name='Animus', value=payload.get('animus') or 'No value provided.', inline=False)
+                    embed.add_field(name='Field', value=payload.get('path') or 'No value provided.', inline=False)
+                    embed.add_field(name='Suggested value', value=payload.get('value') or 'No value provided.', inline=False)
                     
-                    if payload["reason"]:
-                        embed.add_field(name="Reason", value=payload["reason"], inline=False)
+                    if payload['reason']:
+                        embed.add_field(name='Reason', value=payload.get('reason'), inline=False)
 
                     await user.send(embed=embed)
                     
