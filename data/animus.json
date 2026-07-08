@@ -3,10 +3,18 @@
         "name": "Airon",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/airon.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Support",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 118,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Debuff Transfer",
+            "Delay"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -26,34 +34,17 @@
                 "Crit damage"
             ]
         },
-        "counters": [
-            "Areal",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
                 "Airon",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Airon",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Airon",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
-                "Airon",
                 "Lowan",
                 "Xuan Li"
-            ]
+            ],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 72,
@@ -64,10 +55,17 @@
         "name": "Areal",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/areal.png?raw=true",
         "element": "Dark",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 119,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Hybrid(Sustain)"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -86,29 +84,17 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Areal",
-                "Liliam",
-                "Nathenn"
+                "Nathenn",
+                "Sylvia"
             ],
-            "Team 2": [
-                "Areal",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Areal",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 95,
             "pick_priority": 92,
@@ -119,10 +105,17 @@
         "name": "Asal",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/asal.png?raw=true",
         "element": "Green",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Damage Dealer",
         "base_speed": 125,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Strip",
+            "Windup"
+        ],
         "build": {
             "shells": [
                 "Ace Batter"
@@ -140,44 +133,48 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
                 "Asal",
-                "Areal",
-                "Nathenn"
+                "Fuqui",
+                "Sania"
             ],
             "Team 2": [
-                "Asal",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Asal",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
-                "Asal",
-                "Sania",
-                "Fuqui"
-            ],
-            "Team 5": [
                 "Asal",
                 "Xuan Li",
                 "Valerian"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Asal",
                 "Gianc",
                 "Palin"
+            ],
+            "Team 4": [
+                "Asal",
+                "Palin",
+                "Valerian"
+            ],
+            "Team 5": [
+                "Asal",
+                "Lily",
+                "Palin"
+            ],
+            "Team 6": [
+                "Asal",
+                "Sylvia",
+                "Valerian"
             ]
         },
+        "counters": [
+            "Tiamat",
+            "Gianc",
+            "Borgne"
+        ],
+        "countered_by": [
+            "Raymerry",
+            "Nathenn",
+            "Kethos"
+        ],
         "draft": {
             "ban_priority": 82,
             "pick_priority": 84,
@@ -188,10 +185,17 @@
         "name": "Mizumi Aya",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/aya.png?raw=true",
         "element": "Green",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Support",
         "base_speed": 120,
         "lattice": "1|5|1",
+        "traits": [
+            "Advance",
+            "Cooldown Reduction",
+            "Cleanse",
+            "Hybrid(Sustain)"
+        ],
         "build": {
             "shells": [
                 "Reaper Steps",
@@ -210,44 +214,33 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Mizumi Aya",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Mizumi Aya",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Mizumi Aya",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Mizumi Aya",
                 "Xuan Chi",
                 "Sharon"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Mizumi Aya",
                 "Kethos",
                 "Raymerry"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Mizumi Aya",
                 "Valerian",
                 "Kokardi"
             ]
         },
+        "counters": [
+            "Plume",
+            "Heinrich",
+            "Kloss"
+        ],
+        "countered_by": [
+            "Holden",
+            "Nathenn",
+            "Celince"
+        ],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 74,
@@ -258,47 +251,28 @@
         "name": "Batsby",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/batsby.png?raw=true",
         "element": "Blue",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T2",
+        "role": "Damage Dealer",
         "base_speed": 124,
-        "lattice": "TBD",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "lattice": "5/5/5",
+        "traits": [
+            "Cleave",
+            "Debuff"
         ],
-        "teams": {
-            "Team 1": [
-                "Batsby",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Batsby",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Batsby",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 70,
@@ -309,10 +283,17 @@
         "name": "Beyontin",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/beyontin.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Support",
         "base_speed": 118,
-        "lattice": "TBD",
+        "lattice": "5/5/5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cooldown Reduction",
+            "Revive"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -331,29 +312,17 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Beyontin",
-                "Liliam",
-                "Nathenn"
+                "Massiah",
+                "Tsukiyo Mi"
             ],
-            "Team 2": [
-                "Beyontin",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Beyontin",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 82,
             "pick_priority": 84,
@@ -364,10 +333,16 @@
         "name": "Borgne",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/borgne.png?raw=true",
         "element": "Blue",
-        "role": "Bruiser",
         "rarity": "SSR",
+        "tier": "T3",
+        "role": "Bruiser",
         "base_speed": 122,
-        "lattice": "TBD",
+        "lattice": "5/5/5",
+        "traits": [
+            "Cleave",
+            "Passive Ignore",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Tiger Yin",
@@ -387,34 +362,13 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Liliam",
-            "Plume",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Borgne",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Borgne",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Borgne",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
-                "Borgne",
-                "Fiamelia",
-                "Raymerry"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 64,
             "pick_priority": 68,
@@ -425,47 +379,43 @@
         "name": "Bornova",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/bornova.png?raw=true",
         "element": "Green",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T2",
+        "role": "Damage Dealer",
         "base_speed": 123,
-        "lattice": "TBD",
+        "lattice": "5/5/5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleave",
+            "Debuff",
+            "Windup"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Count"
             ],
             "sets": [
-                "TBD"
+                "Momentum | Fury | Furyedge",
+                "Momentum | Fury | Swiftraid"
             ],
             "mainstats": [
-                "TBD"
+                "CDMG | ATK | CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Bornova",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Bornova",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Bornova",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 58,
             "pick_priority": 63,
@@ -476,47 +426,43 @@
         "name": "Cachi",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/cachi.png?raw=true",
         "element": "Red",
-        "role": "Control",
         "rarity": "R",
+        "tier": "T4",
+        "role": "Control",
         "base_speed": 113,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "CC",
+            "Cooldown Reduction",
+            "Delay"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Codex",
+                "Jackal Guard"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC | HP | ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Cachi",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Cachi",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Cachi",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 74,
             "pick_priority": 78,
@@ -527,47 +473,28 @@
         "name": "Cachi the Guard",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/guard_cachi.png?raw=true",
         "element": "Dark",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "role": "Support",
         "base_speed": 125,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "Cachi the Guard",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Cachi the Guard",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Cachi the Guard",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 66,
             "pick_priority": 72,
@@ -578,10 +505,16 @@
         "name": "Celince",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/celince.png?raw=true",
         "element": "Green",
-        "role": "Support/Debuffer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Control",
         "base_speed": 124,
         "lattice": "4|5|5",
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Hybrid(Sustain)"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -601,34 +534,25 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
-        ],
         "teams": {
             "Team 1": [
                 "Celince",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Celince",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Celince",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Celince",
                 "Holden",
                 "Sylph"
-            ]
+            ],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [
+            "Sharon",
+            "Fiamelia",
+            "Nathenn"
+        ],
+        "countered_by": [
+            "Holden",
+            "Kethos",
+            "Santik"
+        ],
         "draft": {
             "ban_priority": 80,
             "pick_priority": 82,
@@ -639,214 +563,146 @@
         "name": "Chiaki",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki.png?raw=true",
         "element": "Red",
-        "role": "Support/Healer",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Sustain",
         "base_speed": 119,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Buff"
         ],
-        "teams": {
-            "Team 1": [
-                "Chiaki",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Chiaki",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Chiaki",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 74,
-            "speed_priority": 79
+            "speed_priority": 75
         }
     },
     "chiaki the echo": {
         "name": "Chiaki the Echo",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/chiaki_echo.png?raw=true",
         "element": "Green",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Support",
         "base_speed": 125,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse"
         ],
-        "teams": {
-            "Team 1": [
-                "Chiaki the Echo",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Chiaki the Echo",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Chiaki the Echo",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 62,
             "pick_priority": 72,
-            "speed_priority": 70
+            "speed_priority": 95
         }
     },
     "dinah": {
         "name": "Dinah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dinah.png?raw=true",
         "element": "Red",
-        "role": "Debuffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Debuff",
         "base_speed": 120,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
+        "traits": [
+            "Advance",
+            "Debuff",
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "Dinah",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Dinah",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Dinah",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 77,
-            "pick_priority": 80,
-            "speed_priority": 84
+            "ban_priority": 60,
+            "pick_priority": 70,
+            "speed_priority": 90
         }
     },
     "diting": {
         "name": "Diting",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/diting.png?raw=true",
         "element": "Dark",
-        "role": "Damage Dealer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 118,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "Debuff",
+            "Follow-up"
         ],
-        "teams": {
-            "Team 1": [
-                "Diting",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Diting",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Diting",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 88,
-            "pick_priority": 92,
-            "speed_priority": 84
+            "ban_priority": 65,
+            "pick_priority": 60,
+            "speed_priority": 50
         }
     },
     "doki": {
         "name": "Dokidoki",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/doki.png?raw=true",
         "element": "Light",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 125,
         "lattice": "5|5|4",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Cooldown Reduction"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -867,44 +723,43 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Dokidoki",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Dokidoki",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Dokidoki",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Dokidoki",
                 "Lowan",
                 "Xuan Li"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Dokidoki",
                 "Gianc",
                 "Xuan Li"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Dokidoki",
                 "Fuqui",
                 "Kokardi"
+            ],
+            "Team 4": [
+                "Dokidoki",
+                "Fuqui",
+                "Rahu"
+            ],
+            "Team 5": [
+                "Dokidoki",
+                "Fuqui",
+                "Lowan"
             ]
         },
+        "counters": [
+            "Nahor",
+            "Mio",
+            "Nevette"
+        ],
+        "countered_by": [
+            "Holden",
+            "Kethos",
+            "Sharon"
+        ],
         "draft": {
             "ban_priority": 80,
             "pick_priority": 75,
@@ -915,101 +770,66 @@
         "name": "Dorothy",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dorothy.png?raw=true",
         "element": "Light",
-        "role": "Support/Healer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Sustain",
         "base_speed": 112,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Buff",
+            "Cleanse"
         ],
-        "teams": {
-            "Team 1": [
-                "Dorothy",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Dorothy",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Dorothy",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 78,
-            "pick_priority": 80,
-            "speed_priority": 76
+            "ban_priority": 40,
+            "pick_priority": 35,
+            "speed_priority": 50
         }
     },
     "dorothy the wisher": {
         "name": "Dorothy the Wisher",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/wisher_dorothy.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Support",
         "base_speed": 118,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "roles": [
+            "Advance",
+            "Buff",
+            "Cooldown Reduction",
+            "Delay",
+            "Hybrid(Sustain)"
         ],
-        "teams": {
-            "Team 1": [
-                "Dorothy the Wisher",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Dorothy the Wisher",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Dorothy the Wisher",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 72,
-            "pick_priority": 76,
+            "ban_priority": 40,
+            "pick_priority": 50,
             "speed_priority": 81
         }
     },
@@ -1017,47 +837,29 @@
         "name": "Fangus",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fangus.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 123,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "Delay",
+            "DoT",
+            "Follow-up"
         ],
-        "teams": {
-            "Team 1": [
-                "Fangus",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Fangus",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Fangus",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 68,
             "pick_priority": 71,
@@ -1068,10 +870,17 @@
         "name": "Fiamelia",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fia.png?raw=true",
         "element": "Light",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Sustain",
         "base_speed": 125,
         "lattice": "4|5|5",
+        "traits": [
+            "Advance",
+            "Cleanse",
+            "Delay",
+            "Hybrid(DPS)"
+        ],
         "build": {
             "shells": [
                 "Halloween",
@@ -1093,16 +902,20 @@
             ]
         },
         "counters": [
-            "Nathenn",
             "Raymerry",
-            "Holden",
-            "Valerian"
+            "Plume",
+            "Nahor"
+        ],
+        "countered_by": [
+            "Nathenn",
+            "Celince",
+            "Sharon"
         ],
         "teams": {
             "Team 1": [
                 "Fiamelia",
-                "Liliam",
-                "Nathenn"
+                "Nathenn",
+                "Raymerry"
             ],
             "Team 2": [
                 "Fiamelia",
@@ -1110,21 +923,6 @@
                 "Kethos"
             ],
             "Team 3": [
-                "Fiamelia",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Fiamelia",
-                "Nathenn",
-                "Raymerry"
-            ],
-            "Team 5": [
-                "Fiamelia",
-                "Kethos",
-                "Raymerry"
-            ],
-            "Team 6": [
                 "Fiamelia",
                 "Lowan",
                 "Raymerry"
@@ -1140,10 +938,18 @@
         "name": "Freya",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/freya.png?raw=true",
         "element": "Green",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 126,
         "lattice": "5|1|1",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Debuff",
+            "Delay"
+        ],
         "build": {
             "shells": [
                 "Dark Moon",
@@ -1163,43 +969,41 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Freya",
-                "Liliam",
-                "Nathenn"
+                "Massiah",
+                "Turandot"
             ],
             "Team 2": [
                 "Freya",
-                "Raymerry",
-                "Kethos"
+                "Yeli",
+                "Lily"
             ],
-            "Team 3": [
-                "Freya",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 90,
             "pick_priority": 88,
-            "speed_priority": 82
+            "speed_priority": 95
         }
     },
     "fuqui": {
         "name": "Fuqui",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/fuqui.png?raw=true",
         "element": "Green",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Sustain",
         "base_speed": 119,
         "lattice": "1|1|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Hybrid(Support)"
+        ],
         "build": {
             "shells": [
                 "Supernova"
@@ -1219,38 +1023,22 @@
             ]
         },
         "counters": [
-            "Nathenn",
-            "Raymerry",
             "Holden",
-            "Valerian"
+            "Kethos",
+            "Santik"
         ],
         "teams": {
             "Team 1": [
                 "Fuqui",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Fuqui",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Fuqui",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Fuqui",
                 "Asal",
                 "Sania"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Fuqui",
                 "Dokidoki",
                 "Kokardi"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Fuqui",
                 "Dokidoki",
                 "Rahu"
@@ -1266,10 +1054,16 @@
         "name": "Gianc",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/gianc.png?raw=true",
         "element": "Blue",
-        "role": "Bruiser",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Bruiser",
         "base_speed": 119,
         "lattice": "5|3|4",
+        "traits": [
+            "Cleave",
+            "Debuff",
+            "Follow-up"
+        ],
         "build": {
             "shells": [
                 "Champion Gator",
@@ -1287,44 +1081,25 @@
                 "TBD"
             ]
         },
-        "counters": [
-            "Liliam",
-            "Plume",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
-                "Gianc",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Gianc",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Gianc",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Gianc",
                 "Asal",
                 "Palin"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Gianc",
                 "Xuan Li",
                 "Dokidoki"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Gianc",
                 "Xuan Li",
                 "Mizumi Aya"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 60,
             "pick_priority": 66,
@@ -1335,10 +1110,17 @@
         "name": "Lumiwarden Diting",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/giga_diting.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Support",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 125,
         "lattice": "5|3|5",
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Delay",
+            "Taunt"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard"
@@ -1353,39 +1135,29 @@
                 "TBD"
             ]
         },
-        "counters": [
-            "Areal",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
                 "Lumiwarden Diting",
-                "Areal",
-                "Nathenn"
+                "Lowan",
+                "Valerian"
             ],
             "Team 2": [
                 "Lumiwarden Diting",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Lumiwarden Diting",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
-                "Lumiwarden Diting",
-                "Lowan",
-                "Valerian"
-            ],
-            "Team 5": [
-                "Lumiwarden Diting",
                 "Lowan",
                 "Sylph"
-            ]
+            ],
+            "Team 3": []
         },
+        "counters": [
+            "Liliam",
+            "Holden",
+            "Kethos"
+        ],
+        "countered_by": [
+            "Liliam",
+            "Holden",
+            "Kethos"
+        ],
         "draft": {
             "ban_priority": 90,
             "pick_priority": 95,
@@ -1396,61 +1168,48 @@
         "name": "Gray",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/gray.png?raw=true",
         "element": "Green",
-        "role": "Support/Debuffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Debuff",
         "base_speed": 120,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Hybrid(DPS)"
         ],
-        "teams": {
-            "Team 1": [
-                "Gray",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Gray",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Gray",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 84,
-            "pick_priority": 85,
-            "speed_priority": 87
+            "ban_priority": 40,
+            "pick_priority": 60,
+            "speed_priority": 85
         }
     },
     "heinrich": {
         "name": "Heinrich",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/heinrich.png?raw=true",
         "element": "Dark",
-        "role": "Control/Debuffer",
         "rarity": "SSR",
+        "tier": "T0.5",
         "base_speed": 126,
         "lattice": "TBD",
+        "traits": [
+            "Debuff",
+            "Hybrid(DPS)",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Revelation"
@@ -1468,43 +1227,33 @@
                 "Accuracy"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Heinrich",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Heinrich",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Heinrich",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 74,
             "pick_priority": 76,
-            "speed_priority": 78
+            "speed_priority": 90
         }
     },
     "helkid": {
         "name": "Helkid",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/helkid.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Support",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Sustain",
         "base_speed": 127,
         "lattice": "TBD",
+        "traits": [
+            "CC",
+            "Debuff",
+            "Hybrid(DPS)"
+        ],
         "build": {
             "shells": [
                 "Codex"
@@ -1522,29 +1271,13 @@
                 "ATK"
             ]
         },
-        "counters": [
-            "Areal",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Helkid",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Helkid",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Helkid",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 72,
             "pick_priority": 74,
@@ -1555,61 +1288,64 @@
         "name": "Hizuki Mari",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/hizuki.png?raw=true",
         "element": "Dark",
-        "role": "Control",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Support",
         "base_speed": 123,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "CC",
+            "Debuff",
+            "Delay",
+            "Hybrid(Control)"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Cdoex",
+                "Jackal Guard"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC | HP | ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Hizuki Mari",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Hizuki Mari",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Hizuki Mari",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 72,
-            "speed_priority": 74
+            "speed_priority": 90
         }
     },
     "holden": {
         "name": "Holden",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/holden.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Debuffer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Bruiser",
         "base_speed": 125,
         "lattice": "5|5|1",
+        "traits": [
+            "Cooldown Reset",
+            "Debuff",
+            "Delay",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -1629,44 +1365,29 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Kethos",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Holden",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Holden",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Holden",
-                "Valerian",
-                "Areal"
-            ],
-            "Team 4": [
                 "Holden",
                 "Lowan",
                 "Sylph"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Holden",
                 "Lilith",
                 "Lingluo"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Holden",
                 "Tiamat",
                 "Lingluo"
             ]
         },
+        "counters": [
+            "Nathenn",
+            "Mizumi Aya",
+            "Asal"
+        ],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 80,
@@ -1677,10 +1398,16 @@
         "name": "Hoyan",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/hoyan.png?raw=true",
         "element": "Green",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Damage Dealer",
         "base_speed": 120,
         "lattice": "TBD",
+        "traits": [
+            "Cheat Death",
+            "Debuff",
+            "Revive"
+        ],
         "build": {
             "shells": [
                 "Count",
@@ -1700,145 +1427,121 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Hoyan",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Hoyan",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Hoyan",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [
+            "Yeli",
+            "Senyu",
+            "Rosa"
+        ],
+        "countered_by": [
+            "Raymerry",
+            "Nathenn",
+            "Massiah"
+        ],
         "draft": {
-            "ban_priority": 82,
-            "pick_priority": 86,
-            "speed_priority": 88
+            "ban_priority": 80,
+            "pick_priority": 80,
+            "speed_priority": 75
         }
     },
     "kazami kazuyo": {
         "name": "Kazami Kazuyo",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kazami_kazuyo.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Support",
         "base_speed": 120,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Cooldown Reduction",
+            "Delay",
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Kazami Kazuyo",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Kazami Kazuyo",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Kazami Kazuyo",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 76,
-            "pick_priority": 79,
-            "speed_priority": 83
+            "ban_priority": 50,
+            "pick_priority": 40,
+            "speed_priority": 80
         }
     },
     "kazuyo": {
         "name": "Kazuyo the Reverie",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kazuyo.png?raw=true",
         "element": "Green",
-        "role": "Control",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Control",
         "base_speed": 124,
         "lattice": "5|5|5",
+        "traits": [
+            "CC",
+            "Debuff",
+            "Delay"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Codex",
+                "Jackal Guard"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC | HP | ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Kazuyo the Reverie",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Kazuyo the Reverie",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Kazuyo the Reverie",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 75,
-            "pick_priority": 78,
-            "speed_priority": 82
+            "ban_priority": 65,
+            "pick_priority": 60,
+            "speed_priority": 90
         }
     },
     "kethos": {
         "name": "Kethos",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kethos.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Control",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 117,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Cooldown Reset",
+            "Debuff",
+            "Delay",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -1857,109 +1560,93 @@
                 "HP"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Kethos",
-                "Areal",
-                "Nathenn"
+                "Raymerry",
+                "Fiamelia"
             ],
             "Team 2": [
-                "Kethos",
-                "Raymerry",
-                "Areal"
-            ],
-            "Team 3": [
-                "Kethos",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Kethos",
                 "Luvia",
                 "Xuan Chi"
             ],
-            "Team 5": [
+            "Team 3": [
                 "Kethos",
                 "Xuan Chi",
                 "Sania"
-            ],
-            "Team 6": [
-                "Kethos",
-                "Fiamelia",
-                "Raymerry"
             ]
         },
+        "counters": [
+            "Nathenn",
+            "Aya",
+            "Fiamelia"
+        ],
+        "countered_by": [],
         "draft": {
             "ban_priority": 92,
             "pick_priority": 88,
-            "speed_priority": 85
+            "speed_priority": 90
         }
     },
     "khloros": {
         "name": "Khloros",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/khloros.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T3",
+        "role": "Damage Dealer",
         "base_speed": 126,
-        "lattice": "TBD",
+        "lattice": "5/5/5",
+        "traits": [
+            "Debuff",
+            "Follow-up"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Count"
             ],
             "sets": [
-                "TBD"
+                "Keeneye | Fury | Furyedge",
+                "Keeneye | Fury | Swiftraid"
             ],
             "mainstats": [
-                "TBD"
+                "CDMG | ATK | CDMG"
             ],
             "substats": [
-                "TBD"
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Khloros",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Khloros",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Khloros",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 76,
-            "pick_priority": 78,
-            "speed_priority": 80
+            "ban_priority": 65,
+            "pick_priority": 60,
+            "speed_priority": 75
         }
     },
     "kloss": {
         "name": "Kloss",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kloss.png?raw=true",
         "element": "Green",
-        "role": "Debuffer",
         "rarity": "SSR",
+        "tier": "T2",
+        "role": "Debuff",
         "base_speed": 128,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Debuff",
+            "Delay"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -1978,43 +1665,34 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
-        ],
         "teams": {
-            "Team 1": [
-                "Kloss",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Kloss",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Kloss",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 86,
-            "pick_priority": 90,
-            "speed_priority": 82
+            "ban_priority": 75,
+            "pick_priority": 70,
+            "speed_priority": 90
         }
     },
     "kokardi": {
         "name": "Kokardi",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kokardi.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Damage Dealer",
         "base_speed": 122,
         "lattice": "3|5|4",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleave",
+            "Untargettable"
+        ],
         "build": {
             "shells": [
                 "Count"
@@ -2031,58 +1709,53 @@
                 "TBD"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
-                "Kokardi",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Kokardi",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Kokardi",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Kokardi",
                 "Mizumi Aya",
                 "Valerian"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Kokardi",
                 "Santik",
                 "Valerian"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Kokardi",
                 "Dokidoki",
                 "Fuqui"
             ]
         },
+        "counters": [
+            "Lowan",
+            "Liliam",
+            "Luvia"
+        ],
+        "countered_by": [
+            "Yeli",
+            "Massiah",
+            "Raymerry"
+        ],
         "draft": {
-            "ban_priority": 72,
+            "ban_priority": 80,
             "pick_priority": 78,
-            "speed_priority": 75
+            "speed_priority": 85
         }
     },
     "kraken": {
         "name": "Kraken",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kraken.png?raw=true",
         "element": "Blue",
-        "role": "Control",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Control",
         "base_speed": 119,
         "lattice": "5|5|5",
+        "traits": [
+            "CC",
+            "Debuff",
+            "Delay"
+        ],
         "build": {
             "shells": [
                 "Codex"
@@ -2100,32 +1773,16 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Kraken",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Kraken",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Kraken",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 80,
-            "pick_priority": 84,
+            "ban_priority": 70,
+            "pick_priority": 60,
             "speed_priority": 90
         }
     },
@@ -2133,10 +1790,11 @@
         "name": "Lian",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lian.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T3",
+        "role": "Damage Dealer",
         "base_speed": 121,
-        "lattice": "TBD",
+        "lattice": "5/5/5",
         "build": {
             "shells": [
                 "Revelation"
@@ -2154,29 +1812,13 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Lian",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Lian",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Lian",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 72,
@@ -2187,10 +1829,16 @@
         "name": "Liliam",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/liliam.png?raw=true",
         "element": "Dark",
-        "role": "Damage Dealer/Control",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Damage Dealer",
         "base_speed": 125,
         "lattice": "1|5|5",
+        "traits": [
+            "CC",
+            "Debuff Immunity",
+            "Shield Ignore"
+        ],
         "build": {
             "shells": [
                 "Tiger Yin",
@@ -2210,43 +1858,33 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Nathenn",
-            "Holden"
-        ],
         "teams": {
-            "Team 1": [
-                "Liliam",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Liliam",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Liliam",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 89,
-            "pick_priority": 92,
-            "speed_priority": 89
+            "ban_priority": 90,
+            "pick_priority": 87,
+            "speed_priority": 85
         }
     },
     "lilith": {
         "name": "Lilith",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lilith.png?raw=true",
         "element": "Green",
-        "role": "Bruiser/Control",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Bruiser",
         "base_speed": 121,
         "lattice": "5|5|5",
+        "traits": [
+            "CC",
+            "Delay",
+            "Hybrid(Control)"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -2260,37 +1898,23 @@
                 "HP | ACC | HP"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Lilith",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Lilith",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Lilith",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Lilith",
                 "Holden",
                 "Lingluo"
-            ]
+            ],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 84,
             "pick_priority": 86,
@@ -2301,10 +1925,17 @@
         "name": "Lily",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lily.png?raw=true",
         "element": "Dark",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 127,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cooldown Reduction",
+            "Cooldown Reset"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -2324,43 +1955,44 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Lily",
                 "Liliam",
-                "Nathenn"
+                "Plume"
             ],
             "Team 2": [
                 "Lily",
                 "Raymerry",
-                "Kethos"
+                "Sania"
             ],
             "Team 3": [
                 "Lily",
-                "Holden",
+                "Lowan",
                 "Valerian"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 96,
-            "pick_priority": 97,
-            "speed_priority": 92
+            "ban_priority": 90,
+            "pick_priority": 88,
+            "speed_priority": 97
         }
     },
     "lingluo": {
         "name": "Lingluo",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lingluo.png?raw=true",
         "element": "Blue",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Sustain",
         "base_speed": 125,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "Cleanse"
+        ],
         "build": {
             "shells": [
                 "Gigabyte",
@@ -2380,44 +2012,25 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Lingluo",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Lingluo",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Lingluo",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Lingluo",
                 "Plume",
                 "Tiamat"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Lingluo",
                 "Kethos",
                 "Tiamat"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Lingluo",
                 "Holden",
                 "Lilith"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 88,
             "pick_priority": 90,
@@ -2428,10 +2041,19 @@
         "name": "Lowan",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lowan.png?raw=true",
         "element": "Dark",
-        "role": "Bruiser/Control",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 123,
         "lattice": "5|3|5",
+        "traits": [
+            "Counter",
+            "Debuff",
+            "Delay",
+            "Hybrid(Control)",
+            "Strip",
+            "Taunt"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -2450,58 +2072,51 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Lowan",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Lowan",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Lowan",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Lowan",
                 "Luvia",
                 "Sania"
             ],
-            "Team 5": [
-                "Lowan",
-                "Fiamelia",
-                "Raymerry"
-            ],
-            "Team 6": [
+            "Team 2": [
                 "Lowan",
                 "Valerian",
                 "Xuan Li"
+            ],
+            "Team 3": [
+                "Lowan",
+                "Dokidoki",
+                "Xuan Li"
+            ],
+            "Team 4": [
+                "Lowan",
+                "Fiamelia",
+                "Raymerry"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 94,
-            "pick_priority": 92,
-            "speed_priority": 89
+            "pick_priority": 90,
+            "speed_priority": 93
         }
     },
     "luvia": {
         "name": "Luvia",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/luvia.jpg?raw=true",
         "element": "Blue",
-        "role": "Bruiser/Control",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Control",
         "base_speed": 127,
         "lattice": "4|5|5",
+        "traits": [
+            "Buff",
+            "CC",
+            "Debuff",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -2520,44 +2135,25 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
-                "Luvia",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Luvia",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Luvia",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Luvia",
                 "Sharon",
                 "Xuan Chi"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Luvia",
                 "Sharon",
                 "Sylvia"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Luvia",
                 "Kethos",
                 "Xuan Chi"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 80,
             "pick_priority": 82,
@@ -2573,56 +2169,39 @@
         "base_speed": 121,
         "lattice": "5|5|5",
         "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Marvell",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Marvell",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Marvell",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 60,
             "pick_priority": 64,
-            "speed_priority": 70
+            "speed_priority": 85
         }
     },
     "massiah": {
         "name": "Massiah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/massiah.png?raw=true",
         "element": "Light",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Damage Dealer",
         "base_speed": 117,
         "lattice": "5|5|5",
+        "traits": [
+            "Cleave",
+            "Debuff",
+            "Invulnerability",
+            "Passive Ignore"
+        ],
         "build": {
             "shells": [
                 "Count"
@@ -2640,43 +2219,47 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
                 "Massiah",
-                "Areal",
-                "Nathenn"
+                "Turandot",
+                "Raymerry"
             ],
             "Team 2": [
                 "Massiah",
-                "Raymerry",
-                "Valerian"
+                "Tsukiyo Mi",
+                "Beyontin"
             ],
             "Team 3": [
                 "Massiah",
-                "Holden",
-                "Kethos"
+                "Lily",
+                "Freya"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 98,
-            "pick_priority": 96,
-            "speed_priority": 93
+            "pick_priority": 95,
+            "speed_priority": 85
         }
     },
     "mia": {
         "name": "Mia",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mia.png?raw=true",
         "element": "Red",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Sustain",
         "base_speed": 121,
         "lattice": "TBD",
+        "traits": [
+            "Buff",
+            "Cleanse",
+            "Cooldown Reduction",
+            "Delay",
+            "Hybrid(Support)"
+        ],
         "build": {
             "shells": [
                 "Codex"
@@ -2694,43 +2277,34 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
-            "Team 1": [
-                "Mia",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Mia",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Mia",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 64,
-            "pick_priority": 68,
-            "speed_priority": 74
+            "ban_priority": 70,
+            "pick_priority": 75,
+            "speed_priority": 70
         }
     },
     "mio": {
         "name": "Mio",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mio.png?raw=true",
         "element": "Light",
-        "role": "Control",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Control",
         "base_speed": 126,
         "lattice": "TBD",
+        "traits": [
+            "Advance",
+            "CC",
+            "Debuff",
+            "Delay"
+        ],
         "build": {
             "shells": [
                 "Codex",
@@ -2749,80 +2323,45 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Mio",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Mio",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Mio",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 80,
-            "speed_priority": 88
+            "speed_priority": 95
         }
     },
     "mizuki": {
         "name": "Mizuki Makoto",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/mizuki.png?raw=true",
         "element": "Green",
-        "role": "Bruiser",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Bruiser",
         "base_speed": 120,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Liliam",
-            "Plume",
-            "Nathenn",
-            "Raymerry"
+        "traits": [
+            "Buff",
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Mizuki Makoto",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Mizuki Makoto",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Mizuki Makoto",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 73,
             "pick_priority": 77,
@@ -2833,10 +2372,15 @@
         "name": "Nahor",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nahor.png?raw=true",
         "element": "Blue",
-        "role": "Control",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Control",
         "base_speed": 122,
         "lattice": "TBD",
+        "traits": [
+            "CC",
+            "Debuff"
+        ],
         "build": {
             "shells": [
                 "Codex",
@@ -2855,43 +2399,34 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Nahor",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Nahor",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Nahor",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 80,
             "pick_priority": 84,
-            "speed_priority": 84
+            "speed_priority": 93
         }
     },
     "nathenn": {
         "name": "Nathenn",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nathenn.png?raw=true",
         "element": "Green",
-        "role": "Bruiser/Debuffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 126,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Cleave",
+            "Debuff",
+            "Execute"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -2911,32 +2446,26 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Holden",
-            "Kethos",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Nathenn",
-                "Areal",
-                "Raymerry"
+                "Lily",
+                "Sylvia"
             ],
             "Team 2": [
                 "Nathenn",
                 "Raymerry",
-                "Kethos"
+                "Fiamelia"
             ],
             "Team 3": [
                 "Nathenn",
-                "Holden",
-                "Valerian"
+                "Xuan Chi",
+                "Sylvia"
             ],
             "Team 4": [
                 "Nathenn",
-                "Raymerry",
-                "Fiamelia"
+                "Xuan Chi",
+                "Sania"
             ],
             "Team 5": [
                 "Nathenn",
@@ -2949,6 +2478,16 @@
                 "Sania"
             ]
         },
+        "counters": [
+            "★★★★ Raymerry",
+            "★★★★ Sharon",
+            "★★★☆ Fiamelia"
+        ],
+        "countered_by": [
+            "★★★☆ Holden",
+            "★★★☆ Kethos",
+            "★★☆☆ Santik"
+        ],
         "draft": {
             "ban_priority": 95,
             "pick_priority": 98,
@@ -2959,23 +2498,21 @@
         "name": "Nell",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nell.png?raw=true",
         "element": "Dark",
-        "role": "Support/Debuffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Support",
         "base_speed": 123,
         "lattice": "TBD",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Debuff"
+        ],
         "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
         "counters": [
             "Sharon",
@@ -2984,36 +2521,30 @@
             "Kethos"
         ],
         "teams": {
-            "Team 1": [
-                "Nell",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Nell",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Nell",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
         "draft": {
             "ban_priority": 60,
             "pick_priority": 62,
-            "speed_priority": 76
+            "speed_priority": 80
         }
     },
     "nevette": {
         "name": "Nevette",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/nevette.png?raw=true",
         "element": "Green",
-        "role": "Control",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Control",
         "base_speed": 126,
         "lattice": "TBD",
+        "traits": [
+            "CC",
+            "Debuff",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Codex",
@@ -3032,43 +2563,33 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Nevette",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Nevette",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Nevette",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 56,
-            "pick_priority": 58,
-            "speed_priority": 66
+            "ban_priority": 73,
+            "pick_priority": 70,
+            "speed_priority": 90
         }
     },
     "ninfoniel": {
         "name": "Ninfoniel",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/ninfoniel.png?raw=true",
         "element": "Blue",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Support",
         "base_speed": 122,
         "lattice": "TBD",
+        "traits": [
+            "Buff",
+            "Cleanse",
+            "Hybrid(Sustain)"
+        ],
         "build": {
             "shells": [
                 "Codex"
@@ -3086,29 +2607,13 @@
                 "Defense"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
-            "Team 1": [
-                "Ninfoniel",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Ninfoniel",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Ninfoniel",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 74,
             "pick_priority": 78,
@@ -3119,98 +2624,73 @@
         "name": "Obol",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/obol.png?raw=true",
         "element": "Blue",
-        "role": "Control",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Control",
         "base_speed": 122,
         "lattice": "5|5|5",
+        "traits": [
+            "CC",
+            "DoT",
+            "Strip"
+        ],
         "build": {
             "shells": [
-                "TBD"
+                "Codex",
+                "Jackal Guard"
             ],
             "sets": [
-                "TBD"
+                "Swiftrush | Bulwark | Swiftsmite"
             ],
             "mainstats": [
-                "TBD"
+                "ACC | HP | ACC"
             ],
             "substats": [
-                "TBD"
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
             ]
         },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Obol",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Obol",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Obol",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 69,
             "pick_priority": 73,
-            "speed_priority": 78
+            "speed_priority": 90
         }
     },
     "oboro": {
         "name": "Oboro",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/oboro.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 123,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "Debuff",
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "Oboro",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Oboro",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Oboro",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 71,
             "pick_priority": 75,
@@ -3221,10 +2701,16 @@
         "name": "Palin",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/palin.png?raw=true",
         "element": "Blue",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 122,
         "lattice": "5|1|5",
+        "traits": [
+            "Buff",
+            "Strip",
+            "Hybrid(Sustain)"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -3243,58 +2729,46 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Palin",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Palin",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Palin",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Palin",
                 "Asal",
                 "Gianc"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Palin",
                 "Asal",
                 "Sania"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Palin",
                 "Asal",
                 "Valerian"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 68,
             "pick_priority": 72,
-            "speed_priority": 78
+            "speed_priority": 92
         }
     },
     "plume": {
         "name": "Plume",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/plume.png?raw=true",
         "element": "Dark",
-        "role": "Debuffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Debuff",
         "base_speed": 129,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Debuff",
+            "Delay",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -3315,44 +2789,29 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
-        ],
         "teams": {
             "Team 1": [
-                "Plume",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Plume",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Plume",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Plume",
                 "Nathenn",
                 "Sylvia"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Plume",
-                "Sania",
-                "Tiamat"
+                "Tiamat",
+                "Sania"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Plume",
-                "Sania",
-                "Raymerry"
+                "Raymerry",
+                "Sania"
             ]
         },
+        "counters": [],
+        "countered_by": [
+            "Fiamelia",
+            "Mizumi Aya",
+            "Areal"
+        ],
         "draft": {
             "ban_priority": 91,
             "pick_priority": 95,
@@ -3363,10 +2822,18 @@
         "name": "Qano",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/qano.png?raw=true",
         "element": "Blue",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Damage Dealer",
         "base_speed": 121,
         "lattice": "TBD",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleave",
+            "Cooldown Reduction",
+            "Debuff"
+        ],
         "build": {
             "shells": [
                 "Revelation"
@@ -3384,29 +2851,13 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Qano",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Qano",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Qano",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 62,
             "pick_priority": 70,
@@ -3417,10 +2868,15 @@
         "name": "Rahu",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rahu.png?raw=true",
         "element": "Green",
-        "role": "Bruiser",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Bruiser",
         "base_speed": 117,
         "lattice": "4|5|5",
+        "traits": [
+            "Debuff",
+            "Follow-up"
+        ],
         "build": {
             "shells": [
                 "Doom Crow"
@@ -3438,44 +2894,25 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Rahu",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Rahu",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Rahu",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Rahu",
                 "Gianc",
                 "Fiamelia"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Rahu",
                 "Kethos",
                 "Sania"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Rahu",
                 "Lowan",
                 "Sania"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 88,
             "pick_priority": 89,
@@ -3486,10 +2923,18 @@
         "name": "Raymerry",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/raymerry.png?raw=true",
         "element": "Light",
-        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 118,
         "lattice": "5|5|4",
+        "traits": [
+            "CC",
+            "Cleave",
+            "Debuff",
+            "Delay",
+            "Execute"
+        ],
         "build": {
             "shells": [
                 "Champion Gator",
@@ -3509,32 +2954,26 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Raymerry",
-                "Areal",
+                "Fiamelia",
                 "Nathenn"
             ],
             "Team 2": [
                 "Raymerry",
-                "Valerian",
-                "Areal"
+                "Kethos",
+                "Fiamelia"
             ],
             "Team 3": [
                 "Raymerry",
-                "Holden",
-                "Kethos"
+                "Massiah",
+                "Turandot"
             ],
             "Team 4": [
                 "Raymerry",
-                "Nathenn",
-                "Fiamelia"
+                "Plume",
+                "Sania"
             ],
             "Team 5": [
                 "Raymerry",
@@ -3547,6 +2986,16 @@
                 "Sania"
             ]
         },
+        "counters": [
+            "Massiah",
+            "Yeli",
+            "Asal"
+        ],
+        "countered_by": [
+            "Nathenn",
+            "Celince",
+            "Fiamelia"
+        ],
         "draft": {
             "ban_priority": 93,
             "pick_priority": 89,
@@ -3557,47 +3006,29 @@
         "name": "RC-77",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rc-77.png?raw=true",
         "element": "Red",
-        "role": "Control/Debuffer",
         "rarity": "SR",
+        "tier": "T1",
+        "role": "Debuff",
         "base_speed": 128,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
+        "traits": [
+            "CC",
+            "Debuff",
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "RC-77",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "RC-77",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "RC-77",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 81,
@@ -3608,47 +3039,28 @@
         "name": "Rilmocha",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rilmocha.png?raw=true",
         "element": "Green",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T3",
+        "role": "Damage Dealer",
         "base_speed": 118,
         "lattice": "TBD",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "CC",
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "Rilmocha",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Rilmocha",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Rilmocha",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 72,
             "pick_priority": 74,
@@ -3659,47 +3071,29 @@
         "name": "Rin",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rin.png?raw=true",
         "element": "Red",
-        "role": "Bruiser/Control",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Sustain",
         "base_speed": 122,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Valerian"
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Taunt"
         ],
-        "teams": {
-            "Team 1": [
-                "Rin",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Rin",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Rin",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 74,
             "pick_priority": 77,
@@ -3710,47 +3104,27 @@
         "name": "Rin the Unbowed",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/unbowed_rin.png?raw=true",
         "element": "Blue",
-        "role": "Damage Dealer",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Damage Dealer",
         "base_speed": 126,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "Delay"
         ],
-        "teams": {
-            "Team 1": [
-                "Rin the Unbowed",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Rin the Unbowed",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Rin the Unbowed",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 76,
             "pick_priority": 79,
@@ -3761,10 +3135,17 @@
         "name": "Rosa",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/rosa.png?raw=true",
         "element": "Blue",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 116,
         "lattice": "TBD",
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Delay",
+            "Follow-up"
+        ],
         "build": {
             "shells": [
                 "Revelation"
@@ -3783,29 +3164,13 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Rosa",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Rosa",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Rosa",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 76,
             "pick_priority": 80,
@@ -3816,10 +3181,17 @@
         "name": "Sania",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sania.png?raw=true",
         "element": "Green",
-        "role": "Support/Healer",
         "rarity": "SR",
+        "tier": "T0",
+        "role": "Sustain",
         "base_speed": 124,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Revive"
+        ],
         "build": {
             "shells": [
                 "Gigabyte",
@@ -3839,44 +3211,40 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Sania",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Sania",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Sania",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Sania",
                 "Nathenn",
                 "Raymerry"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Sania",
                 "Nathenn",
                 "Xuan Chi"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Sania",
                 "Luvia",
                 "Lowan"
+            ],
+            "Team 4": [
+                "Sania",
+                "Xuan Chi",
+                "Xuan Li"
+            ],
+            "Team 5": [
+                "Sania",
+                "Tiamat",
+                "Plume"
+            ],
+            "Team 6": [
+                "Sania",
+                "Asal",
+                "Fuqui"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 82,
@@ -3887,10 +3255,17 @@
         "name": "Santik",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/santik.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 124,
         "lattice": "5|4|5",
+        "traits": [
+            "Buff",
+            "Cleanse",
+            "Cooldown Reset",
+            "Debuff"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -3911,53 +3286,32 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
-            "Team 1": [
-                "Santik",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Santik",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Santik",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Santik",
-                "Valerian",
-                "Kokardi"
-            ],
-            "Team 5": [
-                "Santik",
-                "Fuqui",
-                "Kokardi"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 58,
-            "pick_priority": 62,
-            "speed_priority": 68
+            "ban_priority": 73,
+            "pick_priority": 76,
+            "speed_priority": 90
         }
     },
     "senyu": {
         "name": "Senyu",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/senyu.png?raw=true",
         "element": "Red",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Damage Dealer",
         "base_speed": 128,
         "lattice": "TBD",
+        "traits": [
+            "Buff",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Revelation"
@@ -3975,83 +3329,47 @@
                 "ATK"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
-            "Team 1": [
-                "Senyu",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Senyu",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Senyu",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 70,
-            "pick_priority": 76,
-            "speed_priority": 80
+            "ban_priority": 80,
+            "pick_priority": 72,
+            "speed_priority": 92
         }
     },
     "shadow sania": {
         "name": "Shadow Sania",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/shadow_sania.png?raw=true",
         "element": "Dark",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T5",
+        "role": "Damage Dealer",
         "base_speed": 115,
         "lattice": "TBD",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Valerian",
-            "Raymerry"
+        "traits": [
+            "DoT"
         ],
-        "teams": {
-            "Team 1": [
-                "Shadow Sania",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Shadow Sania",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Shadow Sania",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 76,
-            "pick_priority": 80,
+            "ban_priority": 45,
+            "pick_priority": 40,
             "speed_priority": 83
         }
     },
@@ -4059,10 +3377,18 @@
         "name": "Sharon",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sharon.png?raw=true",
         "element": "Dark",
-        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 124,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Anti-Cleanse",
+            "Debuff",
+            "DoT",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Jackal Guard",
@@ -4081,44 +3407,33 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Holden"
-        ],
         "teams": {
             "Team 1": [
-                "Sharon",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Sharon",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Sharon",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Sharon",
                 "Luvia",
                 "Xuan Chi"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Sharon",
                 "Luvia",
                 "Sylvia"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Sharon",
                 "Luvia",
                 "Xuan Li"
             ]
         },
+        "counters": [
+            "Fiamelia",
+            "Areal",
+            "Mizumi Aya"
+        ],
+        "countered_by": [
+            "Nathenn",
+            "Celince",
+            "Sylvia"
+        ],
         "draft": {
             "ban_priority": 100,
             "pick_priority": 98,
@@ -4129,61 +3444,50 @@
         "name": "Steelheart Dinah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/steel_dinah.png?raw=true",
         "element": "Light",
-        "role": "Control",
         "rarity": "SR",
+        "tier": "T3",
+        "role": "Support",
         "base_speed": 123,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Holden",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
+        "traits": [
+            "Advance",
+            "CC",
+            "Cleanse",
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Steelheart Dinah",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Steelheart Dinah",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Steelheart Dinah",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 72,
-            "speed_priority": 74
+            "speed_priority": 85
         }
     },
     "sylph": {
         "name": "Sylph",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylph.png?raw=true",
         "element": "Blue",
-        "role": "Support/Healer",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Sustain",
         "base_speed": 111,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "Cleanse",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Gigabyte",
@@ -4204,44 +3508,25 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Sylph",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Sylph",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Sylph",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Sylph",
                 "Lumiwarden Diting",
                 "Lowan"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Sylph",
                 "Holden",
                 "Lowan"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Sylph",
                 "Rahu",
                 "Lowan"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 72,
             "pick_priority": 76,
@@ -4252,10 +3537,18 @@
         "name": "Sylvia",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/sylvia.png?raw=true",
         "element": "Red",
-        "role": "Support/Healer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 122,
         "lattice": "5|3|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cleanse",
+            "Hybrid(Sustain)",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Moon Bunny",
@@ -4274,44 +3567,25 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Sylvia",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Sylvia",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Sylvia",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Sylvia",
                 "Nathenn",
                 "Plume"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Sylvia",
                 "Nathenn",
                 "Xuan Chi"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Sylvia",
                 "Luvia",
                 "Sharon"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 91,
             "pick_priority": 90,
@@ -4322,10 +3596,17 @@
         "name": "Tiamat",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tiamat.png?raw=true",
         "element": "Blue",
-        "role": "Bruiser/Support",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Bruiser",
         "base_speed": 117,
         "lattice": "4|1|5",
+        "traits": [
+            "Cleave",
+            "Hybrid(Support)",
+            "Taunt",
+            "Windup"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -4345,44 +3626,25 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
-                "Tiamat",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Tiamat",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Tiamat",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Tiamat",
                 "Plume",
                 "Sania"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Tiamat",
                 "Plume",
                 "Lingluo"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Tiamat",
                 "Kethos",
                 "Lingluo"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 80,
             "pick_priority": 84,
@@ -4393,10 +3655,17 @@
         "name": "Tsukiyo Mi",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tsukiyo.png?raw=true",
         "element": "Blue",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Support",
         "base_speed": 122,
         "lattice": "TBD",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cooldown Reduction",
+            "Debuff"
+        ],
         "build": {
             "shells": [
                 "Codex",
@@ -4415,29 +3684,17 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Tsukiyo Mi",
-                "Liliam",
-                "Nathenn"
+                "Massiah",
+                "Beyontin"
             ],
-            "Team 2": [
-                "Tsukiyo Mi",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Tsukiyo Mi",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 64,
             "pick_priority": 70,
@@ -4448,47 +3705,27 @@
         "name": "Tsutomu",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/tsutomu.png?raw=true",
         "element": "Green",
-        "role": "Damage Dealer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 121,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
+        "traits": [
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Tsutomu",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Tsutomu",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Tsutomu",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 70,
             "pick_priority": 74,
@@ -4499,10 +3736,17 @@
         "name": "Turandot",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/turandot.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T0",
+        "role": "Support",
         "base_speed": 131,
         "lattice": "5|5|5",
+        "traits": [
+            "Advance",
+            "Buff",
+            "Delay",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Codex"
@@ -4521,37 +3765,20 @@
                 "Resilience"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
                 "Turandot",
-                "Liliam",
-                "Nathenn"
+                "Massiah",
+                "Raymerry"
             ],
-            "Team 2": [
-                "Turandot",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Turandot",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
-                "Turandot",
-                "Gianc",
-                "Xuan Li"
-            ]
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 98,
-            "pick_priority": 84,
+            "pick_priority": 95,
             "speed_priority": 98
         }
     },
@@ -4559,10 +3786,16 @@
         "name": "Valerian",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/valerian.png?raw=true",
         "element": "Light",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T0.5",
+        "role": "Sustain",
         "base_speed": 119,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "CC",
+            "Cheat Death"
+        ],
         "build": {
             "shells": [
                 "Gigabyte"
@@ -4581,58 +3814,47 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Valerian",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Valerian",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Valerian",
-                "Holden",
-                "Areal"
-            ],
-            "Team 4": [
                 "Valerian",
                 "Asal",
                 "Xuan Li"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Valerian",
                 "Asal",
                 "Palin"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Valerian",
                 "Lowan",
                 "Xuan Li"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 99,
-            "pick_priority": 98,
-            "speed_priority": 92
+            "ban_priority": 95,
+            "pick_priority": 92,
+            "speed_priority": 60
         }
     },
     "veronika": {
         "name": "Veronika",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/veronika.png?raw=true",
         "element": "Red",
-        "role": "Support/Buffer",
         "rarity": "SSR",
+        "tier": "T1",
+        "role": "Support",
         "base_speed": 117,
         "lattice": "TBD",
+        "traits": [
+            "Buff Steal",
+            "Cheat Death",
+            "Debuff",
+            "Hybrid(Sustain)",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Halloween"
@@ -4650,29 +3872,13 @@
                 "DEF"
             ]
         },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
-            "Team 1": [
-                "Veronika",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Veronika",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Veronika",
-                "Holden",
-                "Valerian"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 78,
             "pick_priority": 82,
@@ -4683,98 +3889,62 @@
         "name": "Victor",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/victor.png?raw=true",
         "element": "Red",
-        "role": "Bruiser",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Damage Dealer",
         "base_speed": 116,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Liliam",
-            "Plume",
-            "Nathenn",
-            "Raymerry"
+        "traits": [
+            "Sustain"
         ],
-        "teams": {
-            "Team 1": [
-                "Victor",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Victor",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Victor",
-                "Holden",
-                "Kethos"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 72,
-            "pick_priority": 76,
-            "speed_priority": 80
+            "ban_priority": 50,
+            "pick_priority": 40,
+            "speed_priority": 65
         }
     },
     "viper": {
         "name": "Viper",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/viper.png?raw=true",
         "element": "Blue",
-        "role": "Bruiser/Debuffer",
         "rarity": "SR",
+        "tier": "T2",
+        "role": "Debuff",
         "base_speed": 115,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Holden",
-            "Kethos",
-            "Areal",
-            "Valerian"
+        "traits": [
+            "Buff",
+            "Counter",
+            "Debuff",
+            "Delay",
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Viper",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Viper",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Viper",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 82,
             "pick_priority": 86,
@@ -4785,10 +3955,16 @@
         "name": "Xiada",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xiada.png?raw=true",
         "element": "Blue",
-        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
+        "tier": "T2",
+        "role": "Bruiser",
         "base_speed": 120,
         "lattice": "TBD",
+        "traits": [
+            "Buff Steal",
+            "Cleave",
+            "Debuff"
+        ],
         "build": {
             "shells": [
                 "Law of Silence"
@@ -4806,29 +3982,13 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Valerian"
-        ],
         "teams": {
-            "Team 1": [
-                "Xiada",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Xiada",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Xiada",
-                "Holden",
-                "Kethos"
-            ]
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 60,
             "pick_priority": 66,
@@ -4839,10 +3999,17 @@
         "name": "Xuan Chi",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan_chi.png?raw=true",
         "element": "Light",
-        "role": "Bruiser/Debuffer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 120,
         "lattice": "4|5|5",
+        "traits": [
+            "Advance",
+            "Debuff",
+            "Shell Disable",
+            "Strip"
+        ],
         "build": {
             "shells": [
                 "Amber",
@@ -4862,44 +4029,40 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Holden",
-            "Kethos",
-            "Areal",
-            "Valerian"
-        ],
         "teams": {
             "Team 1": [
-                "Xuan Chi",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Xuan Chi",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Xuan Chi",
-                "Holden",
-                "Valerian"
-            ],
-            "Team 4": [
                 "Xuan Chi",
                 "Nathenn",
                 "Sania"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Xuan Chi",
                 "Nathenn",
                 "Sylvia"
             ],
-            "Team 6": [
+            "Team 3": [
                 "Xuan Chi",
                 "Luvia",
                 "Sharon"
+            ],
+            "Team 4": [
+                "Xuan Chi",
+                "Kethos",
+                "Luvia"
+            ],
+            "Team 5": [
+                "Xuan Chi",
+                "Xuan Li",
+                "Sania"
+            ],
+            "Team 6": [
+                "Xuan Chi",
+                "Sharon",
+                "Sania"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 97,
             "pick_priority": 95,
@@ -4910,10 +4073,17 @@
         "name": "Xuan Li",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/xuan_li.png?raw=true",
         "element": "Dark",
-        "role": "Bruiser/Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
         "base_speed": 122,
         "lattice": "5|4|5",
+        "traits": [
+            "Buff",
+            "Debuff",
+            "Follow-up",
+            "Hybrid(Support)"
+        ],
         "build": {
             "shells": [
                 "Doom Crow"
@@ -4932,37 +4102,31 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Valerian",
-            "Nathenn",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
-                "Xuan Li",
-                "Areal",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Xuan Li",
-                "Raymerry",
-                "Valerian"
-            ],
-            "Team 3": [
-                "Xuan Li",
-                "Holden",
-                "Kethos"
-            ],
-            "Team 4": [
                 "Xuan Li",
                 "Luvia",
                 "Sharon"
             ],
-            "Team 5": [
+            "Team 2": [
                 "Xuan Li",
                 "Xuan Chi",
                 "Sania"
+            ],
+            "Team 3": [
+                "Xuan Li",
+                "Lowan",
+                "Valerian"
+            ],
+            "Team 4": [
+                "Xuan Li",
+                "Lowan",
+                "Dokidoki"
+            ],
+            "Team 5": [
+                "Xuan Li",
+                "Lowan",
+                "Airon"
             ],
             "Team 6": [
                 "Xuan Li",
@@ -4970,6 +4134,8 @@
                 "Valerian"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 99,
             "pick_priority": 97,
@@ -4980,50 +4146,33 @@
         "name": "Yang",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/yang.png?raw=true",
         "element": "Blue",
-        "role": "Support/Buffer",
         "rarity": "SR",
+        "tier": "T4",
+        "role": "Support",
         "base_speed": 122,
         "lattice": "5|5|5",
-        "build": {
-            "shells": [
-                "TBD"
-            ],
-            "sets": [
-                "TBD"
-            ],
-            "mainstats": [
-                "TBD"
-            ],
-            "substats": [
-                "TBD"
-            ]
-        },
-        "counters": [
-            "Nathenn",
-            "Raymerry",
-            "Holden",
-            "Valerian"
+        "traits": [
+            "Advance",
+            "Buff",
+            "Cooldown Reduction",
+            "Strip"
         ],
-        "teams": {
-            "Team 1": [
-                "Yang",
-                "Liliam",
-                "Nathenn"
-            ],
-            "Team 2": [
-                "Yang",
-                "Raymerry",
-                "Kethos"
-            ],
-            "Team 3": [
-                "Yang",
-                "Holden",
-                "Valerian"
-            ]
+        "build": {
+            "shells": [],
+            "sets": [],
+            "mainstats": [],
+            "substats": []
         },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 72,
-            "pick_priority": 76,
+            "ban_priority": 40,
+            "pick_priority": 42,
             "speed_priority": 80
         }
     },
@@ -5031,10 +4180,17 @@
         "name": "Yeli",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/yeli.png?raw=true",
         "element": "Light",
-        "role": "Damage Dealer",
         "rarity": "SSR",
+        "tier": "T0.5",
+        "role": "Damage Dealer",
         "base_speed": 120,
         "lattice": "5|5|5",
+        "traits": [
+            "Buff Steal",
+            "Cleave",
+            "Debuff",
+            "Follow-up"
+        ],
         "build": {
             "shells": [
                 "Revelation"
@@ -5053,31 +4209,27 @@
                 "Speed"
             ]
         },
-        "counters": [
-            "Areal",
-            "Kethos",
-            "Holden",
-            "Raymerry"
-        ],
         "teams": {
             "Team 1": [
                 "Yeli",
-                "Areal",
-                "Nathenn"
+                "Lily",
+                "Freya"
             ],
             "Team 2": [
                 "Yeli",
-                "Raymerry",
-                "Valerian"
+                "Lily",
+                "Raymerry"
             ],
             "Team 3": [
                 "Yeli",
-                "Holden",
-                "Kethos"
+                "Turandot",
+                "Raymerry"
             ]
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
-            "ban_priority": 90,
+            "ban_priority": 93,
             "pick_priority": 88,
             "speed_priority": 84
         }

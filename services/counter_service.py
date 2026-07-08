@@ -15,5 +15,6 @@ class CounterService:
             "name": unit.get('name'),
             "image": unit.get('image'),
             "element": unit.get('element'),
-            "counters": unit.get('counters')
+            "counters": unit.get('counters'),
+            "countered_by": unit.get('countered_by')
         }

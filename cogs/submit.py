@@ -48,12 +48,12 @@ class SubmitModal(discord.ui.Modal, title='Suggest an update to animus informati
         
         if result.get("delivered"):
             await interaction.response.send_message(
-                "Your suggestion has been sent directly to the owner for review. Thanks for helping improve the data!",
+                "Your suggestion has been sent directly to the developer for review. Thanks for helping improve the data!",
                 ephemeral=True,
             )
         else:
             await interaction.response.send_message(
-                "Your suggestion was received, but I could not reach the owner through Discord DMs right now. Please try again later.",
+                "Your suggestion was received, but I could not reach the developer right now. Please try again later.",
                 ephemeral=True,
             )
 

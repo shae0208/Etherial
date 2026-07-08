@@ -43,9 +43,9 @@ class HelpCog(commands.Cog):
         if self.bot.user:
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)
         
-        embed.add_field(name='Commands', value=commands, inline=False)
-        embed.add_field(name='Premium Commands', value=premium_commands, inline=False)
-        embed.add_field(name='Contact', value=contact, inline=False)
+        embed.add_field(name='Commands:', value=commands, inline=False)
+        embed.add_field(name='Premium Commands:', value=premium_commands, inline=False)
+        embed.add_field(name='Additional Support:', value=contact, inline=False)
         
         await interaction.response.send_message(embed=embed)
         

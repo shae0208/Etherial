@@ -29,13 +29,18 @@ class CounterCog(commands.Cog):
             'Dark': discord.Color.purple()
         }
         
-        embed = discord.Embed(title=f"{data.get('name')} Counters", color=color_map.get(color_data))
+        embed = discord.Embed(title=f"{data.get('name')} Counter Analysis", color=color_map.get(color_data))
         
         if image_url:
             embed.set_thumbnail(url=image_url or self.bot.user.display_avatar.url)
                         
         embed.add_field(
-            name = "Counters",
+            name = "Countered By:",
+            value = '\n'.join(data.get('countered_by', [])) or 'No counter recommendations available.',
+            inline = False
+        )
+        embed.add_field(
+            name = "Counters:",
             value = '\n'.join(data.get('counters', [])) or 'No counter recommendations available.',
             inline = False,
         )

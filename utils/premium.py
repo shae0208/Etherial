@@ -3,7 +3,6 @@ import discord
 from functools import wraps
 from typing import Optional
 
-
 class PremiumView(discord.ui.View):
     def __init__(self):
         super().__init__(timeout=None)
@@ -24,10 +23,13 @@ def _parse_sku_ids(value: Optional[str]) -> list[int]:
     
     for part in value.replace(';', ',').split(','):
         cleaned = part.strip()
+        
         if not cleaned:
             continue
+        
         try:
             sku_ids.append(int(cleaned))
+            
         except ValueError:
             continue
 
@@ -35,6 +37,7 @@ def _parse_sku_ids(value: Optional[str]) -> list[int]:
 
 def get_premium_sku_ids() -> list[int]:
     discovered_ids = []
+    
     for env_name in ('PREMIUM_SKU_ID', 'PREMIUM_SKU_ID_2', 'PREMIUM_SKU_IDS'):
         discovered_ids.extend(_parse_sku_ids(os.getenv(env_name)))
 
@@ -96,7 +99,7 @@ def require_premium(sku_id: Optional[int] = None):
                     title = '🔒 Premium Feature',
                     description = (
                         "This command requires Etherial Premium.\n\n"
-                        "Purchase below to unlock advanced PvP tools:\n"
+                        "Purchase access below to unlock advanced PvP tools:\n"
                         " `/teams`\n"
                         " `/counters`\n"
                         " `/speedtune`\n"

@@ -27,12 +27,12 @@ class DraftCog(commands.Cog):
             embed.set_thumbnail(url=self.bot.user.display_avatar.url)
             
         embed.add_field(
-            name = 'Enemy Draft',
+            name = 'Enemy Draft:',
             value = '\n'.join(DraftService.format_team(enemy_team)),
             inline = False
         )
         embed.add_field(
-            name = 'Recommended Ban',
+            name = 'Recommended Ban:',
             value = recommended_ban or 'No ban recommendation available',
             inline = False
         )

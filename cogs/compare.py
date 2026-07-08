@@ -18,12 +18,20 @@ class CompareCog(commands.Cog):
         unit1 = data.get('animus1')
         unit2 = data.get('animus2')
         
+        def format_traits(traits):
+            if not traits:
+                return "Unknown"
+            if isinstance(traits, list):
+                return ", ".join(trait.replace("_", " ").title() for trait in traits)
+            return str(traits)
+
         def format_unit(unit):
             return (
-                f"Role: {unit.get('role')}\n"
-                f"Element: {unit.get('element')}\n"
-                f"Speed: {unit.get('base_speed')}\n"
-                f"Lattice: {unit.get('lattice')}"
+                f"Element: {unit.get('element')}\n\n"
+                f"Role: {unit.get('role')}\n\n"
+                f"Speed: {unit.get('base_speed')}\n\n"
+                f"Lattice: {unit.get('lattice')}\n\n"
+                f"Traits: {format_traits(unit.get('traits'))}"
             )
             
         embed = discord.Embed(title=f"{unit1.get('name')} vs {unit2.get('name')}", color=discord.Color.blurple())

@@ -52,11 +52,11 @@ class SubmitService:
                         color=discord.Color.blurple(),
                     )
                     
-                    embed.add_field(name='Submitted by', value=payload.get('submitted_by'), inline=False)
-                    embed.add_field(name='Premium', value=('Yes' if payload.get('is_premium') else 'No'), inline=False)
-                    embed.add_field(name='Animus', value=payload.get('animus') or 'No value provided.', inline=False)
-                    embed.add_field(name='Field', value=payload.get('path') or 'No value provided.', inline=False)
-                    embed.add_field(name='Suggested value', value=payload.get('value') or 'No value provided.', inline=False)
+                    embed.add_field(name='Submitted by:', value=payload.get('submitted_by'), inline=False)
+                    embed.add_field(name='Premium:', value=('Yes' if payload.get('is_premium') else 'No'), inline=False)
+                    embed.add_field(name='Animus:', value=payload.get('animus') or 'No value provided.', inline=False)
+                    embed.add_field(name='Field:', value=payload.get('path') or 'No value provided.', inline=False)
+                    embed.add_field(name='Suggested value:', value=payload.get('value') or 'No value provided.', inline=False)
                     
                     if payload['reason']:
                         embed.add_field(name='Reason', value=payload.get('reason'), inline=False)

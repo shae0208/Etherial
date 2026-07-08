@@ -33,27 +33,27 @@ class BuildCog(commands.Cog):
             embed.set_thumbnail(url=image_url or self.bot.user.display_avatar.url)
                     
         embed.add_field(
-            name = 'Lattice Requirements',
+            name = 'Lattice Requirements:',
             value = build.get('lattice') or 'No lattice recommendations available',
             inline = False 
         )
         embed.add_field(
-            name = 'Recommended Shells',
+            name = 'Recommended Shells:',
             value = '\n'.join(build_data.get('shells', [])) or 'No shell recommendations available.',
             inline = False
         )
         embed.add_field(
-            name = 'Recommended Sets',
+            name = 'Recommended Sets:',
             value = '\n'.join(build_data.get('sets', [])) or 'No set recommendations available.',
             inline = False
         )
         embed.add_field(
-            name = 'Main Stats',
+            name = 'Main Stats:',
             value = '\n'.join(build_data.get('mainstats', [])) or 'No mainstat recommendations available.',
             inline = False
         )
         embed.add_field(
-            name = 'Substats',
+            name = 'Substats:',
             value = '\n'.join(build_data.get('substats', [])) or 'No substat recommendations available.',
             inline = False
         )

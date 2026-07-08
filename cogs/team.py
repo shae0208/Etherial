@@ -37,8 +37,11 @@ class TeamCog(commands.Cog):
             embed.set_thumbnail(url=image_url or self.bot.user.display_avatar.url)
         
         for archetype, members in team_data.items():
+            if not members:
+                members = ["No team recommendations available."]
+                
             embed.add_field(
-                name = archetype,
+                name = f"{archetype}:",
                 value = ' | '.join(members),
                 inline = False
             )
