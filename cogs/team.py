@@ -9,7 +9,7 @@ class TeamCog(commands.Cog):
         self.bot = bot
     
     @app_commands.command(name='team', description='View team recommendations for the selected animus.')
-    @require_premium()
+    # @require_premium()
     async def team(self, interaction: discord.Interaction, animus: str):
         teams = TeamService.get_animus_teams(animus)
         

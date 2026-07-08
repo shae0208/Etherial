@@ -9,7 +9,7 @@ class SpeedTuneCog(commands.Cog):
         self.bot = bot
     
     @app_commands.command(name='speedtune', description='View speed tuning recommendation for the selected team.')
-    @require_premium()
+    # @require_premium()
     async def speedtune(self, interaction: discord.Interaction, animus1: str, animus2: str, animus3: str, animus4: str):
         team = [
             animus1,

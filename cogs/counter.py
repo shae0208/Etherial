@@ -10,7 +10,7 @@ class CounterCog(commands.Cog):
         self.bot = bot
 
     @app_commands.command(name='counter', description='View counter recommendations for the selected animus.')
-    @require_premium()
+    # @require_premium()
     async def counter(self, interaction: discord.Interaction, animus: str):
         data = CounterService.get_counters(animus)
 
