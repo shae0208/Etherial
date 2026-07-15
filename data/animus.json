@@ -46,8 +46,8 @@
         "counters": [],
         "countered_by": [],
         "draft": {
-            "ban_priority": 78,
-            "pick_priority": 72,
+            "ban_priority": 80,
+            "pick_priority": 75,
             "speed_priority": 90
         }
     },
@@ -98,7 +98,7 @@
         "draft": {
             "ban_priority": 95,
             "pick_priority": 92,
-            "speed_priority": 80
+            "speed_priority": 85
         }
     },
     "asal": {
@@ -173,7 +173,7 @@
         "countered_by": [
             "Raymerry",
             "Nathenn",
-            "Kethos"
+            "Lowan"
         ],
         "draft": {
             "ban_priority": 82,
@@ -242,9 +242,9 @@
             "Celince"
         ],
         "draft": {
-            "ban_priority": 70,
+            "ban_priority": 76,
             "pick_priority": 74,
-            "speed_priority": 95
+            "speed_priority": 94
         }
     },
     "batsby": {
@@ -2489,9 +2489,9 @@
             "★★☆☆ Santik"
         ],
         "draft": {
-            "ban_priority": 95,
-            "pick_priority": 98,
-            "speed_priority": 90
+            "ban_priority": 98,
+            "pick_priority": 100,
+            "speed_priority": 92
         }
     },
     "nell": {
@@ -2514,17 +2514,13 @@
             "mainstats": [],
             "substats": []
         },
-        "counters": [
-            "Sharon",
-            "Massiah",
-            "Areal",
-            "Kethos"
-        ],
         "teams": {
             "Team 1": [],
             "Team 2": [],
             "Team 3": []
         },
+        "counters": [],
+        "countered_by": [],
         "draft": {
             "ban_priority": 60,
             "pick_priority": 62,
