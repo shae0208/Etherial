@@ -19,7 +19,7 @@ class HelpCog(commands.Cog):
         commands = (
             "/help - View Etherial support information.\n"
             "/submit - Suggest a change to animus data for review.\n"
-            "/animus - View currently supported animus.\n"
+            "/tier - View current tier rankings.\n"
             "/build - View build guide for the selected animus.\n"
             "/compare - View comparison of two selected animus.\n"
         )
