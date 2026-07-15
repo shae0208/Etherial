@@ -34,38 +34,38 @@ class TierCog(commands.Cog):
             
         embed.add_field(
             name = 'Tier 0',
-            value = '\n'.join(t0_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t0_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 0.5',
-            value = '\n'.join(t05_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t05_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 1',
-            value = '\n'.join(t1_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t1_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 2',
-            value = '\n'.join(t2_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t2_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 3',
-            value = '\n'.join(t3_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t3_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 4',
-            value = '\n'.join(t4_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t4_names) or 'No animus found.',
+            inline = False
         )
         embed.add_field(
             name = 'Tier 5',
-            value = '\n'.join(t5_names) or 'No animus found.',
-            inline = True
+            value = ' • '.join(t5_names) or 'No animus found.',
+            inline = False
         )
 
         await interaction.response.send_message(embed=embed)
