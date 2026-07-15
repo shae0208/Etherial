@@ -1,22 +1,21 @@
 from services.data_manager import DataManager
 
-
-class AnimusService:
+class TierService:
     @staticmethod
-    def get_supported_animus():
+    def get_tierlist():
         data = DataManager.get_animus_data() or {}
         
-        grouped = {'SSR': [], 'SR': [], 'R': []}
+        grouped = {'T0': [], 'T0.5': [], 'T1': [], 'T2': [], 'T3': [], 'T4': [], 'T5': []}
 
         for unit in data.values():
             if not isinstance(unit, dict):
                 continue
 
-            rarity = str(unit.get('rarity', '')).strip().upper()
+            tier = str(unit.get('tier', '')).strip().upper()
             name = unit.get('name')
 
-            if rarity in grouped and name:
-                grouped[rarity].append(name)
+            if tier in grouped and name:
+                grouped[tier].append(name)
 
         for names in grouped.values():
             names.sort(key=str.lower)
