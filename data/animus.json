@@ -623,6 +623,51 @@
             "speed_priority": 95
         }
     },
+    "danvery": {
+        "name": "Danvery",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/danvery.png?raw=true",
+        "element": "Blue",
+        "rarity": "SSR",
+        "tier": "T1",
+        "role": "Support",
+        "base_speed": 122,
+        "lattice": "",
+        "traits": [
+            "Advance",
+            "Debuff",
+            "Delay",
+            "Strip"
+        ],
+        "build": {
+            "shells": [
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Swiftrush | Strive | Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC | HP | ACC"
+            ],
+            "substats": [
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
+            ]
+        },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
+        "draft": {
+            "ban_priority": 75,
+            "pick_priority": 75,
+            "speed_priority": 85
+        }
+    },
     "dinah": {
         "name": "Dinah",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/dinah.png?raw=true",
@@ -2748,6 +2793,53 @@
             "ban_priority": 68,
             "pick_priority": 72,
             "speed_priority": 92
+        }
+    },
+    "piayera": {
+        "name": "Piayera",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/piayera.png?raw=true",
+        "element": "Light",
+        "rarity": "SSR",
+        "tier": "T0",
+        "role": "Debuff",
+        "base_speed": 125,
+        "lattice": "5|5|5",
+        "traits": [
+            "Buff",
+            "Cooldown Reset",
+            "Delay",
+            "Hybrid(Support)"
+        ],
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Codex"
+            ],
+            "sets": [
+                "Swiftrush | Bulwark | Swiftsmite",
+                "Bloodbath | Swiftrush | Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC | HP | ACC"
+            ],
+            "substats": [
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
+            ]
+        },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
+        "draft": {
+            "ban_priority": 85,
+            "pick_priority": 75,
+            "speed_priority": 90
         }
     },
     "plume": {
