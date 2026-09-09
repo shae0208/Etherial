@@ -631,7 +631,7 @@
         "tier": "T1",
         "role": "Support",
         "base_speed": 122,
-        "lattice": "",
+        "lattice": "5|1|5",
         "traits": [
             "Advance",
             "Debuff",
@@ -1249,7 +1249,7 @@
         "rarity": "SSR",
         "tier": "T0.5",
         "base_speed": 126,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Debuff",
             "Hybrid(DPS)",
@@ -1293,7 +1293,7 @@
         "tier": "T1",
         "role": "Sustain",
         "base_speed": 127,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "CC",
             "Debuff",
@@ -1447,7 +1447,7 @@
         "tier": "T1",
         "role": "Damage Dealer",
         "base_speed": 120,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Cheat Death",
             "Debuff",
@@ -1501,7 +1501,7 @@
         "tier": "T1",
         "role": "Damage Dealer",
         "base_speed": 122,
-        "lattice": "TBD",
+        "lattice": "5|5|5",
         "traits": [
             "Advance",
             "Cheat Death",
@@ -2349,7 +2349,7 @@
         "tier": "T0.5",
         "role": "Sustain",
         "base_speed": 121,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff",
             "Cleanse",
@@ -2395,7 +2395,7 @@
         "tier": "T1",
         "role": "Control",
         "base_speed": 126,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Advance",
             "CC",
@@ -2473,7 +2473,7 @@
         "tier": "T1",
         "role": "Control",
         "base_speed": 122,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "CC",
             "Debuff"
@@ -2599,7 +2599,7 @@
         "tier": "T4",
         "role": "Support",
         "base_speed": 123,
-        "lattice": "TBD",
+        "lattice": "5|5|5",
         "traits": [
             "Advance",
             "Buff",
@@ -2632,7 +2632,7 @@
         "tier": "T0.5",
         "role": "Control",
         "base_speed": 126,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "CC",
             "Debuff",
@@ -2677,7 +2677,7 @@
         "tier": "T1",
         "role": "Support",
         "base_speed": 122,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff",
             "Cleanse",
@@ -2899,7 +2899,7 @@
         "tier": "T0",
         "role": "Debuff",
         "base_speed": 125,
-        "lattice": "5|5|5",
+        "lattice": "4|3|5",
         "traits": [
             "Buff",
             "Cooldown Reset",
@@ -3010,7 +3010,7 @@
         "tier": "T1",
         "role": "Damage Dealer",
         "base_speed": 121,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Advance",
             "Buff",
@@ -3227,7 +3227,7 @@
         "tier": "T3",
         "role": "Damage Dealer",
         "base_speed": 118,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "CC",
             "Delay"
@@ -3323,7 +3323,7 @@
         "tier": "T4",
         "role": "Damage Dealer",
         "base_speed": 116,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff",
             "Debuff",
@@ -3491,7 +3491,7 @@
         "tier": "T0.5",
         "role": "Damage Dealer",
         "base_speed": 128,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff",
             "Strip"
@@ -3534,7 +3534,7 @@
         "tier": "T5",
         "role": "Damage Dealer",
         "base_speed": 115,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "DoT"
         ],
@@ -3843,7 +3843,7 @@
         "tier": "T1",
         "role": "Support",
         "base_speed": 122,
-        "lattice": "TBD",
+        "lattice": "4|1|5",
         "traits": [
             "Advance",
             "Buff",
@@ -4031,7 +4031,7 @@
         "tier": "T1",
         "role": "Support",
         "base_speed": 117,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff Steal",
             "Cheat Death",
@@ -4143,7 +4143,7 @@
         "tier": "T2",
         "role": "Bruiser",
         "base_speed": 120,
-        "lattice": "TBD",
+        "lattice": "",
         "traits": [
             "Buff Steal",
             "Cleave",
