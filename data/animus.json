@@ -1493,6 +1493,58 @@
             "speed_priority": 75
         }
     },
+    "jolt": {
+        "name": "Jolt",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/jolt.png?raw=true",
+        "element": "Blue",
+        "rarity": "SSR",
+        "tier": "T1",
+        "role": "Damage Dealer",
+        "base_speed": 122,
+        "lattice": "TBD",
+        "traits": [
+            "Advance",
+            "Cheat Death",
+            "Cleanse",
+            "Debuff"
+        ],
+        "build": {
+            "shells": [
+                "Count"
+            ],
+            "sets": [
+                "Onslaught | Fury | Furyedge"
+            ],
+            "mainstats": [
+                "CDMG | CRIT | CDMG"
+            ],
+            "substats": [
+                "Crit rate",
+                "Crit damage",
+                "ATK",
+                "Speed"
+            ]
+        },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [
+            "Yeli",
+            "Massiah",
+            "Senyu"
+        ],
+        "countered_by": [
+            "Raymerry",
+            "Nathenn"
+        ],
+        "draft": {
+            "ban_priority": 85,
+            "pick_priority": 80,
+            "speed_priority": 75
+        }
+    },
     "kazami kazuyo": {
         "name": "Kazami Kazuyo",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kazami_kazuyo.png?raw=true",
@@ -2736,6 +2788,50 @@
             "ban_priority": 71,
             "pick_priority": 75,
             "speed_priority": 79
+        }
+    },
+    "oryes": {
+        "name": "Oryes",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/oryes.png?raw=true",
+        "element": "Green",
+        "rarity": "SSR",
+        "tier": "T1",
+        "role": "Support",
+        "base_speed": 120,
+        "lattice": "5|3|5",
+        "traits": [
+            "Buff",
+            "Cleanse",
+            "Debuff"
+        ],
+        "build": {
+            "shells": [
+                "Moon Bunny"
+            ],
+            "sets": [
+                "Swiftrush | Strive | Swiftsmite"
+            ],
+            "mainstats": [
+                "ACC | HP | ACC"
+            ],
+            "substats": [
+                "Speed",
+                "Accuracy",
+                "HP",
+                "DEF"
+            ]
+        },
+        "teams": {
+            "Team 1": [],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
+        "draft": {
+            "ban_priority": 85,
+            "pick_priority": 80,
+            "speed_priority": 90
         }
     },
     "palin": {
