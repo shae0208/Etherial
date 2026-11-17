@@ -1883,6 +1883,57 @@
             "speed_priority": 90
         }
     },
+    "kynessa": {
+        "name": "Kynessa",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/kynessa.png?raw=true",
+        "element": "Dark",
+        "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
+        "base_speed": 124,
+        "lattice": "5|5|5",
+        "traits": [
+            "Debuff",
+            "Delay",
+            "Advance",
+            "Windup"
+        ],
+        "build": {
+            "shells": [
+                "Jackal Guard",
+                "Champion Gator"
+            ],
+            "sets": [
+                "Wellspring | Swiftrush | Swiftsmite",
+                "Wellspring | Bramble | Etherplague"
+            ],
+            "mainstats": [
+                "HP | CRIT | HP"
+            ],
+            "substats": [
+                "Crit rate",
+                "Crit damage",
+                "HP",
+                "Speed"
+            ]
+        },
+        "teams": {
+            "Team 1": [
+                "Kynessa",
+                "Thalos",
+                "Areal"
+            ],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
+        "draft": {
+            "ban_priority": 95,
+            "pick_priority": 100,
+            "speed_priority": 90
+        }
+    },
     "lian": {
         "name": "Lian",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/lian.png?raw=true",
@@ -3774,6 +3825,57 @@
             "ban_priority": 91,
             "pick_priority": 90,
             "speed_priority": 95
+        }
+    },
+    "thalos": {
+        "name": "Thalos",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/thalos.png?raw=true",
+        "element": "Light",
+        "rarity": "SSR",
+        "tier": "T0",
+        "role": "Bruiser",
+        "base_speed": 123,
+        "lattice": "5|5|5",
+        "traits": [
+            "Debuff",
+            "Delay",
+            "Advance",
+            "Revive"
+        ],
+        "build": {
+            "shells": [
+                "Gigabyte",
+                "Champion Gator"
+            ],
+            "sets": [
+                "Wellspring | Strive | Etherplague",
+                "Wellspring | Bramble | Etherplague"
+            ],
+            "mainstats": [
+                "HP | CRIT | HP"
+            ],
+            "substats": [
+                "Crit rate",
+                "Crit damage",
+                "HP",
+                "Speed"
+            ]
+        },
+        "teams": {
+            "Team 1": [
+                "Thalos",
+                "Kynessa",
+                "Areal"
+            ],
+            "Team 2": [],
+            "Team 3": []
+        },
+        "counters": [],
+        "countered_by": [],
+        "draft": {
+            "ban_priority": 85,
+            "pick_priority": 92,
+            "speed_priority": 90
         }
     },
     "tiamat": {
